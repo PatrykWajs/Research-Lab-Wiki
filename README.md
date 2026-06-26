@@ -11,7 +11,8 @@ Independent, fully-cited research — investigations traced to peer-reviewed stu
 
 ## Research
 
-- **BPA in Thermal Receipts & Human Health** — `bpa-thermal-receipts/` — 22 cited studies; exposure route, health endpoints, BPS/BPF substitutes, EFSA-vs-FDA regulatory split, mitigation, evidence-graded verdict.
+- **BPA in Thermal Receipts & Human Health** — `bpa-thermal-receipts/` — 25 cited studies; exposure route, health endpoints, BPS/BPF substitutes, EFSA-vs-FDA regulatory split, mitigation, evidence-graded verdict.
+- **Methodology** — `methodology/` — the shared evidence-grade + confidence + verification key every research points back to.
 
 ## Adding a research
 

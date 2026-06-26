@@ -92,9 +92,48 @@ footer.site{max-width:var(--maxw);margin:0 auto;padding:30px 22px 64px;border-to
 footer.site b{color:var(--ink)}
 footer.site a{color:var(--accent-d);text-decoration:none}
 
+/* ---------- Reading-progress bar ---------- */
+.progress{position:fixed;top:60px;left:0;right:0;height:3px;background:transparent;z-index:19;pointer-events:none}
+.progress>span{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--accent),var(--accent-d));transition:width .08s linear}
+
+/* ---------- ToC active link ---------- */
+nav.toc ol a.active{color:var(--accent-d);font-weight:750}
+
+/* ---------- Print / Save-as-PDF button ---------- */
+.print-btn{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;font-size:12.5px;font-weight:650;color:var(--accent-d);background:var(--surface);border:1px solid var(--accent-edge);border-radius:8px;padding:6px 13px;cursor:pointer;margin:.2em 0 0}
+.print-btn:hover{background:var(--accent-soft);border-color:var(--accent)}
+
+/* ---------- Hub search / filter ---------- */
+input.filter{display:block;width:100%;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;font-size:15px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:11px 15px;margin:0 0 20px;outline:none}
+input.filter:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
+.no-results{display:none;color:var(--muted);font-style:italic;margin:.2em 0}
+
+/* ---------- Sticky ToC rail (wide screens only) ---------- */
+@media (min-width:1240px){
+  nav.toc{position:fixed;top:90px;left:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:80vh;overflow:auto;font-size:.9rem}
+  nav.toc .lbl{margin-bottom:7px}
+  nav.toc ol{line-height:1.75}
+}
+
 @media (max-width:620px){
   body{font-size:17.5px}
   h1{font-size:1.85rem}
   main{padding:34px 18px 70px}
   header.site nav a{margin-left:13px}
+}
+
+/* ---------- Print stylesheet ---------- */
+@media print{
+  header.site,footer.site,.progress,.print-btn,nav.toc,input.filter,.no-results{display:none !important}
+  body{background:#fff;color:#000;font-size:11pt;line-height:1.5}
+  main{max-width:100%;margin:0;padding:0}
+  a{color:#000;text-decoration:none}
+  h1{font-size:20pt}
+  h2{font-size:14pt;border-color:#000;break-after:avoid}
+  h3{break-after:avoid}
+  .callout{background:#fff;border:1px solid #999;break-inside:avoid}
+  .badge{background:#000;color:#fff}
+  table,.table-wrap{break-inside:avoid}
+  thead th{background:#000 !important;color:#fff !important}
+  ol.refs a[href]::after{content:" (" attr(href) ")";font-size:8.5pt;color:#333;word-break:break-all}
 }
