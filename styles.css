@@ -28,6 +28,8 @@ header.site .logo .lab{color:var(--accent-d);font-weight:700}
 header.site .spacer{flex:1}
 header.site nav a{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;margin-left:18px}
 header.site nav a:hover{color:var(--accent-d)}
+header.site nav a.lang{border:1px solid var(--accent-edge);border-radius:7px;padding:3px 9px;color:var(--accent-d);font-size:12.5px;letter-spacing:.04em}
+header.site nav a.lang:hover{background:var(--accent-soft);border-color:var(--accent)}
 
 /* ---------- Layout ---------- */
 main{max-width:var(--maxw);margin:0 auto;padding:50px 22px 90px}
@@ -108,11 +110,16 @@ input.filter{display:block;width:100%;font-family:-apple-system,BlinkMacSystemFo
 input.filter:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-soft)}
 .no-results{display:none;color:var(--muted);font-style:italic;margin:.2em 0}
 
-/* ---------- Sticky ToC rail (wide screens only) ---------- */
+/* ---------- Sticky side rails: ToC (left) + Key Takeaways (right), wide screens only ---------- */
 @media (min-width:1240px){
-  nav.toc{position:fixed;top:90px;left:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:80vh;overflow:auto;font-size:.9rem}
+  nav.toc{position:fixed;top:90px;left:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:82vh;overflow:auto;font-size:.9rem}
   nav.toc .lbl{margin-bottom:7px}
   nav.toc ol{line-height:1.75}
+  /* Key Takeaways → mirrored sticky rail on the right (no longer a box at the top) */
+  .callout.takeaways{position:fixed;top:90px;right:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:82vh;overflow:auto;font-size:.82rem;padding:14px 16px}
+  .callout.takeaways .lbl{margin-bottom:6px}
+  .callout.takeaways ul{padding-left:1.05em !important;line-height:1.45}
+  .callout.takeaways li{margin:.5em 0}
 }
 
 @media (max-width:620px){
@@ -126,6 +133,7 @@ input.filter:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-
 @media print{
   header.site,footer.site,.progress,.print-btn,nav.toc,input.filter,.no-results{display:none !important}
   body{background:#fff;color:#000;font-size:11pt;line-height:1.5}
+  .callout.takeaways{position:static !important;width:auto !important;max-height:none;font-size:inherit;padding:14px 18px}
   main{max-width:100%;margin:0;padding:0}
   a{color:#000;text-decoration:none}
   h1{font-size:20pt}
