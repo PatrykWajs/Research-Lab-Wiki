@@ -1,0 +1,94 @@
+site_name: Research Lab Wiki
+site_description: Independent, fully-cited research — investigations traced to primary studies, evidence-graded, and weighed honestly. In English and Greek.
+site_author: Patryk Wajs
+site_url: https://patrykwajs.github.io/Research-Lab-Wiki/
+repo_url: https://github.com/PatrykWajs/Research-Lab-Wiki
+repo_name: PatrykWajs/Research-Lab-Wiki
+
+docs_dir: docs
+use_directory_urls: true
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  favicon: assets/favicon.svg
+  logo: assets/favicon.svg
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Inter
+    code: JetBrains Mono
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.top
+    - navigation.tracking
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tooltips
+    - toc.follow
+
+extra:
+  generator: true
+  alternate:
+    - name: English
+      link: /Research-Lab-Wiki/
+      lang: en
+    - name: Ελληνικά
+      link: /Research-Lab-Wiki/el/
+      lang: el
+
+extra_css:
+  - stylesheets/extra.css
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+  - minify:
+      minify_html: true
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.magiclink
+  - attr_list
+  - md_in_html
+  - tables
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+not_in_nav: |
+  /index.md
+  /el/index.md
+
+nav:
+  - Research:
+      - BPA in Thermal Receipts & Human Health: bpa-thermal-receipts.md
+  - Methodology: methodology.md
+  - Ελληνικά:
+      - BPA στις Θερμικές Αποδείξεις: el/bpa-thermikes-apodeixeis.md
+      - Μεθοδολογία: el/methodologia.md

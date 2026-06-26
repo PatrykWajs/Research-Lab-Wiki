@@ -1,0 +1,32 @@
+---
+description: Independent, fully-cited research — exposure routes, health endpoints, evidence-graded verdicts. In English and Greek.
+hide:
+  - navigation
+---
+
+# Research Lab Wiki
+
+Self-directed, fully-cited investigations — each one traced to peer-reviewed studies and official sources, weighed honestly, and closed with an evidence-graded verdict.
+
+<div class="grid cards" markdown>
+
+-   :material-flask-outline:{ .lg .middle } __BPA in Thermal Receipts & Human Health__
+
+    ---
+
+    How bisphenol A from till and card receipts gets into the body, what it does, and how real the risk is — for the average person versus cashiers. **29 cited studies**, evidence-graded.
+
+    [:octicons-arrow-right-24: Read the research](bpa-thermal-receipts.md)
+
+-   :material-scale-balance:{ .lg .middle } __Methodology__
+
+    ---
+
+    How every research here grades evidence, states confidence, and verifies each citation before it is published.
+
+    [:octicons-arrow-right-24: How this is graded](methodology.md)
+
+</div>
+
+!!! info "Unlisted"
+    A public link, but excluded from search engines (`noindex`). Citations point only to public, independently verifiable sources (DOIs / official agencies). Informational only, not medical advice. Available in **English** and **Ελληνικά** — use the language selector, top right.

@@ -5,6 +5,7 @@ import pathlib
 from PIL import Image, ImageDraw, ImageFont
 
 ROOT = pathlib.Path(__file__).resolve().parent
+ASSETS = ROOT / "docs" / "assets"
 W, H = 1200, 630
 BG=(246,249,251); INK=(31,42,55); TEAL=(13,148,136); TEALD=(15,118,110); MUTED=(90,106,123); LINE=(225,233,239)
 
@@ -23,7 +24,7 @@ d.rounded_rectangle([m, m, W-m, H-m], radius=30, fill=(255,255,255), outline=LIN
 d.rounded_rectangle([m, m, W-m, m+12], radius=6, fill=TEAL)
 
 # real flask logo (already rendered to PNG)
-logo = Image.open(ROOT / "favicon-180.png").convert("RGBA").resize((150, 150))
+logo = Image.open(ASSETS / "favicon-180.png").convert("RGBA").resize((150, 150))
 img.paste(logo, (m+56, m+66), logo)
 
 x = m + 240
@@ -36,5 +37,5 @@ d.text((m+58, H-m-118), "Traced to primary studies, evidence-graded, weighed hon
 d.text((m+58, H-m-62),  "English  &  Ελληνικά      ·      patrykwajs.github.io/Research-Lab-Wiki",
        font=font(ARIALB, 27), fill=TEALD)
 
-img.save(ROOT / "og-cover.png", "PNG")
+img.save(ASSETS / "og-cover.png", "PNG")
 print("wrote og-cover.png", img.size)
