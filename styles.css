@@ -1,0 +1,100 @@
+/* Research Lab Wiki — clinical "white-coat" palette (white + teal). Project site → relative asset paths. */
+:root{
+  --bg:#f6f9fb; --surface:#ffffff; --ink:#1f2a37; --muted:#647587; --line:#e6edf2;
+  --accent:#0d9488;        /* clinical teal */
+  --accent-d:#0f766e;      /* darker teal (links/headings) */
+  --accent-soft:#e9f8f5;   /* teal tint for callouts */
+  --accent-edge:#bfe9e1;
+  --warn-bg:#fdf6ec; --warn-edge:#f0dcb8; --warn-ink:#8a5a12;
+  --ok:#0f766e; --bad:#c0392b;
+  --maxw:780px; --radius:14px;
+  --shadow:0 1px 2px rgba(15,23,42,.04), 0 10px 28px rgba(15,23,42,.05);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%; scroll-behavior:smooth}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font-family:"Charter","Iowan Old Style","Palatino Linotype",Palatino,Georgia,serif;
+  font-size:18.5px; line-height:1.68; text-rendering:optimizeLegibility; -webkit-font-smoothing:antialiased;
+}
+.sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,Helvetica,Arial,sans-serif}
+
+/* ---------- Header (clean white, clinical) ---------- */
+header.site{position:sticky;top:0;z-index:20;background:rgba(255,255,255,.92);backdrop-filter:saturate(1.6) blur(8px);border-bottom:1px solid var(--line)}
+header.site .bar{max-width:var(--maxw);margin:0 auto;padding:0 22px;height:60px;display:flex;align-items:center;gap:14px;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif}
+header.site .logo{display:flex;align-items:center;gap:11px;color:var(--ink);text-decoration:none;font-weight:750;letter-spacing:.2px;font-size:1.02rem}
+header.site .logo img{width:28px;height:28px;border-radius:7px;display:block}
+header.site .logo .lab{color:var(--accent-d);font-weight:700}
+header.site .spacer{flex:1}
+header.site nav a{color:var(--muted);text-decoration:none;font-size:14px;font-weight:600;margin-left:18px}
+header.site nav a:hover{color:var(--accent-d)}
+
+/* ---------- Layout ---------- */
+main{max-width:var(--maxw);margin:0 auto;padding:50px 22px 90px}
+.eyebrow{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:var(--accent-d);font-weight:750;margin:0 0 12px}
+h1{font-size:2.35rem;line-height:1.13;margin:.05em 0 .3em;letter-spacing:-.018em;font-weight:760}
+h2{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;font-size:1.4rem;font-weight:720;margin:2.3em 0 .55em;letter-spacing:-.01em;padding-bottom:.3em;border-bottom:2px solid var(--line);scroll-margin-top:74px}
+h3{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Inter,sans-serif;font-size:1.1rem;font-weight:680;margin:1.6em 0 .35em;color:var(--accent-d)}
+p{margin:.72em 0}
+a{color:var(--accent-d);text-decoration-thickness:1px;text-underline-offset:2px}
+strong{color:var(--ink);font-weight:680}
+hr{border:0;border-top:1px solid var(--line);margin:2.6em 0}
+small,.small{font-size:.82rem;color:var(--muted)}
+
+/* ---------- Hub ---------- */
+.lede{font-size:1.24rem;line-height:1.5;color:#41505f;margin:.25em 0 1.5em}
+.count{font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:13px;color:var(--muted);margin:0 0 22px;font-weight:600;text-transform:uppercase;letter-spacing:.05em}
+.cards{display:grid;gap:20px}
+.card{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);padding:26px 28px;box-shadow:var(--shadow);transition:border-color .16s,box-shadow .16s,transform .16s}
+.card:hover{border-color:var(--accent);box-shadow:0 2px 4px rgba(15,23,42,.05),0 16px 38px rgba(13,148,136,.13);transform:translateY(-3px)}
+.card h3{margin:.1em 0 .35em;font-size:1.32rem;color:var(--ink);font-weight:740}
+.card .desc{margin:.35em 0;color:#46555f;font-size:1rem;line-height:1.55}
+.card .row{display:flex;flex-wrap:wrap;gap:9px 14px;align-items:center;margin-top:16px;font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:12.5px;color:var(--muted);font-weight:600}
+.card .row .more{margin-left:auto;color:var(--accent-d);font-weight:700}
+
+/* ---------- Article meta ---------- */
+ul.meta{list-style:none;display:flex;flex-wrap:wrap;gap:9px 20px;margin:.5em 0 0;padding:0;font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:13.5px;color:var(--muted)}
+ul.meta b{color:var(--ink)}
+.badge{display:inline-block;font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:11px;font-weight:750;letter-spacing:.05em;text-transform:uppercase;padding:4px 11px;border-radius:999px;background:var(--accent);color:#fff;vertical-align:middle}
+
+/* ---------- Callouts ---------- */
+.callout{background:var(--accent-soft);border:1px solid var(--accent-edge);border-left:4px solid var(--accent);border-radius:10px;padding:16px 20px;margin:1.4em 0;font-size:.98em}
+.callout.tldr{font-size:1.03em}
+.callout.warn{background:var(--warn-bg);border-color:var(--warn-edge);border-left-color:#cf962f}
+.callout .lbl{display:block;font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:11px;letter-spacing:.13em;text-transform:uppercase;font-weight:750;color:var(--accent-d);margin-bottom:5px}
+.callout.warn .lbl{color:var(--warn-ink)}
+.callout ul{margin:.25em 0 0}
+.callout.toc ol{margin:.2em 0 0}
+
+/* ---------- Citations ---------- */
+sup.cite{font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:.62em;font-weight:750;line-height:0}
+sup.cite a{color:var(--accent-d);text-decoration:none;padding:0 1px}
+sup.cite a:hover{text-decoration:underline}
+
+/* ---------- Table ---------- */
+.table-wrap{overflow-x:auto;margin:1.4em 0}
+table{border-collapse:collapse;width:100%;font-size:.9rem;font-family:-apple-system,BlinkMacSystemFont,sans-serif;background:var(--surface);border:1px solid var(--line);border-radius:10px;overflow:hidden}
+th,td{text-align:left;padding:10px 13px;border-bottom:1px solid var(--line);vertical-align:top}
+thead th{background:var(--accent-d);color:#fff;font-size:.8rem;letter-spacing:.02em;font-weight:650}
+tbody tr:last-child td{border-bottom:0}
+tbody tr:nth-child(even){background:#f4fafa}
+td .v-true{color:var(--ok);font-weight:750}
+td .v-false{color:var(--bad);font-weight:750}
+
+/* ---------- References ---------- */
+ol.refs{font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:14.5px;line-height:1.55;padding-left:1.5em}
+ol.refs li{margin:.6em 0;padding-left:.2em}
+ol.refs li a{word-break:break-word}
+.ref-anchor{scroll-margin-top:74px}
+
+/* ---------- Footer ---------- */
+footer.site{max-width:var(--maxw);margin:0 auto;padding:30px 22px 64px;border-top:1px solid var(--line);font-family:-apple-system,BlinkMacSystemFont,sans-serif;font-size:12.5px;color:var(--muted);line-height:1.6}
+footer.site b{color:var(--ink)}
+footer.site a{color:var(--accent-d);text-decoration:none}
+
+@media (max-width:620px){
+  body{font-size:17.5px}
+  h1{font-size:1.85rem}
+  main{padding:34px 18px 70px}
+  header.site nav a{margin-left:13px}
+}
