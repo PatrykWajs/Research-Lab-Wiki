@@ -115,10 +115,11 @@ input.filter:focus{border-color:var(--accent);box-shadow:0 0 0 3px var(--accent-
   nav.toc{position:fixed;top:90px;left:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:82vh;overflow:auto;font-size:.9rem}
   nav.toc .lbl{margin-bottom:7px}
   nav.toc ol{line-height:1.75}
-  /* Key Takeaways → mirrored sticky rail on the right (no longer a box at the top) */
-  .callout.takeaways{position:fixed;top:90px;right:max(16px, calc((100vw - var(--maxw))/2 - 224px));width:206px;margin:0;max-height:82vh;overflow:auto;font-size:.82rem;padding:14px 16px}
-  .callout.takeaways .lbl{margin-bottom:6px}
-  .callout.takeaways ul{padding-left:1.05em !important;line-height:1.45}
+  /* Key Takeaways → right sticky rail (no longer a box at the top). Width fills the right
+     gutter and grows with the viewport; no scrollbar — it sizes to its content. */
+  .callout.takeaways{position:fixed;top:90px;right:20px;width:max(206px, calc((100vw - var(--maxw))/2 - 38px));margin:0;font-size:.86rem;padding:16px 18px}
+  .callout.takeaways .lbl{margin-bottom:7px}
+  .callout.takeaways ul{padding-left:1.05em !important;line-height:1.5}
   .callout.takeaways li{margin:.5em 0}
 }
 
