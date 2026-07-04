@@ -18,6 +18,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](bpa-thermal-receipts.md)
 
+-   :material-bone:{ .lg .middle } __Collagen: What It Actually Does vs What People Think__
+
+    ---
+
+    Sleep, gut, skin, joints, bone, muscle — which collagen claims are real, and which are just a glycine effect. **61 cited studies**, funding-flagged.
+
+    [:octicons-arrow-right-24: Read the research](collagen.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

@@ -20,12 +20,16 @@ MODEL = "gpt-4o"
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
     "index.md":               ("el/index.md",                 {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
-                                                                "](methodology.md)": "](methodologia.md)"}),
-    "bpa-thermal-receipts.md":("el/bpa-thermikes-apodeixeis.md", {}),
-    "methodology.md":         ("el/methodologia.md",           {}),
+                                                                "](methodology.md)": "](methodologia.md)",
+                                                                "](collagen.md)": "](kollagono.md)"}),
+    "collagen.md":            ("el/kollagono.md",              {}),
 }
 
-PROTECT_WORDS = ["Research Lab Wiki","BPAF","BPA","BPS","BPF","EFSA","FDA","ECHA","NHANES","NTP",
+PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
+    "WOMAC","VISA-A","PINP","P1NP","CTX","NAC","DIAAS","PDCAAS","AMSTAR","GRADE","NMDA","CONSIST","ApoE",
+    "Rousselot","Gelita","GELITA","TENDOFORTE","Nitta","Nippi","InterHealth","Myung","Park","Konig","König",
+    "Liang","Oikawa","Yamadera","Sugaya","Grasset","Reynolds","Ravindran","Yuenyongviwat","Bischof","Sugihara",
+    "BPAF","BPA","BPS","BPF","EFSA","FDA","ECHA","NHANES","NTP",
     "REACH","SVHC","TDI","HPG","DNA","CLARITY","SHBG","Pergafast","Biedermann","Tschudin","Grob",
     "Hormann","Ehrlich","Swan","Huberman","Varghese","Hall","Alharbi","Barakat","BfR","DOI","PMID",
     "JEG-Tox","EPIC-Norfolk","Th17","8-OHdG","NaN"]
