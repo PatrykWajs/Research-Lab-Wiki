@@ -32,7 +32,8 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "BPAF","BPA","BPS","BPF","EFSA","FDA","ECHA","NHANES","NTP",
     "REACH","SVHC","TDI","HPG","DNA","CLARITY","SHBG","Pergafast","Biedermann","Tschudin","Grob",
     "Hormann","Ehrlich","Swan","Huberman","Varghese","Hall","Alharbi","Barakat","BfR","DOI","PMID",
-    "JEG-Tox","EPIC-Norfolk","Th17","8-OHdG","NaN"]
+    "JEG-Tox","EPIC-Norfolk","Th17","8-OHdG","NaN",
+    "GAIT","mTORC1","Clegg","Aussieker","McKendry","Buchanan","Kumar","Hazen","Biswas","Hilser","Jerger","Lee SK"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
