@@ -22,9 +22,17 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     ---
 
-    Sleep, gut, skin, joints, bone, muscle — which collagen claims are real, and which are just a glycine effect. **61 cited studies**, funding-flagged.
+    Sleep, gut, skin, joints, bone, muscle — which collagen claims are real, and which are just a glycine effect. **74 cited studies**, funding-flagged.
 
     [:octicons-arrow-right-24: Read the research](collagen.md)
+
+-   :material-arm-flex:{ .lg .middle } __Testosterone: What Actually Raises It vs What People Think__
+
+    ---
+
+    Diet, sleep, supplements, no-fap, seed oils, sun, plastics — which "boost testosterone naturally" claims hold up, and which (soy, pomegranate, no-fap, sun-on-testicles) are myths. **56 cited studies**, evidence-graded.
+
+    [:octicons-arrow-right-24: Read the research](testosterone.md)
 
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 

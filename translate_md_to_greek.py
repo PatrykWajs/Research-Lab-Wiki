@@ -21,8 +21,9 @@ MODEL = "gpt-4o"
 PAGES = {
     "index.md":               ("el/index.md",                 {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
                                                                 "](methodology.md)": "](methodologia.md)",
-                                                                "](collagen.md)": "](kollagono.md)"}),
-    "collagen.md":            ("el/kollagono.md",              {}),
+                                                                "](collagen.md)": "](kollagono.md)",
+                                                                "](testosterone.md)": "](testosteroni.md)"}),
+    "testosterone.md":        ("el/testosteroni.md",          {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)"}),
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -33,7 +34,11 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "REACH","SVHC","TDI","HPG","DNA","CLARITY","SHBG","Pergafast","Biedermann","Tschudin","Grob",
     "Hormann","Ehrlich","Swan","Huberman","Varghese","Hall","Alharbi","Barakat","BfR","DOI","PMID",
     "JEG-Tox","EPIC-Norfolk","Th17","8-OHdG","NaN",
-    "GAIT","mTORC1","Clegg","Aussieker","McKendry","Buchanan","Kumar","Hazen","Biswas","Hilser","Jerger","Lee SK"]
+    "GAIT","mTORC1","Clegg","Aussieker","McKendry","Buchanan","Kumar","Hazen","Biswas","Hilser","Jerger","Lee SK",
+    "Travison","Mazur","Corona","Leproult","Van Cauter","Pilz","Lerchbaum","Abu-Zaid","Prasad","Koehler","Morgado",
+    "Fornalik","Lopresti","Leisegang","Neychev","Melville","Volek","Whittaker","Reed","Santi","Maldonado-Cárceles",
+    "Krüger","Exton","Geniole","Hayes","Myerson","Neustadt","Senathirajah","Al-Dujaili","Jiang","Fui","Grossmann",
+    "EMAS","MMAS","DEHP","PUFA","SFA","MUFA","DHEA","StAR","Withania","Eurycoma","Tribulus","Arjuna","Natural Ltd"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
