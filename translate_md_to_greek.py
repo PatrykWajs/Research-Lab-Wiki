@@ -24,6 +24,9 @@ PAGES = {
                                                                 "](collagen.md)": "](kollagono.md)",
                                                                 "](testosterone.md)": "](testosteroni.md)"}),
     "testosterone.md":        ("el/testosteroni.md",          {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)"}),
+    "collagen.md":            ("el/kollagono.md",             {}),
+    "bpa-thermal-receipts.md":("el/bpa-thermikes-apodeixeis.md", {}),
+    "methodology.md":         ("el/methodologia.md",          {}),
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -47,14 +50,14 @@ _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, revers
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
     r'(\[\^[A-Za-z0-9]+\]|\[[^\]]*\]\([^)]*\)|`[^`]+`|:[a-z0-9_+-]+:|&[#A-Za-z0-9]+;|'
-    + _WORD_ALT + r'|\S*\d\S*)')
-L, R = '', ''
+    + _WORD_ALT + r'|\d[\d.,:%°+/×]*(?:[-–]\d[\d.,:%°+/×]*)*)')
+L, R = '⟦', '⟧'
 
 SYS = ("You are a professional EN→EL (Greek) translator for a scientific health-research website "
        "written in Markdown. Translate each given snippet into natural, fluent Greek. HARD RULES: "
        "(1) Some snippets contain placeholder tokens — a private-use bracket char, a number, a closing "
        "bracket char. Keep EVERY placeholder EXACTLY as written, in a natural position; never drop, "
-       "translate, space-out, merge, or renumber them. (2) PRESERVE all Markdown formatting exactly: "
+       "translate, space-out, merge, or renumber them. CRITICAL: translate EVERY other word into Greek, INCLUDING any English word sitting immediately before or after a placeholder — a placeholder is only a marker and never means leave the neighbouring word in English. (2) PRESERVE all Markdown formatting exactly: "
        "**bold**, *italic*, `code`. Do not add or remove markup. (3) Do NOT translate chemical names, "
        "acronyms, proper names, units, numbers, DOIs or URLs. (4) Keep the brand 'Research Lab Wiki' in "
        "Latin script. (5) Do not add, drop, or merge content. Return JSON {\"t\":[...]} with exactly the "
