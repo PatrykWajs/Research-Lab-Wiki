@@ -30,7 +30,7 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     ---
 
-    Diet, sleep, supplements, no-fap, seed oils, sun, plastics — which "boost testosterone naturally" claims hold up, and which (soy, pomegranate, no-fap, sun-on-testicles) are myths. **56 cited studies**, evidence-graded.
+    Diet, sleep, supplements, no-fap, seed oils, sun, plastics — which "boost testosterone naturally" claims hold up, and which (soy, pomegranate, no-fap, sun-on-testicles) are myths. **94 cited studies**, evidence-graded.
 
     [:octicons-arrow-right-24: Read the research](testosterone.md)
 

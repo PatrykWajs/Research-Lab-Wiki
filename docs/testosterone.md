@@ -1,12 +1,12 @@
 ---
-description: What actually raises testosterone naturally vs what people think — diet, sleep, supplements, no-fap, seed oils, sun, plastics — 56 cited studies, evidence-graded, funding-flagged.
+description: What actually raises testosterone naturally vs what people think — diet, sleep, supplements, no-fap, seed oils, sun, plastics — 94 cited studies, evidence-graded, funding-flagged.
 ---
 
 # Testosterone: What Actually Raises It vs What People Think
 
 > Men's-health seminars and carnivore-diet guides promise to "boost testosterone naturally" with a long list of foods, supplements, no-fap, sun exposure and lifestyle rules. Which of those actually work, how strong is the evidence, and which are myths?
 
-**Complete** · Published 10 July 2026 · *Literature current as of 10 July 2026* · **56 cited studies** · Confidence: **High** on the "restore-not-boost" framing and the debunked myths · **Moderate** on the exact magnitudes (sleep, ashwagandha).
+**Complete** · Published 10 July 2026 · *Updated 11 July 2026 (+38 sources)* · **94 cited studies** · Confidence: **High** on the "restore-not-boost" framing and the debunked myths · **Moderate** on the exact magnitudes (sleep, ashwagandha).
 
 !!! abstract "TL;DR"
     For a healthy man, "natural testosterone optimization" is mostly **deficiency-correction and body composition, not boosting**. Three levers do almost all the real work: **lose excess body fat** (the single biggest one),[^S7] **protect sleep**,[^S9] and **don't be deficient** in vitamin D or zinc — correcting a real deficiency helps, supplementing an already-healthy man does nothing.[^S14][^S18] The population decline that these guides cite is **real** but its cause is unresolved.[^S1][^S4] Most of the popular "boost" list fails: the acute training/sex testosterone spike is **inert** for building muscle,[^S11] vitamin-D/zinc/magnesium/selenium only help in deficiency, the pomegranate "+30%" traces to an **unrefereed conference abstract**,[^S42] "seed oils crash testosterone" rests on one **n=12 study from 1997**,[^S31] "sunning the testicles raised T 200%" is a **flawed 1939 study**,[^S53] **soy lowering testosterone is a myth**,[^S36] and the popular **"cut masturbation to raise T"** advice rests on a study that was **RETRACTED in 2021**.[^S43] Endocrine disruptors (phthalates, BPA) are real but modest — and it's the leached chemicals, not the plastic mass, that matter.[^S49][^S51] The best-evidenced supplement is **ashwagandha**, and even it is modest and industry-heavy.[^S22] No natural protocol reaches the "900-1000 ng/dL" targets these guides set; that needs exogenous testosterone.
@@ -105,6 +105,20 @@ Both guides are directionally right that plastics and chemicals matter, and both
 
 Everything else — pomegranate protocols, no-fap, seed-oil avoidance, sun-on-testicles, zinc/magnesium megadoses in replete men, soy fear — is small, unproven, or a myth. This is informational, not medical advice; measured low testosterone with symptoms is a doctor's evaluation, not a supplement problem.
 
+## 11. What a second research pass added
+
+A follow-up pass added 38 more verified studies and sharpened several points:
+
+- **Sugar has a mechanism now:** a 75-g glucose load acutely drops total testosterone ~25% for about two hours,[^S57] but it's a transient post-meal dip — the lasting harm is via body fat. And a **calorie deficit only raises testosterone if you're carrying excess fat**; in lean men, under-eating can *lower* it.[^S62]
+- **Chronic endurance overtraining lowers resting testosterone** (the "exercise-hypogonadal male condition"),[^S68] a real caveat to "exercise raises T" — it's high-volume energy deficit, not intensity.
+- **Sleep, more precisely:** only *total* sleep deprivation clearly lowers testosterone; partial restriction is inconsistent,[^S64] and the sleep-apnea link is largely explained by body fat.
+- **Creatine and hair loss:** creatine is the one supplement the testosterone crowd genuinely should take, and the hair-loss fear rests on a single 2009 study that raised the DHT ratio but *never measured hair*.[^S69] The first trial to actually measure hair outcomes (2025) found no effect.[^S70]
+- **More "boosters" fall:** maca reliably helps libido but does **not** change testosterone;[^S82] boron and omega-3 don't raise it in healthy men; and vitamin D was null even in a trial of men with *low* testosterone.[^S74] (Counterintuitively, smoking is associated with *higher* testosterone[^S72] — an association, not advice.)
+- **Anabolic steroids** reach high numbers only by shutting down your own production, causing testicular atrophy and infertility.[^S93] "Normal" itself is wide: harmonized data put healthy young men at **264–916 ng/dL**,[^S91] so a "900–1000" target is high-normal, not a level to force.
+- **The decline in context:** the population testosterone drop extends into young men, alongside a **~50% decline in sperm counts** since the 1970s[^S89] — the reproductive-health backdrop to the endocrine-disruptor concern.
+
+None of it changes the headline: **lose fat, protect sleep, fix real deficiencies.** The rest is small, conditional, or myth.
+
 ---
 
 [^S1]: Travison TG, et al. (2007) *J Clin Endocrinol Metab* 92(1):196-202. Population-level decline in serum testosterone in American men (MMAS, ~1,500 men). DOI [10.1210/jc.2006-1375](https://doi.org/10.1210/jc.2006-1375) · PMID 17062768.
@@ -142,3 +156,15 @@ Everything else — pomegranate protocols, no-fap, seed-oil avoidance, sun-on-te
 [^S52]: Hayes TB, et al. (2010) *PNAS* 107(10):4612-4617. Atrazine feminizes male African clawed frogs at low dose — amphibian; weak human extrapolation. DOI [10.1073/pnas.0909519107](https://doi.org/10.1073/pnas.0909519107) · PMID 20194757.
 [^S53]: Myerson A, Neustadt R (1939) *Endocrinology* 25(1):7-12. Ultraviolet irradiation and sex-hormone excretion — the "sun on testicles +200%" origin; urinary metabolites, institutionalized men, uncontrolled. DOI [10.1210/endo-25-1-7](https://doi.org/10.1210/endo-25-1-7).
 [^S56]: Senathirajah K, et al. (2021) *J Hazard Mater* 404(Pt B):124004. Estimation of ingested microplastic mass (0.1-5 g/week) — the "5 g" is the extreme upper bound, later shown to overestimate by orders of magnitude. DOI [10.1016/j.jhazmat.2020.124004](https://doi.org/10.1016/j.jhazmat.2020.124004) · PMID 33130380.
+[^S57]: Caronia LM, et al. (2013) *Clin Endocrinol (Oxf)* 78(2):291-296. Oral glucose load → ~25% acute total-testosterone drop (n=74). DOI [10.1111/j.1365-2265.2012.04486.x](https://doi.org/10.1111/j.1365-2265.2012.04486.x) · PMID 22804876.
+[^S62]: Smith SJ, et al. (2022) *Nutr Rev* 80(5):1222-1236. Calorie restriction meta-analysis — raised testosterone in obese men, lowered it in lean men. DOI [10.1093/nutrit/nuab072](https://doi.org/10.1093/nutrit/nuab072) · PMID 34613412.
+[^S64]: Su L, et al. (2021) *Sleep Med* 88:267-273. Meta-analysis — *total* sleep deprivation lowers testosterone (SMD −0.64); *partial* restriction not significant. DOI [10.1016/j.sleep.2021.10.031](https://doi.org/10.1016/j.sleep.2021.10.031) · PMID 34801825.
+[^S68]: Hackney AC (2020) *Front Endocrinol* 11:11. The exercise-hypogonadal male condition — chronic high-volume endurance training lowers resting testosterone. DOI [10.3389/fendo.2020.00011](https://doi.org/10.3389/fendo.2020.00011) · PMID 32082255.
+[^S69]: van der Merwe J, Brooks NE, Myburgh KH (2009) *Clin J Sport Med* 19(5):399-404. Creatine raised DHT +56% / DHT:T ratio +36%, total testosterone unchanged (n=20) — never measured hair. DOI [10.1097/JSM.0b013e3181b8b52f](https://doi.org/10.1097/JSM.0b013e3181b8b52f) · PMID 19741313.
+[^S70]: Lak M, et al. (2025) *J Int Soc Sports Nutr* 22(sup1):2495229. First creatine RCT to measure hair/follicle outcomes — no effect on DHT or hair. DOI [10.1080/15502783.2025.2495229](https://doi.org/10.1080/15502783.2025.2495229) · PMID 40265319.
+[^S72]: Wang W, et al. (2013) *Hormones (Athens)* 12(4):567-577. Male smokers had higher total + free testosterone, independent of age/BMI (n=2,021; association only). DOI [10.14310/horm.2002.1445](https://doi.org/10.14310/horm.2002.1445) · PMID 24457405.
+[^S74]: Lerchbaum E, et al. (2019) *Eur J Nutr* 58(8):3135-3146. Vitamin D RCT in men with LOW testosterone — no effect on androgens. DOI [10.1007/s00394-018-1858-z](https://doi.org/10.1007/s00394-018-1858-z) · PMID 30460609.
+[^S82]: Gonzales GF, et al. (2002) *Andrologia* 34(6):367-372. Maca improved sexual desire with NO change in testosterone or estradiol. DOI [10.1046/j.1439-0272.2002.00519.x](https://doi.org/10.1046/j.1439-0272.2002.00519.x) · PMID 12472620.
+[^S89]: Levine H, et al. (2023) *Hum Reprod Update* 29(2):157-176. Global sperm-count decline ~51.6% (1973-2018), accelerating post-2000. DOI [10.1093/humupd/dmac035](https://doi.org/10.1093/humupd/dmac035) · PMID 36377604.
+[^S91]: Travison TG, et al. (2017) *J Clin Endocrinol Metab* 102(4):1161-1173. Harmonized reference range in healthy non-obese men 19-39 = 264-916 ng/dL. DOI [10.1210/jc.2016-2935](https://doi.org/10.1210/jc.2016-2935) · PMID 28324103.
+[^S93]: Nieschlag E, Vorona E (2015) *Eur J Endocrinol* 173(2):R47-R58. Anabolic-androgenic steroids suppress the HPG axis → anabolic-steroid-induced hypogonadism (testicular atrophy, infertility). DOI [10.1530/EJE-15-0080](https://doi.org/10.1530/EJE-15-0080) · PMID 25805894.

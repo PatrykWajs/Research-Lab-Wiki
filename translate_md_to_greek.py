@@ -38,7 +38,11 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Travison","Mazur","Corona","Leproult","Van Cauter","Pilz","Lerchbaum","Abu-Zaid","Prasad","Koehler","Morgado",
     "Fornalik","Lopresti","Leisegang","Neychev","Melville","Volek","Whittaker","Reed","Santi","Maldonado-Cárceles",
     "Krüger","Exton","Geniole","Hayes","Myerson","Neustadt","Senathirajah","Al-Dujaili","Jiang","Fui","Grossmann",
-    "EMAS","MMAS","DEHP","PUFA","SFA","MUFA","DHEA","StAR","Withania","Eurycoma","Tribulus","Arjuna","Natural Ltd"]
+    "EMAS","MMAS","DEHP","PUFA","SFA","MUFA","DHEA","StAR","Withania","Eurycoma","Tribulus","Arjuna","Natural Ltd",
+    "DHT","LH","FSH","OSA","CPAP","DINP","AGD","Caronia","Iranmanesh","Whirledge","Zueger","Friedl","Nattiv","Hackney",
+    "van der Merwe","Merwe","Lak","Antonio","D'Andrea","Jorde","Naghii","Abbott","Chauhan","Pandit","Gonzales","Yakubu",
+    "Radke","Henrotin","Meeker","Hamed","Levine","Skakkebaek","Skakkebæk","Travison","Bhasin","Nieschlag","Vorona",
+    "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
