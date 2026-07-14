@@ -24,9 +24,8 @@ PAGES = {
                                                                 "](collagen.md)": "](kollagono.md)",
                                                                 "](testosterone.md)": "](testosteroni.md)"}),
     "testosterone.md":        ("el/testosteroni.md",          {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)"}),
-    "collagen.md":            ("el/kollagono.md",             {}),
-    "bpa-thermal-receipts.md":("el/bpa-thermikes-apodeixeis.md", {}),
-    "methodology.md":         ("el/methodologia.md",          {}),
+    # collagen / bpa / methodology intentionally NOT re-translated on the 2026-07-14 testosterone rebuild
+    # (their Greek pages are current; re-running them would waste gpt-4o cost). Restore these lines to re-translate.
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -45,7 +44,8 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "DHT","LH","FSH","OSA","CPAP","DINP","AGD","Caronia","Iranmanesh","Whirledge","Zueger","Friedl","Nattiv","Hackney",
     "van der Merwe","Merwe","Lak","Antonio","D'Andrea","Jorde","Naghii","Abbott","Chauhan","Pandit","Gonzales","Yakubu",
     "Radke","Henrotin","Meeker","Hamed","Levine","Skakkebaek","Skakkebæk","Travison","Bhasin","Nieschlag","Vorona",
-    "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron"]
+    "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron",
+    "Eriksson","Rajaie","Woodward","Furini","Wankhede","Steels","Su","Wang","Smith","Food Frontiers"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
