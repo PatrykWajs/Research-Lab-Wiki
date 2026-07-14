@@ -4,7 +4,7 @@ description: How Research Lab Wiki grades evidence, states confidence, and verif
 
 # Methodology
 
-Every research here follows the same rules: cite each claim to a primary source, grade the strength of that source, state confidence honestly, and report facts and uncertainty rather than a tidy verdict. This page is the shared key those reports point back to.
+Every research here follows the same rules: cite each claim to a primary source, grade the strength of that source, state confidence honestly, and report facts and uncertainty rather than a tidy verdict. Findings are then **presented ranked by how strongly the evidence backs them** — settled, multi-study consensus first; single-study or contested claims last — so the reader can see at a glance how much weight each point deserves. This page is the shared key those reports point back to.
 
 ## Confidence levels
 
@@ -36,6 +36,16 @@ Automated "deep research" tools are useful for *finding* sources but can misfire
 2. **Verify against the primary source.** Open each study's DOI / PMID / agency page and confirm the exact number or quote before it is published. If it can't be confirmed, it is omitted — never guessed.
 3. **Gap-fill.** Any thin part of the question gets fresh searches and primary reading, each new source cited.
 4. **Grade and write.** Only then is the report written, with each claim tied to a graded source.
+
+## The re-verification pass
+
+Citations are not verified once and trusted forever. Every published report is periodically **re-read from its primary sources**, and this pass has its own hard rules — because automated tools and even careful notes make two specific, recurring mistakes.
+
+1. **Every identifier is title-matched against the source database.** For each cited PMID, the live PubMed record is pulled and its title/author checked against what the report claims — because a study identifier can silently point to the *wrong paper* (a different study entirely). This has caught real errors: on one re-verification, two citations turned out to carry the ID of an unrelated paper, and were corrected.
+2. **Every cited study is read from its own abstract**, not just the load-bearing few — so a number, a direction of effect, or a funding tie can be corrected against what the study actually reports.
+3. **Corrections are shown, not hidden.** When re-verification changes something, the report carries a short **"What changed"** note listing every fix (a wrong identifier, a reversed finding, an author name), so the reader can see the correction rather than a silently-edited page.
+
+The goal is that a claim's evidence is exactly as strong as it looks — and that when it isn't, the page says so.
 
 !!! note "Standing rules"
     - **Never invent** a study, author, DOI, or number. Missing or unverifiable → it is left out, not filled in.

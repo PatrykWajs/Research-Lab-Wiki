@@ -19,9 +19,10 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-07-14 collagen rebuild: re-translate collagen only (its EN page was rewritten to tier structure).
-    # index card count unchanged (74); testosterone/bpa/methodology handled in their own runs.
-    "collagen.md":            ("el/kollagono.md",             {}),
+    # 2026-07-14: BPA rebuild (tier structure) + methodology update (re-verification section).
+    # index card counts unchanged; collagen/testosterone already done in their own runs.
+    "bpa-thermal-receipts.md":("el/bpa-thermikes-apodeixeis.md", {}),
+    "methodology.md":         ("el/methodologia.md",          {}),
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -42,7 +43,8 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Radke","Henrotin","Meeker","Hamed","Levine","Skakkebaek","Skakkebæk","Travison","Bhasin","Nieschlag","Vorona",
     "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron",
     "Eriksson","Rajaie","Woodward","Furini","Wankhede","Steels","Su","Wang","Smith","Food Frontiers",
-    "VERISOL","Jellice","Newtree","Nextida","Meléndez-Hevia","Lugo","Froh","Soh","Thomas","PDCAAS/DIAAS"]
+    "VERISOL","Jellice","Newtree","Nextida","Meléndez-Hevia","Lugo","Froh","Soh","Thomas","PDCAAS/DIAAS",
+    "PubMed","Crossref","Pergafast","CLARITY-BPA","EPIC-Norfolk","Nurses'","Biedermann","Hormann","Melzer"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
@@ -89,18 +91,25 @@ def translate_batch(strings):
     if not strings:
         return []
     def call(items):
-        r = client.chat.completions.create(model=MODEL, temperature=0,
-            response_format={"type": "json_object"},
-            messages=[{"role": "system", "content": SYS},
-                      {"role": "user", "content": json.dumps({"strings": items}, ensure_ascii=False)}])
-        o = json.loads(r.choices[0].message.content)
-        return o.get("t") or o.get("translations") or o.get("strings")
+        try:
+            r = client.chat.completions.create(model=MODEL, temperature=0,
+                max_tokens=16384, response_format={"type": "json_object"},
+                messages=[{"role": "system", "content": SYS},
+                          {"role": "user", "content": json.dumps({"strings": items}, ensure_ascii=False)}])
+            o = json.loads(r.choices[0].message.content)
+            res = o.get("t") or o.get("translations") or o.get("strings")
+            return res if isinstance(res, list) and len(res) == len(items) else None
+        except Exception:      # truncated/invalid JSON, rate limit, etc. -> signal caller to split
+            return None
     out = call(strings)
-    if not isinstance(out, list) or len(out) != len(strings):
-        out = []
-        for s in strings:
-            t = call([s]); out.append(t[0] if isinstance(t, list) and t else s)
-    return out
+    if out is not None:
+        return out
+    # A batch too large to return valid JSON in one shot: split and recurse.
+    # A single string that still fails is kept verbatim (English) rather than crashing the run.
+    if len(strings) == 1:
+        return list(strings)
+    mid = len(strings) // 2
+    return translate_batch(strings[:mid]) + translate_batch(strings[mid:])
 
 # A line decomposes into (prefix_kept, translatable, suffix_kept) or None to keep verbatim.
 RE_FOOTNOTE_DEF = re.compile(r'^\[\^[^\]]+\]:')
