@@ -19,13 +19,9 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    "index.md":               ("el/index.md",                 {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
-                                                                "](methodology.md)": "](methodologia.md)",
-                                                                "](collagen.md)": "](kollagono.md)",
-                                                                "](testosterone.md)": "](testosteroni.md)"}),
-    "testosterone.md":        ("el/testosteroni.md",          {"](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)"}),
-    # collagen / bpa / methodology intentionally NOT re-translated on the 2026-07-14 testosterone rebuild
-    # (their Greek pages are current; re-running them would waste gpt-4o cost). Restore these lines to re-translate.
+    # 2026-07-14 collagen rebuild: re-translate collagen only (its EN page was rewritten to tier structure).
+    # index card count unchanged (74); testosterone/bpa/methodology handled in their own runs.
+    "collagen.md":            ("el/kollagono.md",             {}),
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -45,7 +41,8 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "van der Merwe","Merwe","Lak","Antonio","D'Andrea","Jorde","Naghii","Abbott","Chauhan","Pandit","Gonzales","Yakubu",
     "Radke","Henrotin","Meeker","Hamed","Levine","Skakkebaek","Skakkebæk","Travison","Bhasin","Nieschlag","Vorona",
     "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron",
-    "Eriksson","Rajaie","Woodward","Furini","Wankhede","Steels","Su","Wang","Smith","Food Frontiers"]
+    "Eriksson","Rajaie","Woodward","Furini","Wankhede","Steels","Su","Wang","Smith","Food Frontiers",
+    "VERISOL","Jellice","Newtree","Nextida","Meléndez-Hevia","Lugo","Froh","Soh","Thomas","PDCAAS/DIAAS"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
