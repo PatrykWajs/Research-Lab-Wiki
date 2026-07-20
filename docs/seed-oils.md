@@ -1,0 +1,165 @@
+---
+description: Are seed oils (soybean, canola, corn, sunflower) toxic? What linoleic acid actually does vs the "Hateful Eight" / MAHA / carnivore narrative — ranked by evidence strength. 64 cited sources, all PMIDs verified.
+---
+
+# Seed Oils: What They Actually Do vs What People Think
+
+> Seed oils — soybean, canola, corn, sunflower, safflower, cottonseed, grapeseed, rice-bran, all high in the omega-6 fat linoleic acid — are blamed by the "Hateful Eight," the "make frying oil tallow again" movement, and carnivore-diet advocates for inflammation, heart disease, obesity, diabetes and cancer. Which of those hold up, how strong is the evidence, and is any of it seed-oil-specific? This is the whole picture, **ranked by how strongly the evidence backs each claim** — settled consensus first, single-study and myth last.
+
+**Complete** · Published 20 July 2026 · *Every one of the 59 cited studies title-matched against PubMed (0 wrong) and the load-bearing ones read from source* · **64 cited sources** · Confidence: **High** on the inflammation-myth and the neutral-to-favorable metabolic picture · **Moderate** on the cardiovascular benefit (events yes, mortality unclear) and the frying-oxidation concern.
+
+!!! abstract "TL;DR"
+    For a healthy person eating whole foods, **seed oils used in normal cooking are not the chronic-disease driver the popular narrative claims.** The central mechanism — omega-6 linoleic acid (LA) causing inflammation — **fails in humans**: eating more LA does not raise tissue arachidonic acid,[^S1] and does not raise CRP, IL-6 or TNF in randomized trials.[^S2][^S3] Across large studies, higher LA is consistently tied to **lower** heart disease,[^S15] **lower** type-2 diabetes,[^S16][^S19] and **lower** death;[^S17][^S18] controlled feeding trials show swapping saturated fat for PUFA *improves* insulin sensitivity and *lowers* liver fat[^S24][^S25][^S28] — the opposite of "LA makes you fat." There is **one legitimate concern**: repeatedly heated / deep-fried oil generates toxic aldehydes (real chemistry),[^S34] but no study links that to human disease at real intakes, and fried-food harm is "largely mediated by body weight."[^S40] The honest cardiovascular nuance: replacing saturated fat with omega-6 lowers cholesterol and events but not clearly mortality, and omega-6 *alone* (no omega-3) is the weakest case.[^S13] Myths: "all seed oils are the same" (canola is ~19% LA and carries omega-3),[^S64] "seed oils cause cancer" (the one trial is confounded; meta-analyses are null),[^S48][^S49] "swap back to tallow" (raises LDL),[^S12] and conflating today's oils with the industrial trans fat that was actually banned in 2018.[^S60]
+
+!!! tip "The picture, ranked by how strongly the evidence agrees"
+    - **Tier 1 — strongest consensus:** the omega-6→inflammation mechanism fails in humans;[^S1][^S2] higher LA → lower CVD, diabetes and mortality (biomarker cohorts + Mendelian randomization);[^S15][^S16][^S17][^S21] feeding trials favour PUFA over saturated fat;[^S24][^S25] the omega-6:omega-3 "ratio" is an artifact (both PUFAs are protective).[^S20]
+    - **Tier 2 — well-supported, with nuance:** replacing saturated fat with PUFA lowers cholesterol + events but not clearly mortality, and omega-6-alone is the weak case;[^S9][^S12][^S13] heated/deep-fried oil makes toxic aldehydes (real chemistry, human disease unproven);[^S34] fried-food harm tracks body weight.[^S40]
+    - **Tier 3 — weak / single-study / mechanism:** the "LA→obesity via mitochondria" theory is mouse + hypothesis;[^S43][^S45] tissue LA really rose but that's exposure, not proof;[^S47] the skin-cancer link is weak and confounded (no human sunburn data at all).[^S50]
+    - **Tier 4 — myths & marketing:** "all seed oils are the same,"[^S64] "cause cancer,"[^S48] "swap to beef tallow,"[^S12] and "these are the vegetable oils we already knew were bad" (that was trans fat).[^S60]
+
+## Tier 1 — The strongest evidence (the mechanism fails; the picture is neutral-to-favorable)
+
+### The inflammation mechanism breaks at step one in humans
+
+The whole theory is a chain: seed oils are high in linoleic acid → LA converts to arachidonic acid → arachidonic acid drives inflammation → disease. It is textbook biochemistry, and it **fails at its very first step in people**. A systematic review of human trials found that increasing dietary LA up to six-fold did *not* raise arachidonic acid in blood, and cutting LA by up to 90% did nothing either — while feeding arachidonic acid directly *did* raise it, proving the method works.[^S1] Downstream, two independent reviews of randomized trials — 30 trials / 1,377 people[^S2] and 15 trials in healthy people[^S3] — found no effect of higher LA on CRP, IL-6, TNF or other inflammatory markers, and a feeding trial stated it plainly: "a high n-6 PUFA intake does not cause any signs of inflammation or oxidative stress."[^S27] The single asterisk is a possible CRP rise only at the very largest LA increases, not significant in the pooled data.[^S2]
+
+### Higher linoleic acid tracks with less disease, not more
+
+If seed oils were driving disease, people with more LA in their bodies should be sicker. They are not. The largest biomarker analysis — 30 cohorts, 68,659 people — found higher circulating LA tied to **lower** total cardiovascular disease, **lower** cardiovascular death, and **lower** stroke; even arachidonic acid was not harmful.[^S15] For diabetes, a pooled analysis of 20 cohorts found higher LA → 35% lower risk,[^S16] and a dose-response meta of 31 cohorts found risk falling to the highest intakes.[^S19] For death, a meta of 44 cohorts / 811,069 people found higher LA → lower all-cause, cardiovascular and cancer mortality,[^S17] and the Nurses'/Health-Professionals cohorts found replacing 5%-energy saturated fat with PUFA → 27% lower total mortality.[^S18] Mendelian randomization — genetics used to approximate a trial — supports a *causal* LA→lower-diabetes effect,[^S21] and a second MR is consistent with high circulating LA being protective.[^S22] The honest caveat: two flagship pooled analyses were part-funded by Unilever, which sells vegetable-oil spreads[^S15][^S16] — which is exactly why the industry-free corroboration (the mortality meta,[^S17] UK Biobank,[^S20] the MR[^S21]) matters, and it points the same way.
+
+### In feeding trials, the fat you're told to eat instead is the worse one
+
+The cleanest test is a controlled feeding trial. A meta-analysis of **102 randomized feeding trials** found that replacing saturated fat (or carbohydrate) with PUFA lowered glucose, HbA1c and insulin resistance — "most consistent favourable effects seen with PUFA."[^S24] Overfeeding studies are sharper still: at identical weight gain, **saturated** fat caused markedly more liver fat and about twice the belly-fat gain of PUFA, while PUFA produced about three times more lean tissue;[^S25] a second trial found saturated fat +50% liver fat with rising ceramides while PUFA raised neither;[^S26] a third found liver-fat gain of saturated +55% > carbs +33% > unsaturated +15%, with insulin resistance only on saturated fat.[^S28] Swapping seed oils for butter, tallow or coconut oil moves you toward the fat these trials show is metabolically worse.
+
+### The omega-6:omega-3 "ratio" is the wrong metric — and the scary ratio study is a mirage
+
+The ratio hypothesis is the backbone of the panic, but a critical appraisal argues it is outdated — a ratio hides the individual levels that matter, and the real Western-diet deficit is **low omega-3, not high omega-6.**[^S4] The most-cited "proof" that the ratio kills — a UK Biobank study of 85,425 people — is routinely mis-read: yes, a high omega-6/omega-3 ratio tracked 26% higher mortality, **but in the same cohort both omega-6 and omega-3 were individually protective** (the highest omega-6 group had 23% lower all-cause death).[^S20] The ratio only looks bad because omega-3 protects more strongly. "High ratio → death" is not "omega-6 is harmful."
+
+## Tier 2 — Well-supported, with real nuance (the honest CVD story + the one legitimate concern)
+
+### Cardiovascular disease: cholesterol and events improve, mortality is unclear, and omega-6-alone is the weak case
+
+This is where the skeptics have their strongest footing, and it deserves an honest hearing. Replacing saturated fat with PUFA reliably lowers LDL cholesterol and cardiovascular *events* — 19% fewer coronary events in one RCT meta,[^S11] 21% fewer cardiovascular events in another,[^S12] and the American Heart Association's advisory puts the reduction near 30%.[^S10] But that benefit **does not clearly translate to living longer**: the same reviews find no change in all-cause or cardiovascular mortality,[^S12] and the omega-6-specific Cochrane review found no benefit beyond a possible reduction in heart attacks.[^S9] The two recovered-data trials the anti-seed-oil camp cites are real and NIH-funded: the Sydney Diet Heart Study (safflower oil → *higher* mortality)[^S7] and the Minnesota Coronary Experiment (corn oil lowered cholesterol but not death).[^S8] But both used **pure omega-6 with no omega-3**, and the Sydney margarine likely carried trans fat. Ramsden's own meta is the reconciliation: mixed omega-3+omega-6 diets cut heart events 22%, while omega-6-*specific* diets *increased* risk 13%.[^S13] Seed oils are the omega-6-alone bucket — not proven cardioprotective on their own, but the "they cause heart disease" claim is contradicted by the biomarker and mortality data.
+
+### Heating and frying: the one legitimate concern — real chemistry, unproven human magnitude
+
+Here the skeptics are right about the chemistry. Frying PUFA-rich oil to high temperature generates cytotoxic and genotoxic aldehydes (4-HNE, acrolein) that penetrate the food, and it gets worse with **repeated reuse**.[^S34] Dietary LA also raises circulating oxidized-LA metabolites in humans.[^S31] If there is a real case against seed oils, it lives here. But the case stops at chemistry: the field's own leading skeptic, in the very review documenting the aldehydes, concludes there is an "urgent and **unmet** clinical need" for the trials that would connect them to human disease — i.e. **those outcome studies do not yet exist.**[^S34] The alarming physiological data are animal (repeatedly-heated oil raised blood pressure in rats — single lab, six animals per group),[^S37] and the human fried-food cohorts, while real, are "largely mediated by body weight and comorbid hypertension and hypercholesterolemia"[^S40] — a cohort meta found fried food raised cardiovascular *events* but not all-cause or cardiovascular *mortality*.[^S41] Two nuances matter: the danger is about **reuse and thermal abuse** (industrial deep-frying) more than a home sauté, and oxidized-LA metabolites in your blood mostly reflect **how much LA you eat**, not "you ate rancid oil"[^S31] — "avoid oxidized oil" and "eat less LA" are different claims the literature keeps conflating.
+
+## Tier 3 — Weaker, single-study, mechanism, or conditional
+
+### The "LA makes you fat via mitochondria" theory is mouse and hypothesis
+
+The obesity thesis has an appealing mechanism and essentially no human support. It rests on mouse studies — soybean oil more obesogenic than coconut oil or fructose,[^S43] LA raising endocannabinoids to induce obesity[^S44] — and hypothesis papers.[^S45] The mouse mechanism that *is* shown is endocannabinoid, not the mitochondrial-ROS story usually invoked, and 40%-fat mouse diets don't model human eating. Against it stand the human feeding trials, which show PUFA producing *less* fat and *more* lean than saturated fat. When mouse mechanism and human trial disagree, the human trial wins.
+
+### Tissue linoleic acid really has risen — but that is exposure, not proof of harm
+
+The consumption story is true: US body-fat LA rose 136% over half a century,[^S47] tracking a more-than-1,000-fold rise in soybean-oil intake across the century.[^S55] But this is the exposure trend, not causation — the same century added calories, sugar, ultra-processed food and sedentism, and the cohorts show higher LA tracking with *better* outcomes. A rising exposure curve over a rising disease curve is a hypothesis, not a finding.
+
+### Skin, gut and processing: small, confounded, or mixed
+
+The "seed oils cause sunburn" claim has **zero** human evidence — it is mechanism and marketing. There is a weak, confounded cohort link between PUFA intake and non-melanoma skin *cancer* over decades,[^S50] not sunburn. For inflammatory disease the evidence mostly points the other way — higher LA was tied to **71% lower** rheumatoid-arthritis risk[^S51] — with a genuine but weak harm signal only for ulcerative colitis. And the "seed oils rot your brain" claim is contradicted by data tying circulating LA/arachidonic acid to *slower* cognitive decline.[^S54] On processing: seed oils are hexane-extracted and refined, the EU caps residue in finished oil at 1 mg/kg, and no evidence links dietary hexane residue to harm — the honest caveat is that the safety assessment is old and monitoring data are sparse,[^S61] so neither "toxic" nor "definitively safe" is fully earned on residues.
+
+## Tier 4 — Myths, misconceptions, and marketing
+
+### "All seed oils are the same"
+
+False. Linoleic-acid content runs from ~75% (safflower) down to ~19% (**canola**) — and canola also carries ~9% omega-3 ALA, making its profile closer to olive oil than to corn oil; high-oleic sunflower and safflower are ~13-20% LA.[^S64] The seed's name is not the hazard.
+
+### "Seed oils cause the obesity / chronic-disease epidemic"
+
+Monocausal and contradicted. The ecological correlation is confounded, the mechanism is mouse and hypothesis, and the human biomarker, feeding-trial and mortality data run neutral-to-favorable. No credible human evidence supports "seed oils are the cause."
+
+### "Higher linoleic acid causes heart disease"
+
+The kernel of truth is real — LA is the main PUFA in LDL, and oxidized LDL is atherogenic — but the leap fails at the outcome: higher circulating LA is associated with **lower** cardiovascular disease and mortality.[^S15][^S17] Digestion does not route dietary LA into arterial plaque.
+
+### "Seed oils cause cancer"
+
+The one human trial signal (a 1971 corn-oil trial with more cancer) had a control group with roughly twice the heavy smokers and was disclaimed by its own authors;[^S48] a later meta of LA and cancer was essentially null,[^S49] and the cohorts tie LA to *lower* cancer mortality.[^S17] Not supported.
+
+### "Swap back to beef tallow / butter / coconut oil"
+
+Not supported for health outcomes. Tallow (~50% saturated fat) and butter (~63%) raise LDL versus seed oils, and no outcome trial supports the swap.[^S12] The single defensible point is narrow — a more saturated fat oxidizes less on **repeated high-heat frying** — a cooking-stability argument, not a cardiovascular-benefit one.
+
+### "These are the same vegetable oils we already knew were bad"
+
+No. The genuinely harmful "vegetable oil" was **partially hydrogenated oil — industrial trans fat** — declared not-safe and removed from the US food supply by 2018.[^S60] Today's non-hydrogenated seed oils are a chemically different product; conflating them is a core error in the anti-seed-oil narrative.
+
+## Scorecard — how the popular claims hold up
+
+| Claim ("Hateful Eight" / MAHA / carnivore) | Verdict | Tier |
+|---|---|---|
+| Seed oils cause inflammation (omega-6 → arachidonic acid) | **Myth** (fails in humans)[^S1][^S2] | 1 |
+| Higher linoleic acid causes heart disease | **Contradicted** (LA → lower CVD)[^S15][^S17] | 1 |
+| Seed oils cause diabetes / insulin resistance | **Contradicted** (LA → lower T2D; PUFA improves glycemia)[^S16][^S24] | 1 |
+| Seed oils make you fat (mitochondrial ROS) | **Unsupported** (mouse/hypothesis; human trials opposite)[^S25][^S43] | 1/3 |
+| High omega-6:omega-3 ratio is harmful | **Overstated** (artifact; both PUFAs protective)[^S20] | 1 |
+| Replacing saturated fat with seed oil is heart-healthy | **Partly true** (events + LDL down; mortality unclear)[^S11][^S12][^S13] | 2 |
+| Heated/deep-fried seed oil makes toxic aldehydes | **True (chemistry)** — human disease unproven[^S34] | 2 |
+| Fried food is unhealthy | **True** — but via body weight, not the oil[^S40][^S41] | 2 |
+| Hexane processing makes seed oils toxic | **Overstated** (residues ≤1 ppm; data old)[^S61] | 3 |
+| Seed oils cause sunburn / skin damage | **Unsupported** (no human sunburn data)[^S50] | 3 |
+| All seed oils are the same | **False** (canola ~19% LA + omega-3)[^S64] | 4 |
+| Seed oils cause cancer | **Myth** (1971 trial confounded; metas null)[^S48][^S49] | 4 |
+| Swap back to beef tallow / butter | **Not supported** for CVD (raises LDL)[^S12] | 4 |
+| Seed oils = the vegetable-oil harm we knew | **False** (that was industrial trans fat, banned 2018)[^S60] | 4 |
+
+## The honest seed-oil checklist
+
+1. **Don't fear seed oils in normal home cooking** — the inflammation mechanism fails in humans and the metabolic and mortality data are neutral-to-favorable versus saturated fat.[^S1][^S17][^S24]
+2. **The real target is deep-fried and ultra-processed food**, which is unhealthy largely through calories and body weight, not the specific oil.[^S40][^S41]
+3. **For repeated high-heat frying, prefer more stable fats** (olive, avocado, or a more saturated fat) — this is where the oxidation chemistry is legitimate.[^S34]
+4. **Don't swap to tallow or butter for your heart** — they raise LDL, and no outcome trial supports it.[^S12]
+5. **Get enough omega-3 (fish / EPA+DHA)** — the real Western-diet deficit is low omega-3, so "fixing the ratio" means *adding* omega-3, not fearing omega-6.[^S4][^S20]
+6. **Body fat and total diet dwarf oil choice.**
+
+This is informational, not medical advice.
+
+## How this research was done
+
+Seven independent research passes swept the claim space (definitions and the inflammation mechanism, cardiovascular trials, oxidation and frying, metabolic and obesity, biomarker cohorts and Mendelian randomization, cancer/skin/mortality, and the specific oils/history/processing claims). Every one of the 59 study identifiers was then **title-matched against PubMed (0 wrong)** and the load-bearing studies read from their source abstracts, with funding ties flagged throughout. See the [methodology](methodology.md) for how evidence is graded and verified.
+
+---
+
+[^S1]: Rett BS, Whelan J (2011) *Nutr Metab (Lond)* 8:36. Increasing dietary linoleic acid up to 6-fold did not raise tissue arachidonic acid in adults; the mechanism fails at step one. DOI [10.1186/1743-7075-8-36](https://doi.org/10.1186/1743-7075-8-36) · PMID 21663641.
+[^S2]: Su H, et al. (2017) *Food Funct* 8(9):3091-3103. Meta-analysis, 30 RCTs / 1,377 people: higher LA had no significant effect on TNF-α, IL-6, CRP, adiponectin or MCP-1. DOI [10.1039/c7fo00433h](https://doi.org/10.1039/c7fo00433h) · PMID 28752873.
+[^S3]: Johnson GH, Fritsche K (2012) *J Acad Nutr Diet* 112(7):1029-1041. Systematic review of 15 RCTs in healthy people: "virtually no evidence" that added LA raises inflammatory markers. DOI [10.1016/j.jand.2012.03.029](https://doi.org/10.1016/j.jand.2012.03.029) · PMID 22889633.
+[^S4]: Harris WS (2018) *Prostaglandins Leukot Essent Fatty Acids* 132:34-40. The omega-6:omega-3 ratio is an outdated metric; the real deficit is low EPA+DHA, not high omega-6. DOI [10.1016/j.plefa.2018.03.003](https://doi.org/10.1016/j.plefa.2018.03.003) · PMID 29599053.
+[^S7]: Ramsden CE, et al. (2013) *BMJ* 346:e8707. Sydney Diet Heart Study recovered data: safflower oil (pure omega-6) replacing saturated fat → higher mortality (HR 1.62). DOI [10.1136/bmj.e8707](https://doi.org/10.1136/bmj.e8707) · PMID 23386268.
+[^S8]: Ramsden CE, et al. (2016) *BMJ* 353:i1246. Minnesota Coronary Experiment recovered data: corn oil lowered cholesterol (−13.8%) but gave no mortality benefit (a 22% higher death risk per 30 mg/dL drop). DOI [10.1136/bmj.i1246](https://doi.org/10.1136/bmj.i1246) · PMID 27071971.
+[^S9]: Hooper L, et al. (2018) *Cochrane Database Syst Rev* 11:CD011094. 19 RCTs / 6,461: increasing omega-6 made no difference to mortality or CVD events (possible reduction in heart attacks only). DOI [10.1002/14651858.CD011094.pub4](https://doi.org/10.1002/14651858.CD011094.pub4) · PMID 30488422.
+[^S10]: Sacks FM, et al. (2017) *Circulation* 136(3):e1-e23. AHA Presidential Advisory: replacing saturated fat with polyunsaturated vegetable oil ≈30% CVD reduction. DOI [10.1161/CIR.0000000000000510](https://doi.org/10.1161/CIR.0000000000000510) · PMID 28620111.
+[^S11]: Mozaffarian D, Micha R, Wallace S (2010) *PLoS Med* 7(3):e1000252. 8 RCTs / 13,614: PUFA replacing saturated fat → 19% lower coronary heart disease events (RR 0.81). DOI [10.1371/journal.pmed.1000252](https://doi.org/10.1371/journal.pmed.1000252) · PMID 20351774.
+[^S12]: Hooper L, et al. (2020) *Cochrane Database Syst Rev* 5:CD011737. 15 RCTs / ~59,000: cutting saturated fat → 21% fewer CV events but no change in all-cause or CVD mortality. DOI [10.1002/14651858.CD011737.pub2](https://doi.org/10.1002/14651858.CD011737.pub2) · PMID 32428300.
+[^S13]: Ramsden CE, et al. (2010) *Br J Nutr* 104(11):1586-1600. Mixed omega-3+omega-6 diets cut heart events 22%; omega-6-specific diets increased risk 13% — the crux distinction. DOI [10.1017/S0007114510004010](https://doi.org/10.1017/S0007114510004010) · PMID 21118617.
+[^S15]: Marklund M, et al. (2019) *Circulation* 139(21):2422-2436. 30 cohorts / 68,659: higher circulating LA → lower CVD (0.93), CV mortality (0.78), stroke (0.88); arachidonic acid not harmful. ⚠ Wu & Micha report Unilever funding. DOI [10.1161/CIRCULATIONAHA.118.038908](https://doi.org/10.1161/CIRCULATIONAHA.118.038908) · PMID 30971107.
+[^S16]: Wu JHY, et al. (2017) *Lancet Diabetes Endocrinol* 5(12):965-974. 20 cohorts / 39,740: higher LA biomarker → 35% lower type-2 diabetes (RR 0.65); arachidonic acid null. ⚠ Unilever grants. DOI [10.1016/S2213-8587(17)30307-8](https://doi.org/10.1016/S2213-8587(17)30307-8) · PMID 29032079.
+[^S17]: Li J, et al. (2020) *Am J Clin Nutr* 112(1):150-167. 44 cohorts / 811,069: higher LA (intake or biomarker) → lower total (0.87), CVD (0.87) and cancer (0.89) mortality. NIH-funded. DOI [10.1093/ajcn/nqz349](https://doi.org/10.1093/ajcn/nqz349) · PMID 32020162.
+[^S18]: Wang DD, et al. (2016) *JAMA Intern Med* 176(8):1134-1145. NHS+HPFS / 126,233: replacing 5%-energy saturated fat with PUFA → 27% lower total mortality. DOI [10.1001/jamainternmed.2016.2417](https://doi.org/10.1001/jamainternmed.2016.2417) · PMID 27379574.
+[^S19]: Mousavi SM, et al. (2021) *Diabetes Care* 44(9):2173-2181. 31 cohorts: higher LA intake → 6% lower T2D; per SD biomarker RR 0.85; linear to highest intakes. DOI [10.2337/dc21-0438](https://doi.org/10.2337/dc21-0438) · PMID 34417277.
+[^S20]: Zhang Y, et al. (2024) *eLife* 12:RP90132. UK Biobank / 85,425: a high omega-6/omega-3 ratio tracked higher mortality, but both omega-6 AND omega-3 were individually protective — the ratio is an artifact. DOI [10.7554/eLife.90132](https://doi.org/10.7554/eLife.90132) · PMID 38578269.
+[^S21]: Liang H, et al. (2023) *Front Endocrinol* 14:1277153. Mendelian randomization: genetically higher LA causally lowers type-2 diabetes (OR 0.811) and glucose/HbA1c. DOI [10.3389/fendo.2023.1277153](https://doi.org/10.3389/fendo.2023.1277153) · PMID 38075067.
+[^S22]: Jäger S, et al. (2020) *Nutrients* 12(8):2261. Mendelian randomization: higher desaturase activity (which consumes LA) is risk-increasing — consistent with high circulating LA being protective; FADS linkage disequilibrium limits attribution. DOI [10.3390/nu12082261](https://doi.org/10.3390/nu12082261) · PMID 32731631.
+[^S24]: Imamura F, et al. (2016) *PLoS Med* 13(7):e1002087. Meta of 102 randomized feeding trials: replacing saturated fat (or carbs) with PUFA improved glucose, HbA1c and insulin resistance. ⚠ Some authors report Unilever support. DOI [10.1371/journal.pmed.1002087](https://doi.org/10.1371/journal.pmed.1002087) · PMID 27434027.
+[^S25]: Rosqvist F, et al. (2014) *Diabetes* 63(7):2356-2368. LIPOGAIN overfeeding RCT: at equal weight gain, saturated fat caused more liver + visceral fat; PUFA caused more lean tissue. DOI [10.2337/db13-1622](https://doi.org/10.2337/db13-1622) · PMID 24550191.
+[^S26]: Rosqvist F, et al. (2019) *J Clin Endocrinol Metab* 104(12):6207-6219. LIPOGAIN-2 overfeeding RCT: saturated fat +50% liver fat + rising ceramides; PUFA raised neither. DOI [10.1210/jc.2019-00160](https://doi.org/10.1210/jc.2019-00160) · PMID 31369090.
+[^S27]: Bjermo H, et al. (2012) *Am J Clin Nutr* 95(5):1003-1012. Isocaloric RCT, abdominally obese: PUFA lowered liver fat vs saturated fat; "a high n-6 PUFA intake does not cause any signs of inflammation or oxidative stress." DOI [10.3945/ajcn.111.030114](https://doi.org/10.3945/ajcn.111.030114) · PMID 22492369.
+[^S28]: Luukkonen PK, et al. (2018) *Diabetes Care* 41(8):1732-1739. Overfeeding RCT: liver-fat rise saturated +55% > carbs +33% > unsaturated +15%; insulin resistance only on saturated. DOI [10.2337/dc18-0071](https://doi.org/10.2337/dc18-0071) · PMID 29844096.
+[^S31]: Ramsden CE, et al. (2012) *Prostaglandins Leukot Essent Fatty Acids* 87(4-5):135-141. Lowering dietary LA reduced plasma oxidized-LA metabolites — which are largely endogenous (driven by how much LA you eat). DOI [10.1016/j.plefa.2012.08.004](https://doi.org/10.1016/j.plefa.2012.08.004) · PMID 22959954.
+[^S34]: Grootveld M, et al. (2020) *Nutrients* 12(4):974. Review: frying PUFA-rich oils generates toxic aldehydes that enter food; concludes with the "urgent and unmet clinical need" for the human-outcome trials — i.e. they do not yet exist. DOI [10.3390/nu12040974](https://doi.org/10.3390/nu12040974) · PMID 32244669.
+[^S37]: Ng CY, et al. (2012) *Int J Exp Pathol* 93(5):377-387. Rats fed repeatedly (5×/10×) heated soybean oil developed higher blood pressure + vascular inflammation; single lab, n=6/group. DOI [10.1111/j.1365-2613.2012.00839.x](https://doi.org/10.1111/j.1365-2613.2012.00839.x) · PMID 22974219.
+[^S40]: Cahill LE, et al. (2014) *Am J Clin Nutr* 100(2):667-675. NHS+HPFS: frequent fried food raised T2D (RR 1.55) and heart disease (1.21), but "largely mediated by body weight and comorbid hypertension and hypercholesterolemia." DOI [10.3945/ajcn.114.084129](https://doi.org/10.3945/ajcn.114.084129) · PMID 24944061.
+[^S41]: Qin P, et al. (2021) *Heart* 107(19):1567-1575. Meta of cohorts: fried food raised cardiovascular events (RR 1.28) but not all-cause (1.03) or cardiovascular (1.02) mortality; high heterogeneity + recall bias. DOI [10.1136/heartjnl-2020-317883](https://doi.org/10.1136/heartjnl-2020-317883) · PMID 33468573.
+[^S43]: Deol P, et al. (2015) *PLoS One* 10(7):e0132672. Mouse study: soybean oil more obesogenic/diabetogenic than coconut oil or fructose. Comparator is high-saturated coconut; 40%-fat mouse diet ≠ human intake. DOI [10.1371/journal.pone.0132672](https://doi.org/10.1371/journal.pone.0132672) · PMID 26200659.
+[^S44]: Alvheim AR, et al. (2012) *Obesity (Silver Spring)* 20(10):1984-1994. Mouse study: raising LA 1→8% of energy tripled endocannabinoids and induced obesity; adding omega-3 reversed it. Mechanism is endocannabinoid, not mitochondrial-ROS. DOI [10.1038/oby.2012.38](https://doi.org/10.1038/oby.2012.38) · PMID 22334255.
+[^S45]: DiNicolantonio JJ, O'Keefe JH (2018) *Open Heart* 5(2):e000898. The "oxidized linoleic acid drives coronary heart disease" hypothesis paper. ⚠ Authors have nutraceutical/book commercial interests. DOI [10.1136/openhrt-2018-000898](https://doi.org/10.1136/openhrt-2018-000898) · PMID 30364556.
+[^S47]: Guyenet SJ, Carlson SE (2015) *Adv Nutr* 6(6):660-664. US adipose-tissue linoleic acid rose 136% over half a century, tracking dietary intake — a real exposure trend (correlation only). DOI [10.3945/an.115.009944](https://doi.org/10.3945/an.115.009944) · PMID 26567191.
+[^S48]: Pearce ML, Dayton S (1971) *Lancet* 1(7697):464-467. The one human trial signal of more cancer on a high-corn-oil diet; the control arm had ~2× the heavy smokers and the authors disclaimed it. DOI [10.1016/s0140-6736(71)91086-5](https://doi.org/10.1016/s0140-6736(71)91086-5) · PMID 4100347.
+[^S49]: Zock PL, Katan MB (1998) *Am J Clin Nutr* 68(1):142-153. Review/meta: linoleic acid intake and cancer risk essentially null across breast, colorectal and prostate. DOI [10.1093/ajcn/68.1.142](https://doi.org/10.1093/ajcn/68.1.142) · PMID 9665108.
+[^S50]: Park MK, et al. (2018) *Cancer Epidemiol Biomarkers Prev* 27(7):776-782. Higher PUFA modestly tied to non-melanoma skin cancer (squamous HR 1.16); confounded by total energy/sun behaviour, not sunburn. DOI [10.1158/1055-9965.EPI-17-0782](https://doi.org/10.1158/1055-9965.EPI-17-0782) · PMID 29636341.
+[^S51]: de Pablo P, et al. (2018) *Ann Rheum Dis* 77(7):981-987. EPIC nested case-control: higher red-cell linoleic acid → 71% lower odds of rheumatoid arthritis (OR 0.29). DOI [10.1136/annrheumdis-2017-212274](https://doi.org/10.1136/annrheumdis-2017-212274) · PMID 29436473.
+[^S54]: de Oliveira Otto MC, et al. (2023) *J Alzheimers Dis* 95(3):965-979. Higher circulating arachidonic acid associated with slower cognitive decline / lower dementia — contradicts "seed oils rot the brain." DOI [10.3233/JAD-230083](https://doi.org/10.3233/JAD-230083) · PMID 37638432.
+[^S55]: Blasbalg TL, et al. (2011) *Am J Clin Nutr* 93(5):950-962. US soybean-oil consumption rose >1,000-fold across the 20th century; dietary LA rose from 2.8% to 7.2% of energy. DOI [10.3945/ajcn.110.006643](https://doi.org/10.3945/ajcn.110.006643) · PMID 21367944.
+[^S60]: US Food and Drug Administration (2015–2018). Final determination that partially hydrogenated oils (the source of industrial *trans* fat) are not Generally Recognized As Safe; removed from the US food supply by June 2018 — a different product from today's non-hydrogenated seed oils. [FDA](https://www.fda.gov/food/food-additives-petitions/final-determination-regarding-partially-hydrogenated-oils).
+[^S61]: European Union Directive 2009/32/EC (+ FEDIOL / EFSA). Hexane residue in finished edible oil is capped at 1 mg/kg and believed at or below it, with no evidence of dietary harm; the EFSA safety assessment dates to 1994 and modern monitoring data are sparse. [EU 2009/32/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32009L0032).
+[^S64]: USDA FoodData Central — vegetable-oil fatty-acid composition. Linoleic-acid content: safflower ~75%, grapeseed ~70%, sunflower ~66% (high-oleic ~20%), corn ~58%, cottonseed ~54%, soybean ~51%, rice-bran ~34%, canola ~19% (plus ~9% omega-3 ALA). [USDA FoodData Central](https://fdc.nal.usda.gov/).

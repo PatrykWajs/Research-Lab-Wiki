@@ -19,10 +19,16 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-07-14: BPA rebuild (tier structure) + methodology update (re-verification section).
-    # index card counts unchanged; collagen/testosterone already done in their own runs.
-    "bpa-thermal-receipts.md":("el/bpa-thermikes-apodeixeis.md", {}),
-    "methodology.md":         ("el/methodologia.md",          {}),
+    # 2026-07-20: new Seed Oils page + index card. Only these two are re-translated
+    # (bpa/collagen/testosterone/methodology already done in their own runs — don't re-pay).
+    "seed-oils.md": ("el/sporelaia.md", {"](methodology.md)": "](methodologia.md)"}),
+    "index.md":     ("el/index.md", {
+        "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
+        "](collagen.md)":             "](kollagono.md)",
+        "](testosterone.md)":         "](testosteroni.md)",
+        "](seed-oils.md)":            "](sporelaia.md)",
+        "](methodology.md)":          "](methodologia.md)",
+    }),
 }
 
 PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1","MPS","SMD","BMD",
@@ -44,7 +50,15 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Lokeshwar","Wittert","Cignarelli","Barrett-Connor","Lepidium","maca","shilajit","fadogia","Fadogia","boron",
     "Eriksson","Rajaie","Woodward","Furini","Wankhede","Steels","Su","Wang","Smith","Food Frontiers",
     "VERISOL","Jellice","Newtree","Nextida","Meléndez-Hevia","Lugo","Froh","Soh","Thomas","PDCAAS/DIAAS",
-    "PubMed","Crossref","Pergafast","CLARITY-BPA","EPIC-Norfolk","Nurses'","Biedermann","Hormann","Melzer"]
+    "PubMed","Crossref","Pergafast","CLARITY-BPA","EPIC-Norfolk","Nurses'","Biedermann","Hormann","Melzer",
+    # seed-oils project — acronyms/terms/brands + author surnames (keep Latin)
+    "LA","ALA","EPA","DHA","OXLAM","OXLAMs","HODE","4-HNE","HNE","CRP","IL-6","TNF","LDL","HDL","HbA1c","CVD",
+    "CHD","T2D","FADS","FADS1","FADS2","LIPOGAIN","MAHA","HPFS","NHS","FEDIOL","AHA","Unilever","GRAS","EPIC",
+    "Rett","Whelan","Su","Fritsche","Simopoulos","Turpeinen","Ramsden","Hooper","Sacks","Mozaffarian","Marklund",
+    "Mousavi","Zhang","Liang","Jäger","Jager","Imamura","Rosqvist","Bjermo","Luukkonen","Vessby","Mensink",
+    "Grootveld","Cam","Cahill","Qin","Pelucchi","Deol","Alvheim","Knobbe","Guyenet","Pearce","Dayton","Zock",
+    "Katan","de Pablo","Tjonneland","Tjønneland","de Silva","de Oliveira Otto","Blasbalg","Shanahan","O'Keefe",
+    "Csala","Santoro","Ganesan","Micha","Wallace","Carlson","Whigham","Cate","Nextida","Steak"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(

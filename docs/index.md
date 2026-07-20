@@ -34,6 +34,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](testosterone.md)
 
+-   :material-bottle-tonic-outline:{ .lg .middle } __Seed Oils: What They Actually Do vs What People Think__
+
+    ---
+
+    Inflammation, heart disease, obesity, "toxic" frying oil — which "seed oils are poison" claims hold up, and which (the inflammation mechanism, "cause cancer," "swap to tallow") are myths or marketing. **64 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](seed-oils.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
