@@ -42,6 +42,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](seed-oils.md)
 
+-   :material-dumbbell:{ .lg .middle } __Creatine: What It Actually Does vs What People Think__
+
+    ---
+
+    Kidney damage, hair loss, "it's a steroid," bloating, must-cycle — which creatine fears hold up (almost none), and what it actually does for muscle, brain and health. The most-studied, best-evidenced, safest sports supplement. **119 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](creatine.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

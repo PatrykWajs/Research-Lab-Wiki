@@ -1,0 +1,182 @@
+---
+description: Does creatine cause kidney damage, hair loss, or bloating? Is it a steroid? What creatine monohydrate actually does for muscle, brain and health vs the myths — ranked by evidence strength. 119 cited sources, all PMIDs verified.
+---
+
+# Creatine: What It Actually Does vs What People Think
+
+> Creatine is the most-studied and best-selling sports supplement on earth — and the most myth-laden. It is blamed for kidney damage, hair loss, "being a steroid," permanent bloating and cramps, and sold in a dozen "advanced" forms. What does it actually do, which claims (good and bad) survive the peer-reviewed evidence, and how should a healthy person use it? This is the whole picture, **ranked by how strongly the evidence backs each claim** — settled consensus first, single-study and myth last.
+
+**Complete** · Published 23 July 2026 · *Every one of the 119 cited studies was title-matched against PubMed (0 wrong, 0 retracted) and the load-bearing ones read from source* · **119 cited sources** · Confidence: **High** on efficacy-with-training, the kidney-artifact, safety, and "not a steroid"; **Moderate–High** on the hair-loss myth; **Moderate** on the therapeutic claims (depression, glycemic, bone, long-COVID).
+
+!!! abstract "TL;DR"
+    Creatine monohydrate is the **most-studied, best-evidenced and safest** sports supplement, and almost every scary claim about it is wrong. Taken daily and paired with resistance training it genuinely builds strength and lean mass,[^S5][^S6] though the *fast* early gain is partly intracellular water[^S10][^S11] and it does almost nothing for muscle *without* training.[^S5] The "it wrecks your kidneys" fear is a **measurement artifact** — creatine raises serum creatinine without lowering true kidney filtration[^S33][^S36] — and the scare traces to two confounded case reports.[^S45][^S46] It does not cause dehydration or cramps (if anything, fewer),[^S53][^S55] it is **not a steroid** and does not change testosterone,[^S65] and the hair-loss panic rests on **one 2009 study that never measured hair**[^S62] — the only trial that did measure hair was null.[^S64] You do not need to load or cycle it,[^S17] and plain monohydrate beats every "advanced" form.[^S29][^S30][^S31][^S32] Brain, mood and metabolic benefits are real but **bounded** — largest in older adults, vegetarians, the sleep-deprived, or as an antidepressant adjunct in women,[^S71][^S77][^S83] and small-to-null in young, rested people.[^S74] The honest caveat cutting the other way: much of the enthusiastic literature is industry-funded — but the *safety* core is independently corroborated.[^S33][^S60][^S74][^S114]
+
+!!! tip "The picture, ranked by how strongly the evidence agrees"
+    - **Tier 1 — strongest consensus:** creatine + resistance training builds strength and lean mass (nothing without training);[^S5][^S6] it does **not** damage healthy kidneys (the raised creatinine is a metabolic artifact);[^S33][^S36] it is safe long-term across populations;[^S41][^S60] no dehydration or cramps;[^S53][^S55] it is **not** a steroid and does not change testosterone.[^S65]
+    - **Tier 2 — well-supported, with nuance:** the hair-loss scare is one DHT study that never measured hair, and the direct hair trial was null;[^S62][^S64] no loading or cycling needed;[^S17] monohydrate beats every "advanced" form;[^S29] brain benefits are real but bounded to deficit/stress (aging, vegetarians, sleep loss).[^S71][^S74][^S77]
+    - **Tier 3 — promising but preliminary:** an antidepressant adjunct signal in women;[^S83] glycemic control *with exercise* only;[^S101] partial bone-geometry benefit;[^S93] an early long-COVID-fatigue signal.[^S108]
+    - **Tier 4 — myths & marketing:** "it's a steroid,"[^S68] "wrecks your kidneys,"[^S44] "permanent bloat you can't lose,"[^S11] "you must cycle it,"[^S17] "causes hair loss,"[^S64] "bad for teenagers,"[^S61] "vegetarians don't need it,"[^S14] and the failed cardiac/cancer-cachexia cures.[^S113][^S114]
+
+## What this review covered
+
+An eight-part search swept the peer-reviewed literature across the ergogenic core, kidney safety, hormones and hair, brain and mood, women/aging/bone, mechanism and product forms, metabolic and therapeutic claims, and the specific influencer myths (steroid, cycling, bloating, teenagers, vegetarians, contamination). **Every candidate PMID — 119 — was then independently title-matched against PubMed (0 wrong, 0 retracted)**, and the load-bearing abstracts (the efficacy meta-analyses, the kidney meta, the DHT and hair trials, the depression and glycemic RCTs, the metabolic-burden paper, the postmenopausal and cachexia trials) were read from source for their exact numbers. A recurring honesty note runs through it: much of the positive creatine research comes from the industry-linked International Society of Sports Nutrition (ISSN), which is flagged throughout — but the safety core is backed by independent groups.
+
+## Tier 1 — The strongest evidence (it works, and the safety scares are wrong)
+
+### It builds muscle and strength — but the training does most of the work
+
+This is the most-replicated result in sports supplementation. Meta-analyses agree that creatine combined with resistance training builds lean mass and strength: a 35-trial meta put the lean-mass gain at **+1.10 kg with training** (and a non-significant +0.03 kg *without* exercise),[^S5] a 22-trial meta in older adults found **+1.37 kg lean mass** plus greater chest- and leg-press strength,[^S6][^S7] and strength meta-analyses (upper and lower limb) agree.[^S3][^S4][^S9] The load-bearing nuance is size and dependency: the pooled body-composition effect is "small-to-moderate,"[^S2] and creatine is an **amplifier of resistance training, not a substitute for it** — with no training stimulus it does almost nothing.[^S5]
+
+### It is real muscle — but the fast early gain is partly water
+
+The "it's just water weight" line is half true. Muscle-biopsy trials show creatine drives genuine growth: larger fiber cross-sectional area,[^S12][^S14] more satellite cells and myonuclei (true remodeling),[^S13] and an anabolic gene-expression signature.[^S15] But the *rapid* first-week increase in scale weight is largely **intracellular water** drawn into the muscle cell,[^S11] and a 2025 RCT with a supplement wash-in showed that once that water was accounted for, 5 g/day added **no** lean mass beyond training alone (a +0.51 kg wash-in bump, then no between-group difference).[^S10] So the honest picture is real hypertrophy over months, with the "instant gains" of the first week being cell hydration.
+
+### The kidney scare is a measurement artifact
+
+Creatine is metabolized to creatinine, so supplementing **mildly raises serum creatinine** — and therefore lowers estimated-GFR equations — **without any true fall in kidney filtration**.[^S33][^S49] Studies using *measured* GFR (⁵¹Cr-EDTA and clearance markers) find no renal impairment,[^S36][^S39] including in resistance-trained men on high-protein diets[^S38] and in type-2 diabetics with elevated renal risk;[^S37] three separate meta-analyses reach the same conclusion.[^S33][^S34][^S35] The entire "creatine destroys kidneys" narrative traces to **two confounded single-patient case reports** — both in people with pre-existing kidney disease and on other nephrotoxic drugs.[^S45][^S46] A 2023 review put it bluntly: it is time for a "requiem" for the creatine-kidney-failure myth.[^S44]
+
+### It is safe long-term, across populations
+
+Up to 21 months of use left roughly 50 clinical health markers unchanged;[^S41] the ISSN safe ceiling is 30 g/day for five years;[^S1] and high doses were tolerated in months-long trials in ALS[^S58] patients. A dedicated female-only adverse-event meta-analysis (29 studies / 951 women) recorded **no deaths and no serious adverse events**, and no difference versus placebo in total adverse events, gastrointestinal events, weight gain, or renal/hepatic markers.[^S60] Youth are not a special-risk group either — a review of active adolescents found a strong safety profile and no evidence-based reason for a blanket ban.[^S61]
+
+### No dehydration, no cramps — if anything, fewer
+
+The dehydration/cramp myth runs the opposite way to the evidence. A meta-analysis found no impairment of hydration or thermoregulation and no rise in heat-illness risk;[^S53] subjects who exercised dehydrated in the heat were unharmed;[^S54] and season-long football cohorts had **fewer** cramps, dehydration episodes and injuries on creatine.[^S55][^S57] The intracellular water creatine draws into muscle is, if anything, protective.
+
+### It is not a steroid and does not raise testosterone
+
+Creatine is a naturally occurring amino-acid derivative found in meat and fish — not a hormone, and not a banned substance. Controlled trials show no change versus placebo in total testosterone, SHBG, free-androgen index, cortisol, growth hormone or IGF-1,[^S65] and umbrella reviews of "testosterone boosters" place it outside the category of supplements that raise serum T.[^S68]
+
+## Tier 2 — Well-supported, with real nuance (hair, dosing, forms, brain)
+
+### The hair-loss scare rests on one study that never measured hair
+
+The entire "creatine causes baldness" claim comes from a **single 2009 study** in 20 rugby players, in which DHT rose (+56% after loading, +40% after maintenance) and the DHT-to-testosterone ratio rose — but which **never measured hair** and was never replicated,[^S62] and was formally critiqued at publication.[^S63] In 2025 the first trial designed to look at hair directly — 12 weeks, 5 g/day, with Trichogram and FotoFinder imaging — found **no change in DHT, in the DHT:T ratio, or in any hair-density, thickness or follicle-count measure** versus placebo, and concluded it was "strong evidence against the claim that creatine contributes to hair loss."[^S64] The mechanism is an unreplicated hypothesis; the only outcome data are null.
+
+### You do not need to "load," and you do not need to "cycle"
+
+A loading phase (20 g/day for about six days) saturates muscle creatine quickly, but **3–5 g/day reaches the identical saturation in three to four weeks** — loading only speeds arrival, it is not required.[^S17][^S16] There is likewise no cycling requirement: continuous 3–5 g/day simply maintains the elevated stores, and stopping lets them drift back to baseline over about a month.[^S17]
+
+### Plain monohydrate is the gold standard — the "advanced" forms are marketing
+
+Creatine monohydrate is roughly 99% bioavailable and raises muscle stores 15–40%.[^S29] Head-to-head trials show every marketed alternative fails to beat it: creatine ethyl ester was actually *worse* (lower muscle-creatine gain, more degradation),[^S30] buffered "Kre-Alkalyn" was no better even at a lower dose,[^S31] and creatine nitrate did not outperform equimolar monohydrate.[^S32] Pay for monohydrate, ideally a tested brand.
+
+### Brain benefits are real but concentrated in deficit and stress
+
+Creatine crosses the blood–brain barrier slowly — brain creatine rises only about 8% versus roughly 20% in muscle[^S75] — so the cognitive effect is largest where the brain is short of it or under stress: memory in **older adults**,[^S71] **vegetarians** (lower baseline stores),[^S77][^S78] and **sleep deprivation**.[^S82][^S89] In young, rested, meat-eating adults the **largest** trial to date (123 people) found only a small, borderline effect and no vegetarian advantage,[^S74] and a balanced review confirms the benefit shrinks toward zero without a deficit.[^S89] The "response" question is the same story from the muscle side: uptake is inversely related to your baseline, so low-store individuals — especially **vegetarians** — gain the most and already-saturated meat-eaters the least.[^S18][^S28]
+
+### Women benefit and it is safe
+
+Women carry roughly 70–80% lower endogenous creatine stores than men.[^S87] The evidence in women is favorable: a 2026 meta-analysis of postmenopausal trials found **+0.37 kg lean mass and +7.5 kg leg-press strength when at least 5 g/day is combined with resistance training**,[^S92] vulnerable older women improved lean mass and function with creatine plus training,[^S96] and there is no evidence that creatine disrupts female sex hormones.[^S70]
+
+## Tier 3 — Promising but preliminary, or conditional
+
+- **Depression** — the strongest data are for *augmentation*: adding 5 g/day to an SSRI accelerated and deepened the response in women with major depression (greater symptom improvement from week 2),[^S83] with a supporting brain-bioenergetics rationale[^S84] and an association in a large dietary survey.[^S86] But this is adjunct-to-medication in women, not a monotherapy, and an open-label study saw both bipolar patients switch into hypomania — a real safety flag.[^S85]
+- **Blood sugar** — creatine plus *exercise* cut HbA1c by 1.1% in type-2 diabetics and raised GLUT-4 translocation (the strongest human trial),[^S101] but without an exercise co-intervention, meta-analyses find no glycemic effect.[^S102][^S104]
+- **Fatigue / long-COVID** — small, mostly single-blind trials suggest 6 g/day reduces fatigue and raises grip strength;[^S108][^S109] promising, not established.
+- **Bone** — the best 12-month trial attenuated femoral-neck bone-density loss and improved hip bone geometry with resistance training,[^S93] but overall bone density is unchanged in the meta-analysis[^S92] and reviews decline to recommend creatine as an osteoporosis therapy.[^S90][^S97]
+- **Immune / inflammation** — an acute blunting of post-exertion cytokines,[^S106] but no chronic anti-inflammatory effect (a meta of double-blind trials was null for CRP, IL-6 and TNF).[^S105]
+- **Brain injury** — mechanistically promising, with one small pediatric study,[^S88] but no adult concussion trial.[^S89]
+- **Caffeine** — the "caffeine cancels creatine" rule is a single 1996 study of nine people;[^S116] later reviews find everyday co-use is fine.[^S117][^S118]
+
+## Tier 4 — Myths, misconceptions, and marketing
+
+- **"It's a steroid / a banned PED."** No — it is an amino-acid derivative from meat and fish, not a hormone, and it is not on any banned list.[^S68][^S1]
+- **"It wrecks your kidneys."** The higher creatinine reading is the metabolic artifact, not lost filtration; measured-GFR studies and meta-analyses show no decline even in kidney patients.[^S39][^S44]
+- **"Water bloat you can't lose."** The water it retains is *inside* the muscle cell, not subcutaneous, so it does not read as a puffy look, and it reverses within about four weeks of stopping.[^S11][^S17]
+- **"You must cycle it."** There is no physiological basis; continuous 3–5 g/day simply keeps stores saturated.[^S17]
+- **"It causes hair loss."** One DHT study, no hair endpoint, direct hair trial null (see Tier 2).[^S62][^S64]
+- **"Bad for teenagers."** No evidence of harm in active youth.[^S61]
+- **"Vegetarians don't need it."** Backwards — they have lower baseline stores and respond the most.[^S14][^S77]
+- **Cardiac and cancer-cachexia cures.** Creatine improved *skeletal-muscle* endurance but **not** heart function in heart-failure trials,[^S111] added nothing to cardiac rehabilitation,[^S113] and a 263-patient cancer trial found **no** benefit for the anorexia/weight-loss syndrome.[^S114] Not every promising clinical use panned out.
+
+## What actually matters
+
+For a healthy person who lifts, creatine is close to a free lunch: **creatine monohydrate, 3–5 g every day, with no loading and no cycling**,[^S17] taken consistently and **paired with resistance training** for the muscle benefit,[^S5] from a **third-party-tested product** (Informed-Sport / Creapure) because roughly 15% of loosely-regulated supplements have been found contaminated with undeclared substances.[^S119] Expect modest, real strength and lean-mass gains over months (not a dramatic overnight change once the initial water settles), possible cognitive help if you are older, vegetarian or sleep-deprived, and none of the harms the myths promise. What it will *not* do is build muscle without training, boost testosterone, cure a disease, or wreck your kidneys or hairline.
+
+One mechanistic footnote worth knowing: your body makes creatine from the amino acids **glycine, arginine and methionine**, and this synthesis consumes a striking **~40% of the body's methyl groups** (from methionine/SAM) — which is part of why **vegetarians**, who must make nearly all their own creatine, respond the most to supplementation.[^S24]
+
+---
+
+*Informational only, not medical advice. This page is a public link but is unlisted (`noindex`). Every citation points to a public, independently verifiable source (DOI / PMID). Use the language selector at the top right for English / Ελληνικά.*
+
+[^S1]: Kreider RB, et al. (2017) *J Int Soc Sports Nutr* 14:18. ISSN position stand; safe up to 30 g/day for 5 years, from infancy to old age. DOI [10.1186/s12970-017-0173-z](https://doi.org/10.1186/s12970-017-0173-z) · PMID 28615996. *ISSN; several authors industry-funded.*
+[^S2]: Branch JD (2003) *Int J Sport Nutr Exerc Metab* 13(2):198-226. Meta-analysis (~100 effect sizes): small-to-moderate effect on body composition and high-intensity performance. DOI [10.1123/ijsnem.13.2.198](https://doi.org/10.1123/ijsnem.13.2.198) · PMID 12945830.
+[^S3]: Lanhers C, et al. (2015) *Sports Med* 45(9):1285-1294. Meta-analysis: creatine increases lower-limb strength. DOI [10.1007/s40279-015-0337-4](https://doi.org/10.1007/s40279-015-0337-4) · PMID 25946994.
+[^S4]: Lanhers C, et al. (2017) *Sports Med* 47(1):163-173. Meta-analysis: creatine increases upper-limb strength. DOI [10.1007/s40279-016-0571-4](https://doi.org/10.1007/s40279-016-0571-4) · PMID 27328852.
+[^S5]: Delpino FM, et al. (2022) *Nutrition* 103-104:111791. Meta of 35 RCTs / 1,192 people: lean mass +1.10 kg **with** resistance training, +0.03 kg (NS) without. DOI [10.1016/j.nut.2022.111791](https://doi.org/10.1016/j.nut.2022.111791) · PMID 35986981.
+[^S6]: Chilibeck PD, et al. (2017) *Open Access J Sports Med* 8:213-226. Meta of 22 RCTs / 721 older adults: +1.37 kg lean mass with resistance training. DOI [10.2147/OAJSM.S123529](https://doi.org/10.2147/OAJSM.S123529) · PMID 29138605. *Authors declare no COI.*
+[^S7]: Devries MC, Phillips SM (2014) *Med Sci Sports Exerc* 46(6):1194-1203. Meta, 357 older adults: greater lean-mass/strength gains with creatine + RT. DOI [10.1249/MSS.0000000000000220](https://doi.org/10.1249/MSS.0000000000000220) · PMID 24576864.
+[^S9]: Rawson ES, Volek JS (2003) *J Strength Cond Res* 17(4):822-831. Review of 22 RCTs: ~8% greater strength and ~14% greater weightlifting-performance vs RT alone. PMID 14636102.
+[^S10]: Desai I, et al. (2025) *Nutrients* 17(6):1081. RCT, N=63, with wash-in: the +0.51 kg early gain was largely water; no lean-mass benefit beyond RT thereafter. DOI [10.3390/nu17061081](https://doi.org/10.3390/nu17061081) · PMID 40292479.
+[^S11]: Powers ME, et al. (2003) *J Athl Train* 38(1):44-50. Creatine raised total body water but preserved the intracellular:extracellular ratio — the water is intracellular, not bloat. PMID 12937471.
+[^S12]: Volek JS, et al. (1999) *Med Sci Sports Exerc* 31(8):1147-1156. RCT + biopsies: increased Type I/IIa/IIx fiber cross-sectional area beyond placebo. PMID 10449017.
+[^S13]: Olsen S, et al. (2006) *J Physiol* 573(Pt 2):525-534. RCT + biopsies: augmented satellite-cell and myonuclei accretion — true remodeling. PMID 16581862.
+[^S14]: Burke DG, et al. (2003) *Med Sci Sports Exerc* 35(11):1946-1955. RCT in vegetarians vs omnivores: vegetarians (lower baseline) gained more muscle creatine and lean mass. PMID 14600563.
+[^S15]: Safdar A, et al. (2008) *Physiol Genomics* 32(2):219-228. Human gene-expression: creatine upregulated cytoskeletal/glycogen/protein-synthesis genes. PMID 17957000.
+[^S16]: Buford TW, et al. (2007) *J Int Soc Sports Nutr* 4:6. ISSN position stand: a lower daily dose reaches the same stores without a loading phase. DOI [10.1186/1550-2783-4-6](https://doi.org/10.1186/1550-2783-4-6) · PMID 17908288. *ISSN.*
+[^S17]: Hultman E, et al. (1996) *J Appl Physiol* 81(1):232-237. 20 g/day × 6 d raises muscle creatine ~20%; 3 g/day reaches the same level, just slower — loading is optional. DOI [10.1152/jappl.1996.81.1.232](https://doi.org/10.1152/jappl.1996.81.1.232) · PMID 8828669.
+[^S18]: Harris RC, et al. (1992) *Clin Sci (Lond)* 83(3):367-374. Oral creatine raises muscle total creatine most in low-baseline subjects — origin of the "responder" concept. DOI [10.1042/cs0830367](https://doi.org/10.1042/cs0830367) · PMID 1327657.
+[^S24]: Brosnan JT, et al. (2011) *Amino Acids* 40(5):1325-1331. "The metabolic burden of creatine synthesis": consumes the whole glycine molecule but ~40% of SAM-derived methyl groups — the dominant cost. DOI [10.1007/s00726-011-0853-y](https://doi.org/10.1007/s00726-011-0853-y) · PMID 21387089.
+[^S28]: Syrotuik DG, Bell GJ (2004) *J Strength Cond Res* 18(3):610-617. Responders had the lowest baseline creatine and more Type-II fibers; non-responders were already saturated. PMID 15320650.
+[^S29]: Jäger R, et al. (2011) *Amino Acids* 40(5):1369-1383. Monohydrate is ~99% bioavailable; no marketed alternative is shown superior. DOI [10.1007/s00726-011-0874-6](https://doi.org/10.1007/s00726-011-0874-6) · PMID 21424716. *Author is an industry consultant.*
+[^S30]: Spillane M, et al. (2009) *J Int Soc Sports Nutr* 6:6. Creatine ethyl ester was worse than monohydrate (lower muscle creatine, more degradation). DOI [10.1186/1550-2783-6-6](https://doi.org/10.1186/1550-2783-6-6) · PMID 19228401.
+[^S31]: Jagim AR, et al. (2012) *J Int Soc Sports Nutr* 9(1):43. Buffered "Kre-Alkalyn" was no better than monohydrate. DOI [10.1186/1550-2783-9-43](https://doi.org/10.1186/1550-2783-9-43) · PMID 22971354.
+[^S32]: Galvan E, et al. (2016) *J Int Soc Sports Nutr* 13:12. Creatine nitrate did not outperform equimolar monohydrate. DOI [10.1186/s12970-016-0124-0](https://doi.org/10.1186/s12970-016-0124-0) · PMID 27034623.
+[^S33]: de Souza e Silva A, et al. (2019) *J Ren Nutr* 29(6):480-489. Meta-analysis: creatine mildly raises serum creatinine (the artifact) but "does not induce renal damage." DOI [10.1053/j.jrn.2019.05.004](https://doi.org/10.1053/j.jrn.2019.05.004) · PMID 31375416.
+[^S34]: Naeini EK, et al. (2025) *BMC Nephrol* 26:622. Meta-analysis of RCTs: no clinically meaningful adverse effect on renal-function markers. PMID 41199218.
+[^S35]: Tsiaras A, et al. (2026) *J Ren Nutr*. Most recent meta of RCTs: no harm to kidney function. PMID 42035842.
+[^S36]: Gualano B, et al. (2008) *Eur J Appl Physiol* 103(1):33-40. RCT with ⁵¹Cr-EDTA (true GFR): creatine + training did not affect measured GFR. DOI [10.1007/s00421-007-0662-x](https://doi.org/10.1007/s00421-007-0662-x) · PMID 18188581.
+[^S37]: Gualano B, et al. (2011) *Eur J Appl Physiol* 111(5):749-756. No kidney impairment in type-2 diabetics (elevated renal risk). PMID 20976468.
+[^S38]: Lugaresi R, et al. (2013) *J Int Soc Sports Nutr* 10:26. No kidney impairment even with a high-protein diet. DOI [10.1186/1550-2783-10-26](https://doi.org/10.1186/1550-2783-10-26) · PMID 23680457.
+[^S39]: Poortmans JR, Francaux M (1999) *Med Sci Sports Exerc* 31(8):1108-1110. Long-term users (up to 5 yr): normal GFR and glomerular permeability. PMID 10449011.
+[^S41]: Kreider RB, et al. (2003) *Mol Cell Biochem* 244(1-2):95-104. Up to 21 months: ~50 clinical markers unchanged vs non-users. PMID 12701816.
+[^S44]: Longobardi I, et al. (2023) *Nutrients* 15(6):1466. "Requiem for creatine-induced kidney failure?" — case-report scares are confounded; no renal decline. DOI [10.3390/nu15061466](https://doi.org/10.3390/nu15061466) · PMID 36986197.
+[^S45]: Pritchard NR, Kalra PA (1998) *Lancet* 351(9111):1252-1253. Case report (N=1) — but pre-existing glomerulosclerosis + other nephrotoxic drugs; improved on stopping. PMID 9643752.
+[^S46]: Koshy KM, et al. (1999) *N Engl J Med* 340(10):814-815. Case report (N=1) of interstitial nephritis — isolated, uncontrolled, alternative explanations. PMID 10075534.
+[^S49]: Antonio J, et al. (2021) *J Int Soc Sports Nutr* 18(1):13. "Common questions and misconceptions": rebuts kidney/hair/dehydration myths; explains the creatinine artifact. DOI [10.1186/s12970-021-00412-w](https://doi.org/10.1186/s12970-021-00412-w) · PMID 33557850. *ISSN.*
+[^S53]: Lopez RM, et al. (2009) *J Athl Train* 44(2):215-223. Meta-analysis: creatine does not impair hydration/thermoregulation or raise heat-illness risk. DOI [10.4085/1062-6050-44.2.215](https://doi.org/10.4085/1062-6050-44.2.215) · PMID 19295968.
+[^S54]: Watson G, et al. (2006) *J Athl Train* 41(1):18-29. Dehydrated exercise in heat: no worsening of thermoregulation or performance. PMID 16619091.
+[^S55]: Greenwood M, et al. (2003) *J Athl Train* 38(3):216-219. Season cohort: creatine users had **fewer** cramps, dehydration episodes and injuries. PMID 14608430.
+[^S57]: Dalbo VJ, et al. (2008) *Br J Sports Med* 42(7):567-573. Review: no controlled evidence links creatine to cramps or dehydration. DOI [10.1136/bjsm.2007.042432](https://doi.org/10.1136/bjsm.2007.042432) · PMID 18184753.
+[^S58]: Groeneveld GJ, et al. (2005) *Int J Sports Med* 26(4):307-313. ~175 ALS patients, high dose, months: few adverse effects, no renal/hepatic toxicity. PMID 15795816.
+[^S60]: de Guingand DL, et al. (2020) *Nutrients* 12(6):1780. Female-only adverse-event meta (29 studies / 951 women): no deaths, no serious AEs, no renal/hepatic differences. DOI [10.3390/nu12061780](https://doi.org/10.3390/nu12061780) · PMID 32549301. *Independent.*
+[^S61]: Jagim AR, et al. (2018) *Front Nutr* 5:115. Active adolescents/youth: strong safety profile; a blanket ban is not evidence-based. DOI [10.3389/fnut.2018.00115](https://doi.org/10.3389/fnut.2018.00115) · PMID 30547033.
+[^S62]: van der Merwe J, et al. (2009) *Clin J Sport Med* 19(5):399-404. The scare: DHT rose +56% (load), +40% (maintenance); DHT:T ratio rose — but **hair was never measured**. DOI [10.1097/JSM.0b013e3181b8b52f](https://doi.org/10.1097/JSM.0b013e3181b8b52f) · PMID 19741313.
+[^S63]: Green G (2010) *Clin J Sport Med* 20(3):220. Published comment critiquing the van der Merwe DHT finding; cautions against inferring hair loss. PMID 20445368.
+[^S64]: Lak M, et al. (2025) *J Int Soc Sports Nutr* 22(sup1):2495229. First trial to measure hair directly (Trichogram + FotoFinder): no change in DHT, DHT:T ratio, or any hair metric. DOI [10.1080/15502783.2025.2495229](https://doi.org/10.1080/15502783.2025.2495229) · PMID 40265319. *ISSN COI.*
+[^S65]: Volek JS, et al. (2004) *Eur J Appl Physiol* 91(5-6):628-637. No change vs placebo in testosterone, SHBG, free-androgen index, cortisol, GH or IGF-1. DOI [10.1007/s00421-003-1031-z](https://doi.org/10.1007/s00421-003-1031-z) · PMID 14685870.
+[^S68]: Warrier AA, et al. (2024) *Sports Health* 16(4):655-665. Umbrella review of PEDs: creatine is ergogenic and well-tolerated with no established androgenic-harm mechanism. DOI [10.1177/19417381231197389](https://doi.org/10.1177/19417381231197389) · PMID 37688400.
+[^S70]: Smith-Ryan AE, et al. (2025) *J Int Soc Sports Nutr* 22(sup1):2502094. Review of creatine across the female hormonal lifespan: no evidence of sex-hormone disruption. DOI [10.1080/15502783.2025.2502094](https://doi.org/10.1080/15502783.2025.2502094) · PMID 40371844. *ISSN.*
+[^S71]: Avgerinos KI, et al. (2018) *Exp Gerontol* 108:166-173. Systematic review of 6 RCTs: short-term memory/reasoning may improve; young rested people unchanged; benefit skews to aging/stressed brains. DOI [10.1016/j.exger.2018.04.013](https://doi.org/10.1016/j.exger.2018.04.013) · PMID 29704637.
+[^S74]: Sandkühler JF, et al. (2023) *BMC Med* 21(1):440. The largest cognition RCT (N=123): only a small, borderline effect; no vegetarian advantage; side effects more common with creatine. DOI [10.1186/s12916-023-03146-5](https://doi.org/10.1186/s12916-023-03146-5) · PMID 37968687. *Independent.*
+[^S75]: Dechent P, et al. (1999) *Am J Physiol* 277(3):R698-R704. Oral creatine raised **brain** total creatine only ~8% (vs ~20% in muscle) — slow BBB crossing. PMID 10484486.
+[^S77]: Rae C, et al. (2003) *Proc Biol Sci* 270(1529):2147-2150. Vegetarians: creatine improved working memory and reasoning under time pressure. DOI [10.1098/rspb.2003.2492](https://doi.org/10.1098/rspb.2003.2492) · PMID 14561278.
+[^S78]: Benton D, Donohoe R (2011) *Br J Nutr* 105(7):1100-1105. Creatine improved memory in vegetarians but not omnivores. PMID 21118604.
+[^S82]: Gordji-Nejad A, et al. (2024) *Sci Rep* 14(1):4937. A single high dose (0.35 g/kg) raised brain phosphocreatine and improved cognition during sleep deprivation — N=15, needs replication. DOI [10.1038/s41598-024-54249-9](https://doi.org/10.1038/s41598-024-54249-9) · PMID 38418482.
+[^S83]: Lyoo IK, et al. (2012) *Am J Psychiatry* 169(9):937-945. 5 g/day added to an SSRI accelerated and deepened the response in women with major depression (from week 2). DOI [10.1176/appi.ajp.2012.12010009](https://doi.org/10.1176/appi.ajp.2012.12010009) · PMID 22864465.
+[^S84]: Kious BM, et al. (2019) *Biomolecules* 9(9):406. Review: brain-bioenergetics rationale for creatine augmenting antidepressant response, notably in women. DOI [10.3390/biom9090406](https://doi.org/10.3390/biom9090406) · PMID 31450809.
+[^S85]: Roitman S, et al. (2007) *Bipolar Disord* 9(7):754-758. Open-label: unipolar patients improved, but both bipolar patients switched into hypomania — a safety signal. PMID 17988366.
+[^S86]: Bakian AV, et al. (2020) *Transl Psychiatry* 10(1):52. NHANES (N=22,692): higher dietary creatine associated with lower depression prevalence — observational. DOI [10.1038/s41398-020-0741-x](https://doi.org/10.1038/s41398-020-0741-x) · PMID 32066709.
+[^S87]: Smith-Ryan AE, et al. (2021) *Nutrients* 13(3):877. Females have ~70–80% lower endogenous creatine stores and may derive greater benefit. DOI [10.3390/nu13030877](https://doi.org/10.3390/nu13030877) · PMID 33800439.
+[^S88]: Sakellaris G, et al. (2006) *J Trauma* 61(2):322-329. Open-label pediatric TBI: faster recovery on creatine — small, no adult concussion RCT. PMID 16917445.
+[^S89]: Dolan E, et al. (2019) *Eur J Sport Sci* 19(1):1-14. "Beyond muscle": brain creatine responds less than muscle; benefits largest under stress/deficit; TBI evidence preliminary. DOI [10.1080/17461391.2018.1500644](https://doi.org/10.1080/17461391.2018.1500644) · PMID 30086660.
+[^S90]: Candow DG, Moriarty T (2024) *Curr Osteoporos Rep* 22(6):545-553. Creatine + RT reliably improves muscle in older adults; bone benefits limited/inconsistent ("hope vs hype"). DOI [10.1007/s11914-024-00895-x](https://doi.org/10.1007/s11914-024-00895-x) · PMID 39509039.
+[^S92]: Naddafha S, et al. (2026) *J Int Soc Sports Nutr* 23(1):2668435. Meta of 7 postmenopausal RCTs / 608 women: +0.37 kg lean mass, +7.5 kg leg-press with ≥5 g/day + RT; bone density unchanged. DOI [10.1080/15502783.2026.2668435](https://doi.org/10.1080/15502783.2026.2668435) · PMID 42141930. *ISSN/Alzchem-linked.*
+[^S93]: Chilibeck PD, et al. (2015) *Med Sci Sports Exerc* 47(8):1587-1595. 12-month RCT, postmenopausal women: attenuated femoral-neck BMD loss and improved hip geometry with RT; no whole-body BMD gain. DOI [10.1249/MSS.0000000000000571](https://doi.org/10.1249/MSS.0000000000000571) · PMID 25386713.
+[^S96]: Gualano B, et al. (2014) *Exp Gerontol* 53:7-15. Vulnerable older women: improved lean mass/function only when combined with RT; creatine alone had no effect. DOI [10.1016/j.exger.2013.11.014](https://doi.org/10.1016/j.exger.2013.11.014) · PMID 24530883.
+[^S97]: Lobo DM, et al. (2015) *Exp Gerontol* 70:97-104. 1 g/day, no training, osteopenic women: no bone/muscle benefit (sub-therapeutic dose, no stimulus). DOI [10.1016/j.exger.2015.07.012](https://doi.org/10.1016/j.exger.2015.07.012) · PMID 26192975.
+[^S101]: Gualano B, et al. (2011) *Med Sci Sports Exerc* 43(5):770-778. RCT in type-2 diabetics: creatine + exercise cut HbA1c 1.1% and raised GLUT-4 translocation. DOI [10.1249/MSS.0b013e3181fcee7d](https://doi.org/10.1249/MSS.0b013e3181fcee7d) · PMID 20881878.
+[^S102]: Delpino FM, et al. (2022) *Clin Nutr ESPEN* 47:97-104. Meta: no significant effect of creatine on fasting glucose, HbA1c or insulin resistance overall. PMID 35063192.
+[^S104]: Mancini de Sousa M, et al. (2022) *Curr Diabetes Rev* 18(9):e021221198909. SR of RCTs: only creatine **combined with exercise** showed glycemic benefit. PMID 34931982.
+[^S105]: de Camargo KMR, et al. (2026) *Front Immunol*. Meta of 8 double-blind RCTs: no significant reduction in resting CRP, IL-6 or TNF-α. PMID 41798953.
+[^S106]: Bassit RA, et al. (2008) *Amino Acids* 35(2):425-431. Pre-race creatine blunted the acute post-exercise rise in inflammatory cytokines (athletes). PMID 17917696.
+[^S108]: Dos Santos MSC, et al. (2026) *Front Nutr* 13:1731306. RCT, post-COVID: 6 g/day cut fatigue and raised handgrip strength — single-blind pilot. DOI [10.3389/fnut.2026.1731306](https://doi.org/10.3389/fnut.2026.1731306) · PMID 41958909.
+[^S109]: Slankamenac J, et al. (2023) *Food Sci Nutr* 11(11):6899-6906. RCT (N=12): 6 months raised muscle + brain creatine and reduced fatigue — hypothesis-generating. DOI [10.1002/fsn3.3597](https://doi.org/10.1002/fsn3.3597) · PMID 37970399.
+[^S111]: Gordon A, et al. (1995) *Cardiovasc Res* 30(3):413-418. Heart-failure RCT: raised skeletal-muscle phosphocreatine and endurance but not ejection fraction. PMID 7585833.
+[^S113]: Cornelissen VA, et al. (2010) *Clin Rehabil* 24(11):988-999. Cardiac-rehab RCT: adding creatine to exercise gave no extra benefit. DOI [10.1177/0269215510367995](https://doi.org/10.1177/0269215510367995) · PMID 20576665.
+[^S114]: Jatoi A, et al. (2017) *Ann Oncol* 28(8):1957-1963. NCI cooperative-group RCT (N=263): no benefit for the cancer anorexia/weight-loss syndrome. DOI [10.1093/annonc/mdx232](https://doi.org/10.1093/annonc/mdx232) · PMID 28475678. *Independent.*
+[^S116]: Vandenberghe K, et al. (1996) *J Appl Physiol* 80(2):452-457. The single study behind "caffeine cancels creatine" (N=9). PMID 8929583.
+[^S117]: Trexler ET, Smith-Ryan AE (2015) *Int J Sport Nutr Exerc Metab* 25(6):607-623. No evidence caffeine impairs creatine loading or benefit; co-use is fine. PMID 26219105.
+[^S118]: Elosegui S, et al. (2022) *Int J Sport Nutr Exerc Metab* 32(1):40-48. Systematic review: concurrent caffeine does not reduce creatine's ergogenic benefit. PMID 35016154.
+[^S119]: Geyer H, et al. (2004) *Int J Sports Med* 25(2):124-129. ~15% of 634 supplements contained undeclared anabolic steroids — the rationale for third-party testing. DOI [10.1055/s-2004-819955](https://doi.org/10.1055/s-2004-819955) · PMID 14986195.

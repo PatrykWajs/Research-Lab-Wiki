@@ -19,14 +19,15 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-07-20: new Seed Oils page + index card. Only these two are re-translated
-    # (bpa/collagen/testosterone/methodology already done in their own runs — don't re-pay).
-    "seed-oils.md": ("el/sporelaia.md", {"](methodology.md)": "](methodologia.md)"}),
+    # 2026-07-23: new Creatine page + index card. Only these two are re-translated
+    # (bpa/collagen/testosterone/seed-oils/methodology already done in their own runs — don't re-pay).
+    "creatine.md": ("el/kreatini.md", {"](../creatine/)": "](../el/kreatini/)", "](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
         "](testosterone.md)":         "](testosteroni.md)",
         "](seed-oils.md)":            "](sporelaia.md)",
+        "](creatine.md)":             "](kreatini.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -58,7 +59,19 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Mousavi","Zhang","Liang","Jäger","Jager","Imamura","Rosqvist","Bjermo","Luukkonen","Vessby","Mensink",
     "Grootveld","Cam","Cahill","Qin","Pelucchi","Deol","Alvheim","Knobbe","Guyenet","Pearce","Dayton","Zock",
     "Katan","de Pablo","Tjonneland","Tjønneland","de Silva","de Oliveira Otto","Blasbalg","Shanahan","O'Keefe",
-    "Csala","Santoro","Ganesan","Micha","Wallace","Carlson","Whigham","Cate","Nextida","Steak"]
+    "Csala","Santoro","Ganesan","Micha","Wallace","Carlson","Whigham","Cate","Nextida","Steak",
+    # creatine project — acronyms/terms/brands + author surnames (keep Latin)
+    "GFR","GLUT4","GLUT-4","PCr","ATP","AGAT","GAMT","CreaT1","SAM","ISSN","Creapure","Kre-Alkalyn",
+    "CEE","HCl","HAM-D","PFS-R","TBI","MDD","SSRI","CKD","IGF-1","GH","BBB","RAPM","BDS","FotoFinder","Trichogram",
+    "Kreider","Candow","Forbes","Stout","Branch","Lanhers","Delpino","Chilibeck","Devries","Rawson","Desai",
+    "Powers","Olsen","Safdar","Buford","Hultman","Wyss","Kaddurah-Daouk","Brosnan","Persky","Greenhaff","Casey",
+    "Syrotuik","Spillane","Jagim","Galvan","de Souza","Naeini","Tsiaras","Gualano","Lugaresi","Poortmans","Francaux",
+    "Schilling","Farquhar","Longobardi","Pritchard","Kalra","Koshy","Kim","Lopez","Watson","Greenwood","Dalbo",
+    "Groeneveld","Bender","Guingand","Warrier","Eghbali","Avgerinos","Prokopidis","Xu","Sandkühler","Sandkuhler",
+    "Dechent","Yazigi","Solis","Rae","Benton","Donohoe","Watanabe","McMorris","Turner","Gordji-Nejad","Lyoo","Kious",
+    "Roitman","Bakian","Sakellaris","Dolan","Moriarty","Naddafha","Chrusch","Lobo","Dickinson","Derave","Pinto",
+    "Mancini","Camargo","Bassit","Santos","Slankamenac","Gordon","Andrews","Cornelissen","Jatoi","Norman",
+    "Vandenberghe","Trexler","Elosegui","Geyer","Ziegenfuss","Kalman","Wildman","Almada","Alzchem"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
