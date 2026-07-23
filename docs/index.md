@@ -46,7 +46,7 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     ---
 
-    Kidney damage, hair loss, "it's a steroid," bloating, must-cycle — which creatine fears hold up (almost none), and what it actually does for muscle, brain and health. The most-studied, best-evidenced, safest sports supplement. **119 cited sources**, all PMIDs verified.
+    Kidney damage, hair loss, "it's a steroid," bloating, must-cycle — which creatine fears hold up (almost none), and what it actually does for muscle, brain and health. The most-studied, best-evidenced, safest sports supplement. **169 cited sources**, all PMIDs verified.
 
     [:octicons-arrow-right-24: Read the research](creatine.md)
 

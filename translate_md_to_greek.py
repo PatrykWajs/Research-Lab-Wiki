@@ -71,7 +71,13 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Dechent","Yazigi","Solis","Rae","Benton","Donohoe","Watanabe","McMorris","Turner","Gordji-Nejad","Lyoo","Kious",
     "Roitman","Bakian","Sakellaris","Dolan","Moriarty","Naddafha","Chrusch","Lobo","Dickinson","Derave","Pinto",
     "Mancini","Camargo","Bassit","Santos","Slankamenac","Gordon","Andrews","Cornelissen","Jatoi","Norman",
-    "Vandenberghe","Trexler","Elosegui","Geyer","Ziegenfuss","Kalman","Wildman","Almada","Alzchem"]
+    "Vandenberghe","Trexler","Elosegui","Geyer","Ziegenfuss","Kalman","Wildman","Almada","Alzchem",
+    # creatine deepen pass — new author surnames + acronyms
+    "GAMT","AGAT","SLC6A8","CreaT","NET-PD","CREST-E","NAFLD","UPDRS","NINDS","NREM","RMSSD","HRV","GATM","RTD","RTDs",
+    "Kieburtz","Hersch","Kley","Vorgerd","Stöckler","Stockler","Stöckler-Ipsiroglu","Salomons","Item","Klopstock",
+    "Turck","Eckert","Toniolo","Barranco-Gil","Barranco","Dworak","Maaoui","Deminice","Arciero","Rockwell","Sales",
+    "Moore","Alraddadi","Ganguly","Kazeminasab","Pashayee-Khamene","Pashayee","Rubinchuk","Ellery","Muccini",
+    "Cordingley","Salem","Ganesan","Watt","Guerrero-Ontiveros","Oliveira","Korovljev","Aguiar","Ben Maaoui","Cochrane"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
