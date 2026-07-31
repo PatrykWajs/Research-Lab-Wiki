@@ -19,15 +19,16 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-07-23: new Creatine page + index card. Only these two are re-translated
-    # (bpa/collagen/testosterone/seed-oils/methodology already done in their own runs — don't re-pay).
-    "creatine.md": ("el/kreatini.md", {"](../creatine/)": "](../el/kreatini/)", "](methodology.md)": "](methodologia.md)"}),
+    # 2026-07-31: new Omega-3 / Fish Oil page + index card. Only these two are re-translated
+    # (bpa/collagen/testosterone/seed-oils/creatine/methodology already done in their own runs — don't re-pay).
+    "omega-3-fish-oil.md": ("el/omega-3-ichthelaio.md", {"](../omega-3-fish-oil/)": "](../el/omega-3-ichthelaio/)", "](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
         "](testosterone.md)":         "](testosteroni.md)",
         "](seed-oils.md)":            "](sporelaia.md)",
         "](creatine.md)":             "](kreatini.md)",
+        "](omega-3-fish-oil.md)":     "](omega-3-ichthelaio.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -77,7 +78,24 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Kieburtz","Hersch","Kley","Vorgerd","Stöckler","Stockler","Stöckler-Ipsiroglu","Salomons","Item","Klopstock",
     "Turck","Eckert","Toniolo","Barranco-Gil","Barranco","Dworak","Maaoui","Deminice","Arciero","Rockwell","Sales",
     "Moore","Alraddadi","Ganguly","Kazeminasab","Pashayee-Khamene","Pashayee","Rubinchuk","Ellery","Muccini",
-    "Cordingley","Salem","Ganesan","Watt","Guerrero-Ontiveros","Oliveira","Korovljev","Aguiar","Ben Maaoui","Cochrane"]
+    "Cordingley","Salem","Ganesan","Watt","Guerrero-Ontiveros","Oliveira","Korovljev","Aguiar","Ben Maaoui","Cochrane",
+    # omega-3 / fish oil project — trials/acronyms/brands (keep Latin)
+    "DPA","VITAL","VITAL-DEP","VITAL-DKD","ASCEND","REDUCE-IT","STRENGTH","GISSI","GISSI-Prevenzione","JELIS","ORIGIN",
+    "OMEGA","DREAM","DOMInO","ORIP","ADORE","KUDOS","INFAT","AREDS2","NAT2","COPSAC","OPERA","FORCE","PURE","USPSTF",
+    "NICE","ESC","SELECT","Vascepa","IPE","TOTOX","SPM","SPMs","MACE","AFib","apoB","Lp(a)","IL-1β","eGFR","SBP","DBP",
+    "mTOR","p70S6K","OSDI","ADAS-Cog","MMSE","PHQ-8","HOMA-IR","APOE4","APOE","OmegaQuant","ISSFAL","GOED","Omacor",
+    "Lovaza","Pronova","Amarin","Martek","MRI-PDFF","rTG","GrimAge","PhenoAge","CANTAB","Bayley","WPPSI","OAT",
+    # omega-3 project — author surnames (keep Latin)
+    "Burdge","Brenna","Serhan","Dyerberg","Ulven","Ramprasath","Arterburn","Papanikolaou","Yokoyama","Rauch","Roncaglioni",
+    "Manson","Bhatt","Nicholls","Aung","Abdelhamid","Gencer","Liao","Mocking","Appleton","Okereke","Bloch","Hawkey","Quinn",
+    "Freund-Levi","Chew","Andrieu","Yurko-Mauro","Yassine","Arellanes","Ostadrahimi","Goldberg","Senftleber","Hahn",
+    "Costenbader","Asbell","Giannaccare","Middleton","Makrides","Simmonds","Gould","Colombo","Jasani","Hauner","Much",
+    "Hibbeln","McGlory","Santo André","Therdyothin","Akinkuolie","Khalafi","Bird","Nichols","Ottestad","Foran","Mozaffarian",
+    "Akintoye","Skulas-Ray","Choi","Bailey","Brasky","Aucoin","Grey","O'Keefe","McBurney","Fabian","Miller","Allaire",
+    "Hidayat","Simental-Mendía","Jensen","Abbott","Safarinejad","Hosseini","Michaelsen","Falsig","Abdollahzadeh",
+    "Nadjarzadeh","Huang","Snipe","Pan","Naghshi","Rodriguez-Leyva","Ursoniu","Hadi","Simon","Carayol","Brouwer","Azrad",
+    "Bisgaard","Souied","Xue","de Boer","Chewcharat","Xie","Hong","Abbasi","Kong","Dyall","Carnegie","Mohan","Javaid",
+    "Assadourian","Mangione"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(

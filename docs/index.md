@@ -50,6 +50,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](creatine.md)
 
+-   :material-fish:{ .lg .middle } __Omega-3 / Fish Oil: What It Actually Does vs What People Think__
+
+    ---
+
+    Heart, brain, joints, mood, "smarter baby," testosterone — which fish-oil claims hold up, and which are marketing. Blood omega-3 predicts mortality, yet supplements are null for primary prevention and raise atrial fibrillation at high dose. **146 cited sources**, all study PMIDs title-matched.
+
+    [:octicons-arrow-right-24: Read the research](omega-3-fish-oil.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
