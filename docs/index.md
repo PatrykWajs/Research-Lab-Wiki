@@ -58,6 +58,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](omega-3-fish-oil.md)
 
+-   :material-white-balance-sunny:{ .lg .middle } __Vitamin D: What It Actually Does vs What People Think__
+
+    ---
+
+    Bones, immunity, mood, testosterone, cancer, longevity — which vitamin-D claims are real, and which ("everyone is deficient, megadose to be safe") are a cutoff artifact? A deficiency treatment mis-sold as a booster: null for almost every hard outcome in the replete, real only for correcting deficiency. **90 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](vitamin-d.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

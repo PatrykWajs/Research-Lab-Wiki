@@ -19,9 +19,9 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-07-31: new Omega-3 / Fish Oil page + index card. Only these two are re-translated
-    # (bpa/collagen/testosterone/seed-oils/creatine/methodology already done in their own runs — don't re-pay).
-    "omega-3-fish-oil.md": ("el/omega-3-ichthelaio.md", {"](../omega-3-fish-oil/)": "](../el/omega-3-ichthelaio/)", "](methodology.md)": "](methodologia.md)"}),
+    # 2026-08-06: new Vitamin D page + index card. Only these two are re-translated
+    # (bpa/collagen/testosterone/seed-oils/creatine/omega-3/methodology already done in their own runs — don't re-pay).
+    "vitamin-d.md": ("el/vitamini-d.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -29,6 +29,7 @@ PAGES = {
         "](seed-oils.md)":            "](sporelaia.md)",
         "](creatine.md)":             "](kreatini.md)",
         "](omega-3-fish-oil.md)":     "](omega-3-ichthelaio.md)",
+        "](vitamin-d.md)":            "](vitamini-d.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -95,7 +96,18 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Hidayat","Simental-Mendía","Jensen","Abbott","Safarinejad","Hosseini","Michaelsen","Falsig","Abdollahzadeh",
     "Nadjarzadeh","Huang","Snipe","Pan","Naghshi","Rodriguez-Leyva","Ursoniu","Hadi","Simon","Carayol","Brouwer","Azrad",
     "Bisgaard","Souied","Xue","de Boer","Chewcharat","Xie","Hong","Abbasi","Kong","Dyall","Carnegie","Mohan","Javaid",
-    "Assadourian","Mangione"]
+    "Assadourian","Mangione",
+    # vitamin-D project — acronyms/terms/trials/agencies (keep Latin)
+    "IU","IOM","USPSTF","ViDA","D-Health","DO-HEALTH","D2d","DPVD","MAVIDOS","VDAART","CORONAVIT","VITAL","VDBP",
+    "25(OH)D","25(OH)","CYP2R1","DHCR7","NADSYN1","CYP24A1","CYP","QUICKI","BDI","FAS","QFT","IGT","eldecalcitol",
+    "calcifediol","calcitriol","nmol","SAD","Pharmavite","Decalyos","CopD","NHMRC","NIDDK","NHLBI","GC1F",
+    # vitamin-D project — author surnames (keep Latin)
+    "Neale","Scragg","Barbarawi","Keum","Chowdhury","Bjelakovic","Wactawski-Wende","Bolland","Bischoff-Ferrari",
+    "Chapuy","Trivedi","Sanders","Burt","Billington","Khaw","Demay","Holick","Ross","Cashman","Ginde","Autier",
+    "Powe","Nielson","Vimaleswaran","Drincic","Butler-Laporte","Murai","Ganmaa","de Koning","Vellekkatt","Menon",
+    "Nowak","Gloth","Navale","Malihi","Durup","Vieth","Araki","Marcinowska-Suchowierska","Sofianopoulou","Hyppönen",
+    "Hypponen","Sutherland","Tian","Ye","Dimitrakopoulou","Afzal","Mokry","Manousaki","Revez","Munger","Pittas",
+    "Kawahara","Palacios","Chawes","Terushkin","Reid","Kang","Costenbader","Manson","Chandler","Brenner","Cooper"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
