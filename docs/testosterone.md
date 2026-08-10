@@ -8,6 +8,42 @@ description: What actually raises testosterone naturally vs what people think �
 
 **Complete** · Published 10 July 2026 · *Rebuilt 14 July 2026 — every one of the 96 cited studies re-read from its source and re-verified* · **96 cited studies** · Confidence: **High** on the "restore-not-boost" framing and the debunked myths · **Moderate** on the exact magnitudes (sleep, ashwagandha).
 
+## Start here
+
+!!! quote "Bottom line"
+    **You cannot "boost" testosterone in a healthy man. You can only fix what is dragging it down, and losing body fat is the biggest fix.**
+
+**Myths vs. reality**
+
+| What most people believe | What the evidence actually shows |
+|---|---|
+| Supplements (vitamin D, zinc, magnesium) raise your testosterone. | In a man who is not deficient they do almost nothing. Vitamin D's famous "+25%" came from a study where the men were also losing weight. Controlled trials show basically zero. Fixing a real deficiency helps; megadosing a healthy body does not. |
+| Soy lowers testosterone and feminizes men. | Three separate meta-analyses (over 1,700 men) found no effect on testosterone or estrogen at any dose. It is a myth. |
+| No-fap / semen retention raises testosterone. | The famous "7-day abstinence, +145%" study was retracted in 2021. Ejaculating does not lower your baseline testosterone, and "sperm tokens" have no biological basis. |
+| Compound lifts and sex spike your testosterone, and that builds muscle. | The spike is real but useless. Men given a big post-workout hormone surge built the exact same muscle as men with no surge. |
+| A high number like 900 to 1000 ng/dL is the natural target to chase. | The healthy young-adult range tops out around 916. 1000 is above normal. You do not get there naturally, only with injected steroids, which shut your own production off. |
+| Pomegranate juice raises T about 30% in 40 days, and sunning your testicles raises it 200%. | The pomegranate figure is an unreviewed conference abstract (men and women mixed, spit test). The sun figure is one 1939 study on psychiatric patients. Neither was ever replicated. |
+| Creatine causes hair loss. | That fear is one 2009 study that never even measured hair. The first trial that actually checked hair (2025) found nothing. Creatine is the one supplement this crowd should actually take. |
+| Seed oils crash your testosterone. | That rests on a single 12-man correlation from 1997. No proper trial has ever shown it. Unproven, not proven. |
+
+**What you actually learn**
+
+- Losing body fat is the single biggest natural lever, and it is the one thing genetically proven to CAUSE higher testosterone. Dropping from BMI 30 to 25 is worth roughly +13% testosterone. Everything else is smaller.
+- The "testosterone booster" industry mostly fails. A review of 52 studies across 27 ingredients found most boosters do nothing. They only work if you are genuinely deficient, so test before you buy.
+- The population's testosterone really is falling, and it is not just from getting fatter. Weight-stable men still lost about 19% over 20 years. Nobody has proven the cause yet.
+- The most-repeated "facts" fall apart on contact: soy is a myth (3 meta-analyses), no-fap rests on a retracted study, pomegranate is a conference abstract, sun-on-testicles is one 1939 study on psychiatric patients.
+- Ashwagandha is the only supplement here with decent evidence, and it is modest: about +57 ng/dL, mostly by lowering stress hormone, biggest in stressed or overweight men. Even that research is mostly funded by supplement makers.
+- A sugar drink drops your testosterone about 25% for roughly two hours, then it bounces back. The lasting damage from sugar is the body fat it adds, not the dip.
+- Eating less only helps if you carry extra fat. If you are already lean and you under-eat, or you do endless long-distance cardio, you suppress your own testosterone.
+- Creatine does not cause hair loss (the scare never measured hair), and it is the one supplement actually worth taking.
+
+!!! tip "What this means for you"
+    - If you carry extra weight, losing fat is your highest-return move for testosterone. Nothing in a bottle beats it.
+    - Do not buy "T-booster" stacks. Get a blood test first, correct only a real vitamin D or zinc deficiency, and skip the megadoses if your levels are normal.
+    - Take creatine (3 to 5 g/day monohydrate). It is safe and will not touch your hairline. Stop bothering with pomegranate protocols, no-fap, seed-oil avoidance, sun-on-testicles, and soy fear.
+    - Protect sleep, keep heavy drinking down, and do not chronically under-eat if you are already lean. If you are stressed, ashwagandha is a small optional add.
+    - Stop chasing a 900 to 1000 number. That is above the natural healthy range (roughly 264 to 916). Real low-T symptoms are a doctor's blood test, not a supplement problem.
+
 !!! abstract "TL;DR"
     For a healthy man, "natural testosterone optimization" is mostly **deficiency-correction and body composition, not boosting**. Ranked by evidence weight, the real levers are: **lose excess body fat** (the biggest one — a Mendelian-randomization study proves the causality runs BMI→testosterone),[^S95][^S7] **don't be deficient** in vitamin D or zinc (correcting a deficiency helps, supplementing a healthy man does nothing — the single most-replicated pattern in the field),[^S14][^S18][^S21] and **protect sleep**.[^S9] The acute training/sex testosterone spike is **inert** for building muscle.[^S11] The population decline these guides cite is **real** but its cause is unresolved.[^S1][^S4] Most of the "boost" list fails: the pomegranate "+30%" is an **unrefereed conference abstract**,[^S42] "seed oils crash testosterone" rests on a **handful of small, old studies**,[^S31] "sunning the testicles raised T 200%" is a **flawed 1939 study**,[^S53] **soy lowering testosterone is a myth** (three meta-analyses),[^S36][^S96] and the popular **"cut masturbation to raise T"** advice rests on a study **RETRACTED in 2021**.[^S43] The best-evidenced supplement is **ashwagandha**, and even it is modest.[^S22] No natural protocol reaches the "900–1000 ng/dL" targets these guides set; that needs exogenous testosterone.
 
@@ -125,6 +161,150 @@ This page was rebuilt on 14 July 2026 by re-reading **all 96 cited studies one-b
 Everything else — pomegranate protocols, no-fap, seed-oil avoidance, sun-on-testicles, zinc/magnesium megadoses in replete men, soy fear — is small, conditional, or a myth. This is informational, not medical advice; measured low testosterone with symptoms is a doctor's evaluation, not a supplement problem.
 
 ---
+
+## The full findings — all 29
+
+Every conclusion this review reached, grouped by how strongly the evidence backs it. Each finding is distilled from the fully-cited evidence above.
+
+??? note "Tier 1 — Strongest consensus (many concordant studies) (8 findings)"
+
+    **1. Supplementing an already-healthy man does almost nothing — the deficiency-correction rule (≈15 studies)**
+
+    This is the single most-replicated pattern in the whole area: correct a genuine deficiency and testosterone recovers; give the same nutrient to a replete man and nothing happens. Vitamin D — the "+25%" origin trial was confounded by concurrent weight loss, and it collapses under control: a well-powered RCT was null, a 17-RCT meta found a trivial +0.38 nmol/L, two more RCTs (one in *low-T* men) were null, and the positive observational link is driven by frail/comorbid men. Zinc — restriction crashes T and repletion restores it, but high-dose zinc in replete men does nothing. A 52-study systematic review concludes most "boosters" fail.
+
+    **2. The acute post-workout / sex / competition testosterone "spike" is inert (7 studies)**
+
+    Triggering a big endogenous T/GH/IGF-1 surge after training produced *identical* muscle and strength gains vs a low-hormone arm, and a larger cohort found no correlation between the spike and gains. On the sexual side, orgasm itself doesn't change T, a 3-week abstinence nudges *resting* baseline only modestly, and social/sexual context (a woman's company, a sex club +72%, winning a competition d≈0.20) raises T **acutely and transiently only** — none of it durably moves baseline. So "compound lifts spike T" and "real sex raises T" are true but irrelevant for building anything.
+
+    **3. Body fat is the biggest lever, and the causal arrow is proven (7 studies)**
+
+    Obese men run substantially lower testosterone; weight loss reliably raises it (24-study meta: diet ~+2.9, bariatric surgery ~+8.7 nmol/L), EMAS showed the same longitudinally with ≥15% weight change moving free T, and calorie restriction raises T specifically in overweight/obese men. Crucially, a bidirectional **Mendelian-randomization study proves the causality flows BMI→testosterone** (a genetic BMI rise lowers T; the reverse isn't seen), estimating BMI 30→25 ≈ **+13% testosterone**. This validates "cut the fat / cut refined carbs" — but the working mechanism is fat loss, not carbohydrates.
+
+    **4. The population-level testosterone decline is real and cross-national — but the cause is unresolved (5 cohorts + 2 reproductive)**
+
+    Age-matched serum T fell in the US (MMAS, age-independent), with independent replication in Danish and Finnish surveys and an extension into US adolescents/young men. It is NOT "just obesity": BMI adjustment removed the trend in the Danish data but not the Finnish, and US veterans who stayed weight-stable still lost ~19% of their T over 20 years. It sits alongside a ~51.6% global sperm-count decline (1973–2018, accelerating post-2000) and the testicular-dysgenesis framing tying environmental anti-androgens to male reproductive decline. The seminar's/CA's "T is falling" framing is correct; their single-cause explanations are not.
+
+    **5. Soy does NOT lower testosterone or feminize men — settled by three meta-analyses**
+
+    Two meta-analyses — 15 controlled groups and an expanded 41-study analysis (up to n=1,753) — found no effect of soy or isoflavones on total T, free T, estradiol or SHBG at any dose. A **third, 2025 dose-response meta-analysis** (searched to Sept 2024) again found no effect at typical intakes. The "eliminate soy" advice is a myth for hormones.
+
+    **6. Phthalates (esp. DEHP) are the best-supported everyday anti-androgen — but the effect is modest and age-specific (6 studies)**
+
+    Human data converge: a 28,911-participant meta-analysis ties DEHP to lower testosterone and free-androgen index, NHANES shows age-specific effects (a ΣDEHP doubling → ~−7.7% T in men ≥60; low-MW phthalates lower T in men 20–39), a US-EPA systematic review confirms DEHP + DBP as human anti-androgens, an occupational study saw T fall *within workers* as a metabolite rose, and the founding human signal was reduced anogenital distance in prenatally exposed boys. Reducing plastic food-contact (the seminar's "glass/metal/ceramic") is directionally sound — a modest lever, not a rescue.
+
+    **7. Natural "optimization" is deficiency-correction + body composition — not "boosting" (the meta-finding)**
+
+    Pulling findings 1–6 together: you can *restore* testosterone that a fixable problem is suppressing (excess fat, poor sleep, a real deficiency, heavy drinking, chronic under-fuelling), but once those are handled the dial mostly stops turning. No natural protocol reaches the seminar's 900–1000 ng/dL target; that requires exogenous androgens.
+
+    **8. The "belly fat aromatizes T into estrogen" mechanism is only partly right**
+
+    The popular aromatase story is secondary; the primary lesion in obese men is central — insulin-resistance-driven SHBG loss (moderate obesity) plus hypothalamic-pituitary suppression (severe obesity). Fat loss works; the mechanism is more central than "belly fat makes estrogen" implies.
+
+
+??? note "Tier 2 — Well-supported (several studies, with real nuance) (10 findings)"
+
+    **9. Sleep loss lowers T — but the direction is clearer than the magnitude, and it's confounded by body fat (6 studies)**
+
+    The famous "−15%" is one n=10 study; two later RCTs (n=14 + n=13) found a clean null, and a meta-analysis found only *total* sleep deprivation lowers T (SMD −0.64) while *partial* restriction is not significant. The sleep-apnea↔low-T link is largely adiposity: CPAP doesn't raise T, and the association disappears after BMI/waist adjustment. Protect sleep (the direction is real), but treat the percentage as uncertain.
+
+    **10. Chronic/uncontrollable stress lowers T centrally and reversibly; acute stress can briefly raise it (5 studies)**
+
+    Glucocorticoids suppress the gonadal axis at hypothalamus, pituitary and testis; in men, *acute* stressors transiently raised T while *prolonged* stress lowered morning T, recovering afterward. The suppression is a central, reversible adaptation (Leydig responsiveness preserved), not testicular failure. "Manage stress" is right, with the nuance that a short stressor isn't the problem.
+
+    **11. Energy deficit is double-edged, and chronic endurance overtraining lowers resting T (3 studies)**
+
+    Calorie restriction raises T in overweight men but *lowers* it in lean men; severe low energy availability drives functional hypothalamic hypogonadism (the Male Athlete Triad); and chronically high-volume endurance training produces a persistently low resting T (the "Exercise-Hypogonadal Male Condition"). "Eat less to boost T" only helps if you carry excess fat — a lean man under-eating suppresses his own testosterone.
+
+    **12. A sugar/glucose load acutely lowers testosterone — transient, central (2 studies)**
+
+    A 75 g glucose drink dropped mean total T ~25% for ~2 hours, and a water-controlled crossover confirmed glucose lowers both pulsatile LH and testosterone at the hypothalamic/pituitary level. It's a transient post-meal dip, not chronic damage — the lasting harm from sugar is via body fat.
+
+    **13. Heavy/chronic alcohol lowers testosterone; the effect is dose-dependent, not "any drink" (3 studies)**
+
+    A meta-analysis of 10,199 men found chronic drinking lowers total T (~−4.0 nmol/L); acutely, a small dose can briefly *raise* T while frank intoxication lowers it. "Limit alcohol" is right for heavy use; "any drink tanks T" overstates it.
+
+    **14. Very-low-fat diets modestly lower T; very-high-protein low-carb lowers it; carb restriction itself is roughly neutral (2 studies)**
+
+    Low-fat vs high-fat: total T SMD −0.38, so crash-low-fat eating is counterproductive and adequate dietary fat matters. But a 27-study meta found moderate-protein low-carb diets neutral for resting T, while high-protein (≥35% of calories) low-carb diets sharply lowered it (~−5.2 nmol/L). Carb restriction helps only insofar as it drives fat loss; pushing protein very high backfires.
+
+    **15. Ashwagandha is the best-evidenced supplement here — a modest, mostly stress-mediated, industry-heavy bump (6 studies)**
+
+    A 2026 meta-analysis (23 RCTs, n=1,706) found a men-only rise of ~+57 ng/dL tied to lowering cortisol; individual RCTs show +14.7% and a significant +96 ng/dL, though several are manufacturer-adjacent, and a herbs systematic review found only 9 of 32 trials showed any significant rise. Real but modest, largest in stressed/overweight men. Notably it is *not* in the VL6 stack.
+
+    **16. The "900–1000 ng/dL target" is at or above the healthy young-adult ceiling; "low T" is a clinical diagnosis (2 references)**
+
+    Harmonized reference ranges put healthy non-obese men aged 19–39 at **264–916 ng/dL** — so 900 is near the 97.5th percentile and **1000 is above** the healthy-young-adult range, not a natural dial you turn. Clinically, hypogonadism needs symptoms plus unequivocally low morning T on two tests; treatment is for symptomatic deficiency, not a number to chase.
+
+    **17. Anabolic steroids raise T fast — by shutting down your own production**
+
+    Supraphysiologic androgens suppress the HPG axis → collapsed intratesticular testosterone, suppressed sperm, testicular atrophy and infertility ("anabolic-steroid-induced hypogonadism"), usually reversible after cessation. The seminar names anabolics without endorsing them — the honest position.
+
+    **18. BPA's effect is real but modest — an androgen-to-estrogen / HPG-disruption shift, not a total-T "crash" (2 studies)**
+
+    A meta-analysis (18 hormone studies) links BPA to higher SHBG/estradiol, lower biologically-active androgen and lower sperm; an independent clinic cohort found BPA associated with a *lower* free-androgen index, lower estradiol and higher FSH — i.e. HPG/testicular disruption. The reproducible signal is a shift in the androgen-to-estrogen balance and impaired testicular function, not a big total-T collapse. The seminar's verb "καταβαραθρώνουν / crash" overstates a modest cross-sectional effect. See the standalone bpa-thermal-receipts research.
+
+
+??? note "Tier 3 — Weak, single-study, or conditional (4 findings)"
+
+    **19. Of the herbal "boosters," only tongkat ali has decent evidence; tribulus and D-aspartic acid are duds; fenugreek and maca move libido not T (7 studies)**
+
+    Tongkat ali is the best of the field (pooled SMD 1.35, strongest in hypogonadal men); tribulus is a confirmed null; D-aspartic acid is null-to-negative in trained men (6 g even *lowered* T); fenugreek and maca reliably raise libido while leaving testosterone within range.
+
+    **20. Creatine does NOT cause hair loss — one 2009 DHT-ratio study, refuted by the first hair-outcome RCT (3 studies)**
+
+    The whole "creatine → hair loss" worry rests on a single 2009 study where creatine raised the DHT:T ratio without changing total T — and it *never measured hair*. The first RCT to actually measure hair/follicle outcomes (2025) found no effect on DHT or hair, and the consensus review agrees creatine doesn't raise T/DHT or cause hair loss. Relevant because creatine is the one supplement the T-optimization crowd genuinely should take.
+
+    **21. Smoking is paradoxically associated with *higher* testosterone (1 study)**
+
+    Male smokers had higher total and free T than non-smokers, independent of age and BMI — though within smokers, T fell with the *amount* of tobacco. A counterintuitive association (not causal, obviously not advice) that complicates naive "clean living raises T" narratives.
+
+    **22. Boron, omega-3, and shilajit each rest on a single small study, and organ meats / vitamin A only matter in deficiency (≈1 study each)**
+
+    The boron-T claim is one open-label n=8 study; fish oil raised T only in overweight/obese men post-hoc and the largest omega-3 RCT improved sperm, not T; shilajit's T claim is one small RCT. Organ-meat consumers had *lower* sperm motility and no T effect (the viral "52% higher sperm count" is blog-sourced), and vitamin A helps only boys with subnormal intake.
+
+
+??? note "Tier 4 — Debunked myths / discredited single sources (6 findings)"
+
+    **23. "Cut masturbation to raise T" rests on a RETRACTED study — and ejaculation does not chronically lower testosterone**
+
+    The famous "abstain 7 days → T peaks at 145.7%" finding (Jiang 2003) was **RETRACTED in 2021**; setting the retraction aside it was a transient one-day spike in n=28, never replicated. The controlled evidence says orgasm itself doesn't change T, habitual frequency doesn't alter baseline, and the "each ejaculation depletes zinc/magnesium" mechanism fails the arithmetic (~1 mg zinc per ejaculate, diet-replaceable). "Sperm tokens" / "finite prostate uses" has no endocrine basis.
+
+    **24. Pomegranate "+30% in 40 days" comes from an unrefereed conference abstract**
+
+    The seminar's specific pomegranate protocol traces to Al-Dujaili & Smail 2012 — a *conference abstract* (never peer-reviewed), uncontrolled, mixed-sex (22 M / 38 F), using salivary T, reporting ~+24%. Never replicated in men on serum T. Cheap and low-risk, but the number is not evidence.
+
+    **25. "Sunning your testicles raised T 200%" is a single flawed 1939 study**
+
+    The 200% figure comes from Myerson & Neustadt 1939 — institutionalized psychiatric men on electroconvulsive therapy, testosterone measured as *urinary androsterone* (not serum), uncontrolled, never replicated in 85 years. Sensible sun helps vitamin D; the genital-tanning number is a wellness amplification of one outlier.
+
+    **26. "Seed oils crash testosterone" rests on a handful of small/old correlations — no modern controlled trial**
+
+    The claim traces mainly to Volek 1997 — n=12, cross-sectional correlations (PUFA:SFA ratio r≈−0.63), not a causal experiment — plus a few equally small/old studies. No adequately-powered RCT isolates saturated vs polyunsaturated fat at matched total fat, so fat *type* is a plausible-but-unproven hypothesis; the carnivore certainty outruns the data. (Fat *quantity* is separately supported — see #14.)
+
+    **27. Atrazine's feminization is a frog result; glyphosate's is animal/in-vitro; neither has human male-T evidence**
+
+    Atrazine dramatically feminizes male frogs at low doses, and glyphosate/Roundup suppresses rat testicular steroidogenesis in vitro — but there is no human meta-analysis of either and male testosterone. The CA "avoid glyphosate/atrazine" advice is precautionary, not backed by human T data.
+
+    **28. The "credit card of microplastic a week" is a debunked upper bound with no androgen link**
+
+    The ~5 g/week figure is the extreme top of a modelling range (0.1–5 g), and that estimate has no androgen endpoint at all. No credible evidence links microplastic *particles* to lower testosterone — any hormonal risk is the leached chemicals (phthalates/BPA, #6/#18), not the plastic mass.
+
+
+??? note "The honest natural-T checklist (what actually survives) (1 findings)"
+
+    **29. Lose fat, protect sleep, fix real deficiencies, drink less, don't under-fuel, train for health**
+
+    Everything the evidence supports collapses to: get to a healthy body-fat level (biggest lever, causally proven), protect sleep, correct a genuine vitamin-D or zinc deficiency if you have one, keep heavy alcohol down, avoid a chronic energy deficit if lean, reduce plastic food-contact modestly, and take creatine (safe, doesn't cause hair loss). Ashwagandha is a small optional add, especially if stressed. The rest — pomegranate protocols, no-fap, seed-oil avoidance, sun-on-testicles, zinc/Mg megadoses in replete men, soy fear — is small, conditional, or myth.
+
+## Test yourself
+
+Twelve questions drawn at random from the findings above. Pick an answer, see why, and learn. Replayable, and your best score is remembered on this device.
+
+<div class="rlw-quiz" data-count="12" data-lang="en" data-id="testosterone" markdown="0">
+<script type="application/json" class="rlw-quiz-data">
+{"questions": [{"tier": "Tier 1", "q": "You give vitamin D or zinc to a man who is NOT deficient. What happens to his testosterone?", "options": ["Testosterone rises about 25 percent", "It roughly doubles free T", "Almost nothing", "It drops sharply"], "a": 2, "why": "Correcting a real deficiency restores T, but in a replete man nothing happens; the origin +25 percent vitamin D trial was confounded by weight loss."}, {"tier": "Tier 1", "q": "Myth or fact: compound lifts spike your testosterone, so they build extra muscle?", "options": ["The spike is real but does nothing extra for muscle", "Fact, the spike drives the gains", "The spike actually lowers muscle growth", "There is no such spike at all"], "a": 0, "why": "A big post-workout T, GH and IGF-1 surge produced identical muscle and strength gains versus a low-hormone arm."}, {"tier": "Tier 1", "q": "A Mendelian-randomization study estimated the testosterone change from dropping BMI 30 to 25. What was it?", "options": ["No change", "About plus 50 percent", "About minus 13 percent", "About plus 13 percent testosterone"], "a": 3, "why": "A genetic BMI fall from 30 to 25 raised T about 13 percent, proving the arrow flows from BMI to testosterone."}, {"tier": "Tier 1", "q": "Is the population-wide testosterone decline simply caused by rising obesity?", "options": ["Yes, it disappears once you adjust for weight", "No, weight-stable men still lost T, so the cause is unresolved", "No, it is caused entirely by phthalates", "There is no real decline"], "a": 1, "why": "Weight-stable US veterans still lost about 19 percent of their T over 20 years, so obesity is only part of the story."}, {"tier": "Tier 1", "q": "Myth or fact: eating soy lowers testosterone and feminizes men?", "options": ["Fact at high doses", "Fact only for men over 60", "Myth, three meta-analyses found no effect", "Myth, but only for tofu"], "a": 2, "why": "Three meta-analyses, up to n=1,753, found no effect of soy or isoflavones on total T, free T, estradiol or SHBG."}, {"tier": "Tier 1", "q": "Which everyday chemical has the best human evidence for lowering testosterone?", "options": ["Caffeine", "Fluoride in tap water", "Soy isoflavones", "Phthalates such as DEHP in plastics"], "a": 3, "why": "A 28,911-participant meta-analysis ties DEHP to lower testosterone, though the effect is modest and age-specific."}, {"tier": "Tier 1", "q": "What does the evidence say natural testosterone optimization really is?", "options": ["Restoring T that a fixable problem was suppressing", "A way to reach 900 to 1000 ng per dL naturally", "Mostly a matter of the right supplements", "Something you cannot change at all"], "a": 0, "why": "You can restore T suppressed by fixable problems like fat, poor sleep, deficiency or heavy drinking, but no natural protocol hits the 900 to 1000 target."}, {"tier": "Tier 1", "q": "The popular idea that belly fat turns testosterone into estrogen is:", "options": ["Completely correct", "A pure myth with no fat link", "Only partly right; the main problem is more central", "True only in lean men"], "a": 2, "why": "Aromatase is secondary; the primary lesion in obese men is central, meaning SHBG loss plus hypothalamic-pituitary suppression."}, {"tier": "Tier 2", "q": "The famous sleep loss drops testosterone 15 percent figure comes from:", "options": ["A 17-study meta-analysis", "One small study of just 10 men", "A CPAP treatment trial", "Two large randomized trials"], "a": 1, "why": "The minus 15 percent is one n=10 study; later RCTs found a null, so protect sleep but treat the percentage as uncertain."}, {"tier": "Tier 2", "q": "What does chronic, uncontrollable stress do to testosterone?", "options": ["Raises it permanently", "Destroys the testicles", "Has no effect", "Lowers it centrally and reversibly"], "a": 3, "why": "Glucocorticoids suppress the gonadal axis reversibly at the brain level, while a short acute stressor can briefly raise T."}, {"tier": "Tier 2", "q": "Does eating less, meaning calorie restriction, raise testosterone?", "options": ["Only in overweight men; in lean men it lowers T", "Yes, in everyone", "No, never in anyone", "Only in endurance athletes"], "a": 0, "why": "Calorie restriction raises T in overweight men but lowers it in lean men, and chronic endurance overtraining lowers resting T."}, {"tier": "Tier 2", "q": "What did a 75 gram glucose drink do to testosterone?", "options": ["Raised it 25 percent", "Permanently lowered it", "Dropped it about 25 percent for two hours", "Had no measurable effect"], "a": 2, "why": "A 75 gram glucose drink dropped mean total T about 25 percent for roughly two hours, a transient dip, not chronic damage."}, {"tier": "Tier 2", "q": "How accurate is the claim that any alcoholic drink tanks your testosterone?", "options": ["True, one drink crashes T", "Alcohol has no effect on T", "Only beer lowers T", "Overstated; harm is dose-dependent and a small dose can briefly raise T"], "a": 3, "why": "Chronic heavy drinking lowers T by about 4.0 nmol per L across 10,199 men, but a small acute dose can briefly raise it."}, {"tier": "Tier 2", "q": "Which eating pattern was shown to sharply lower resting testosterone?", "options": ["Moderate-protein low-carb", "High-protein, 35 percent or more of calories, low-carb", "Adequate-fat balanced eating", "High-carb eating"], "a": 1, "why": "A 27-study meta found high-protein low-carb diets sharply lowered T by about 5.2 nmol per L, while moderate-protein low-carb was neutral."}, {"tier": "Tier 2", "q": "Which supplement here has the best evidence for a modest testosterone bump?", "options": ["Ashwagandha", "Tribulus", "D-aspartic acid", "Boron"], "a": 0, "why": "A 2026 meta of 23 RCTs found ashwagandha raised men's T about 57 ng per dL, tied to lowering cortisol, largest in stressed men."}, {"tier": "Tier 2", "q": "How does the seminar's 900 to 1000 ng per dL target compare to the healthy young-adult range of 264 to 916?", "options": ["It sits in the middle of normal", "It is well below normal", "It is at or above the top of the healthy range", "It cannot be measured"], "a": 2, "why": "Harmonized ranges put healthy men aged 19 to 39 at 264 to 916 ng per dL, so 900 is near the ceiling and 1000 is above it."}, {"tier": "Tier 2", "q": "How do anabolic steroids raise testosterone, and at what cost?", "options": ["By boosting natural production with no downside", "Slowly over months, safely", "They do not actually raise T", "Fast, but by shutting down your own production, causing atrophy and infertility"], "a": 3, "why": "Supraphysiologic androgens raise T fast but suppress the HPG axis, causing testicular atrophy and usually-reversible infertility."}, {"tier": "Tier 2", "q": "The seminar says BPA crashes testosterone. What does the evidence actually show?", "options": ["A modest shift in the androgen-to-estrogen balance plus testicular disruption", "A total testosterone collapse", "No effect at all", "A large rise in testosterone"], "a": 0, "why": "BPA links to higher SHBG and estradiol and lower active androgen, a modest balance shift, not the dramatic crash the seminar claims."}, {"tier": "Tier 3", "q": "Among herbal boosters, which one has the best evidence for actually raising testosterone?", "options": ["Tribulus", "Tongkat ali", "D-aspartic acid", "Fenugreek"], "a": 1, "why": "Tongkat ali is the best of the field with a pooled SMD of 1.35; tribulus and D-aspartic acid are duds, and fenugreek and maca move libido, not T."}, {"tier": "Tier 3", "q": "Myth or fact: creatine causes hair loss?", "options": ["Fact, proven repeatedly", "Fact, because it raises total T", "Unknown, it was never studied", "Myth; it rests on one 2009 study that never measured hair"], "a": 3, "why": "The worry rests on a single 2009 DHT-ratio study that never measured hair, and the first hair-outcome RCT in 2025 found no effect."}, {"tier": "Tier 3", "q": "What did the data show about smoking and testosterone?", "options": ["Smokers had lower T", "There was no link at all", "Smokers had higher total and free T, an association, not advice", "Smoking doubled T"], "a": 2, "why": "Male smokers had higher total and free T independent of age and BMI, a counterintuitive association that is not causal and not advice."}, {"tier": "Tier 3", "q": "The viral claim that eating organ meats gives a 52 percent higher sperm count is:", "options": ["Blog-sourced; organ-meat eaters actually had lower sperm motility", "Backed by a large clinical trial", "Proven for testosterone too", "From a 2020 meta-analysis"], "a": 0, "why": "The 52 percent figure is blog-sourced, and organ-meat consumers actually had lower sperm motility and no testosterone effect."}, {"tier": "Tier 4", "q": "The famous abstain 7 days and testosterone peaks at 145.7 percent study was:", "options": ["Replicated many times", "Retracted in 2021", "A large randomized trial", "Only ever about sperm count"], "a": 1, "why": "The Jiang 2003 finding was retracted in 2021 and was a transient one-day spike in just 28 men, never replicated."}, {"tier": "Tier 4", "q": "The pomegranate plus 30 percent in 40 days testosterone claim comes from:", "options": ["A peer-reviewed serum-T trial in men", "A large meta-analysis", "The MMAS cohort study", "An unrefereed conference abstract, mixed-sex, using salivary T"], "a": 3, "why": "It traces to a 2012 conference abstract that was never peer-reviewed, uncontrolled, mixed-sex and used salivary T, never replicated in men."}, {"tier": "Tier 4", "q": "The claim that sunning your testicles raises testosterone 200 percent is based on:", "options": ["A modern serum-T study", "A large tanning trial", "A single flawed 1939 study measuring urinary androsterone", "Recent vitamin D research"], "a": 2, "why": "The 200 percent figure comes from a 1939 study on institutionalized men using urinary androsterone, never replicated in 85 years."}, {"tier": "Tier 4", "q": "What is the actual evidence that seed oils crash testosterone?", "options": ["Mainly a 1997 study of 12 men, correlations only, with no controlled trial", "Multiple modern randomized trials", "A 28,000-person meta-analysis", "Nothing at all, it is entirely invented"], "a": 0, "why": "The claim traces mainly to Volek 1997 with n=12 correlations; no adequately-powered RCT isolates fat type, so it stays unproven."}, {"tier": "Tier 4", "q": "The pesticide feminization claims for atrazine and glyphosate are based on:", "options": ["Human male testosterone meta-analyses", "Frog and rat or in-vitro data, with no human male-T evidence", "No data at all", "A large NHANES study"], "a": 1, "why": "Atrazine feminizes frogs and glyphosate hits rat cells in vitro, but there is no human meta-analysis linking either to male testosterone."}, {"tier": "Tier 4", "q": "The you eat a credit card of microplastic a week figure is:", "options": ["A solid average linked to low T", "Proven to lower testosterone", "From a large human trial", "A debunked extreme upper bound with no androgen link"], "a": 3, "why": "The roughly 5 grams per week is the extreme top of a modelling range and has no androgen endpoint; any hormone risk is leached chemicals, not the plastic mass."}, {"tier": "Practical", "q": "On the honest checklist, what is the single biggest lever for natural testosterone?", "options": ["Getting to a healthy body-fat level", "Following a pomegranate protocol", "Keeping a no-fap streak", "Avoiding all seed oils"], "a": 0, "why": "Getting to a healthy body-fat level is the biggest lever and is causally proven; the pomegranate, no-fap and seed-oil items are small or myth."}]}
+</script>
+</div>
 
 [^S1]: Travison TG, et al. (2007) *J Clin Endocrinol Metab* 92(1):196-202. Population-level, age-independent decline in serum testosterone in American men (MMAS). DOI [10.1210/jc.2006-1375](https://doi.org/10.1210/jc.2006-1375) · PMID 17062768.
 [^S2]: Andersson A-M, et al. (2007) *J Clin Endocrinol Metab* 92(12):4696-4705. Danish secular decline; adjusting for the BMI rise removed the total-testosterone trend. DOI [10.1210/jc.2006-2633](https://doi.org/10.1210/jc.2006-2633) · PMID 17895324.

@@ -8,6 +8,43 @@ description: Are seed oils (soybean, canola, corn, sunflower) toxic? What linole
 
 **Complete** · Published 20 July 2026 · *Expanded the same day with a second literature sweep — every one of the 91 cited studies title-matched against PubMed (0 wrong; 1 retraction caught) and the load-bearing ones read from source* · **96 cited sources** · Confidence: **High** on the inflammation-myth and the neutral-to-favorable metabolic picture · **Moderate** on the cardiovascular benefit (events yes, mortality unclear) and the frying-oxidation concern.
 
+## Start here
+
+!!! quote "Bottom line"
+    **The whole seed-oil scare rests on a mechanism that does not happen in the human body, and the people with the most seed-oil fat in them get LESS heart disease, diabetes and dementia, not more.**
+
+**Myths vs. reality**
+
+| What most people believe | What the evidence actually shows |
+|---|---|
+| Seed oils cause inflammation (omega-6 turns into inflammation) | The chain breaks at step one. Feed humans up to 6x more linoleic acid and their arachidonic acid (the supposed inflammation fuel) does not move, and 30+ trials show no rise in any inflammation marker. It only works on paper. |
+| More seed oil means more heart disease | The opposite. Across 68,000+ people, those with the most linoleic acid in their blood had lower heart disease, lower cardiac death and lower stroke. |
+| Seed oils make you fat | In 272,000 people, higher blood linoleic acid tracked with about 12 kg lower weight and a smaller waist. The "makes you fat" idea comes from mice, not humans. |
+| Seed oils rot your brain | Higher linoleic acid is tied to about 18% LOWER dementia risk, not higher. |
+| Switch back to beef tallow, butter or coconut oil for your health | Those raise your LDL cholesterol. The biggest 2025 study found butter-eaters died more and plant-oil eaters died less. |
+| "Omega-6 is bad" | Linoleic acid, the main fat in seed oils, is protective. It is the OTHER omega-6 fats that can be harmful. "Omega-6" is not one thing. |
+| Your bad omega-6-to-omega-3 ratio is poisoning you | The ratio is the wrong number. Both fats are protective on their own. Your real gap is too little omega-3, not too much omega-6. |
+| Seed oils are the "vegetable oil" harm we already knew about | The truly harmful vegetable oil was industrial trans fat, banned from the food supply by 2018. Today's seed oils are a chemically different product. |
+
+**What you actually learn**
+
+- The entire "omega-6 causes inflammation" theory fails at its first step: give humans up to 6x more linoleic acid and their arachidonic acid does not budge (p=0.72). The mechanism lives in textbooks, not bodies.
+- Across 30+ controlled human trials, more linoleic acid raised zero inflammation markers (CRP, IL-6, TNF). A 2026 trial built specifically to test the social-media claim found nothing.
+- People with the MOST linoleic acid in them have lower heart disease, 35% lower type-2 diabetes and lower death, the exact opposite of what the scare predicts.
+- "Seed oils make you fat" comes from mice. In 272,000 humans, higher linoleic acid tracked with about 12 kg lower weight and a smaller waist.
+- "Seed oils rot your brain" is backwards: higher linoleic acid is tied to about 18% lower dementia risk.
+- There is exactly ONE real concern, and it is narrow: repeatedly deep-fried, reused oil makes toxic aldehydes (settled chemistry). But no human study has linked it to disease, a 2026 test of 10-day reheated oil found no acute harm, and fried-food harm mostly comes from body weight anyway.
+- "Omega-6" is not one thing. Linoleic acid (what seed oils are) is protective, while other omega-6 fats can be harmful. The scare lumps them together.
+- Swapping to tallow, butter or coconut oil is a downgrade for your heart: they raise LDL, and the biggest 2025 study (221,000 people) found swapping just 10 g of butter a day for plant oil cut death by 17%.
+- The best-evidenced fat is olive oil (Mediterranean diet, 31% fewer heart events), which is an upgrade over seed oils, not proof that seed oils are poison.
+
+!!! tip "What this means for you"
+    - Stop stressing about the seed oil in normal home cooking. It is not what is making anyone sick. Cook with what you have.
+    - Want the single best-evidenced fat? Use olive oil. Treat it as an upgrade, not because seed oils are toxic.
+    - For repeated high-heat and deep frying, use a more stable fat (olive, avocado, or a saturated fat), and just eat less deep-fried, ultra-processed food. That is the one place the oxidation concern is real.
+    - Do not "fix your ratio" by fearing omega-6. Fix it by ADDING omega-3: oily fish twice a week or an EPA+DHA supplement. That is the actual Western-diet gap.
+    - Do not bother switching to tallow or butter for your heart. It raises your LDL and no outcome trial supports the swap.
+
 !!! abstract "TL;DR"
     For a healthy person eating whole foods, **seed oils used in normal cooking are not the chronic-disease driver the popular narrative claims.** The central mechanism — omega-6 linoleic acid (LA) causing inflammation — **fails in humans**: eating more LA does not raise tissue arachidonic acid,[^S1] and does not raise CRP, IL-6 or TNF in randomized trials.[^S2][^S3] Across large studies, higher LA is consistently tied to **lower** heart disease,[^S15] **lower** type-2 diabetes,[^S16][^S19] and **lower** death;[^S17][^S18] controlled feeding trials show swapping saturated fat for PUFA *improves* insulin sensitivity and *lowers* liver fat[^S24][^S25][^S28] — the opposite of "LA makes you fat." There is **one legitimate concern**: repeatedly heated / deep-fried oil generates toxic aldehydes (real chemistry),[^S34] but no study links that to human disease at real intakes, and fried-food harm is "largely mediated by body weight."[^S40] The honest cardiovascular nuance: replacing saturated fat with omega-6 lowers cholesterol and events but not clearly mortality, and omega-6 *alone* (no omega-3) is the weakest case.[^S13] Myths: "all seed oils are the same" (canola is ~19% LA and carries omega-3),[^S64] "seed oils cause cancer" (the one trial is confounded; meta-analyses are null),[^S48][^S49] "swap back to tallow" (raises LDL),[^S12] and conflating today's oils with the industrial trans fat that was actually banned in 2018.[^S60]
 
@@ -136,6 +173,178 @@ This is informational, not medical advice.
 Seven independent research passes swept the claim space (definitions and the inflammation mechanism, cardiovascular trials, oxidation and frying, metabolic and obesity, biomarker cohorts and Mendelian randomization, cancer/skin/mortality, and the specific oils/history/processing claims), then a second eight-angle sweep deepened it (newest 2023-26 evidence, mental-health and neurology, the recommended alternatives, pregnancy and infancy, oxidation mechanism, gut and autoimmune, appetite and weight, and the influencer/regulatory claims). Every one of the 91 study identifiers was **title-matched against PubMed (0 wrong; one retracted trial caught and replaced with its republication)** and the load-bearing studies read from their source abstracts, with funding ties flagged throughout. See the [methodology](methodology.md) for how evidence is graded and verified.
 
 ---
+
+## The full findings — all 36
+
+Every conclusion this review reached, grouped by how strongly the evidence backs it. Each finding is distilled from the fully-cited evidence above.
+
+??? note "Tier 1 — Strongest, settled (the mechanism fails; the picture is neutral-to-favorable) (9 findings)"
+
+    **1. The core mechanism fails in humans: eating more linoleic acid does not raise tissue arachidonic acid**
+
+    The whole "omega-6 → arachidonic acid → inflammation" chain breaks at step one. A systematic review of human trials found increasing dietary LA up to 6-fold did NOT raise arachidonic acid in plasma or red cells (p=0.72), and cutting LA by up to 90% did nothing either — while direct AA/GLA supplementation did raise it (the assay works).
+
+    **2. Linoleic acid does not raise inflammatory markers in controlled human trials — and the newest RCT agrees**
+
+    Two systematic reviews of RCTs (30 trials/1,377 and 15 trials in healthy people) found no effect of higher LA on CRP, IL-6, TNF-α, a feeding RCT stated "a high n-6 PUFA intake does not cause any signs of inflammation or oxidative stress", and a 2026 crossover RCT (soybean vs palm oil, 30 g/d) — designed to test the social-media claim directly — found no effect on inflammatory markers or oxidized LDL.
+
+    **3. The inflammation question is genuinely contested at the observational/MR level — but not cleanly "pro-inflammatory"**
+
+    Newer non-RCT work disagrees: a 2026 industry-linked cross-sectional analysis found higher serum LA tied to LOWER CRP/GlycA, while a 2025 independent Mendelian-randomization + cohort study found "no convincing evidence of a simple pro- and anti-inflammatory dichotomy" for n-6 vs n-3 (its causal signal fell on n-3, not n-6). The honest read: the RCT evidence is null, and the MR/cohort picture is mixed — it does NOT cleanly support "LA is pro-inflammatory."
+
+    **4. Higher linoleic acid is associated with LOWER cardiovascular disease, not higher**
+
+    The largest biomarker analysis (30 cohorts, 68,659 people) found higher circulating LA tied to lower total CVD (HR 0.93), CV mortality (0.78) and stroke (0.88); arachidonic acid was not harmful either — the opposite of the "LA is atherogenic" prediction. Two flagships carry Unilever funding, but industry-free work agrees (below).
+
+    **5. Higher linoleic acid is associated with LOWER type-2 diabetes**
+
+    Pooled biomarker analyses found higher LA → 35% lower T2D (RR 0.65) and a dose-response meta found risk falling to the highest intakes; a 2026 biomarker meta reconfirmed LA-specific protection (RR 0.93), and Mendelian randomization supports a causal LA→lower-T2D effect.
+
+    **6. Higher linoleic acid is associated with LOWER all-cause, CVD, and cancer mortality (industry-free, and freshly replicated)**
+
+    A meta of 44 cohorts/811,069 found higher LA → lower total (0.87), CVD (0.87) and cancer (0.89) mortality; NHS+HPFS found SFA→PUFA swap → 27% lower mortality; and two 2025 studies replicate it industry-free — a Danish cohort found adipose LA → 24% lower all-cause mortality (HR 0.76), and a 221,054-person US cohort found swapping 10 g/d butter for plant oils → 17% lower total and cancer mortality.
+
+    **7. Feeding trials: swapping saturated fat for PUFA improves metabolic health**
+
+    A meta of 102 randomized feeding trials found replacing SFA (or carbs) with PUFA lowered glucose, HbA1c and insulin resistance ("most consistent favourable effects seen with PUFA"); overfeeding trials found SFA caused more liver + visceral fat than PUFA; and a 2025 P:S-ratio RCT meta found higher-PUFA diets lower LDL by ~10-16 mg/dL.
+
+    **8. Linoleic acid is NOT the same as "omega-6" — LA is protective, the other n-6 fats diverge**
+
+    The single biggest refinement from the deeper search: it is *linoleic acid specifically* that tracks with lower disease, while the downstream/other n-6 fatty acids (γ-linolenic, dihomo-γ-linolenic, arachidonic) often go the OTHER way — adipose AA → higher mortality (HR 1.28), GLA/DGLA/AA → higher T2D, and non-LA n-6 → higher dementia and higher adiposity. "Omega-6 is bad" lumps a protective fat with harmful ones.
+
+    **9. The omega-6:omega-3 "ratio" is the wrong metric, and the scary ratio finding is an artifact**
+
+    The ratio is outdated (it hides the individual levels that matter; the real deficit is low omega-3); in UK Biobank a high ratio tracked higher mortality but both omega-6 AND omega-3 were individually protective, and in dementia the ratio was null while absolute omega-6 was protective. "High ratio → harm" is not "omega-6 is harmful."
+
+
+??? note "Tier 2 — Well-supported, with real nuance (CVD, the alternatives, the frying concern, brain, weight) (10 findings)"
+
+    **10. Replacing saturated fat with PUFA lowers cholesterol and cardiovascular events — but a mortality benefit is unproven**
+
+    RCT metas show PUFA-for-SFA → 19% fewer coronary events and cutting SFA → 21% fewer CV events; both lower LDL. But neither moves all-cause or CVD mortality, and the omega-6-specific Cochrane review found no benefit beyond a possible reduction in heart attacks. Events improve; survival is not clearly shown.
+
+    **11. The strongest human harm signal is the pure-omega-6 recovered-data trials — legitimate but confounded**
+
+    The Sydney Diet Heart Study (safflower oil → higher mortality, HR 1.62) and the Minnesota Coronary Experiment (corn oil lowered cholesterol but not death) are real and NIH-funded — but used pure omega-6 with NO omega-3, and the Sydney margarine likely carried trans fat.
+
+    **12. Omega-6 alone behaves differently from mixed PUFA — and seed oils are the omega-6-alone case**
+
+    Mixed omega-3+omega-6 diets cut heart events 22% (RR 0.78), while omega-6-specific diets increased risk 13% (RR 1.13), a significant difference — the apparent PUFA benefit is carried by the omega-3 co-intervention. Seed oils are the omega-6-alone bucket.
+
+    **13. The best-evidenced fats are Mediterranean / olive oil — but that does not make seed oils toxic**
+
+    The strongest outcome trials are for the Mediterranean diet: PREDIMED (Med + extra-virgin olive oil → 31% fewer CV events, HR 0.69; the 2013 report was retracted for randomization flaws and re-analyzed in 2018 with the same conclusion) and CORDIOPREV (Med diet beat a low-fat diet for secondary prevention, HR ~0.72), with olive oil tied to lower mortality in US cohorts. This argues for olive oil as the *best-evidenced* fat, not for seed oils being harmful.
+
+    **14. The proposed replacements (butter, coconut) raise LDL; canola improves glycemia**
+
+    A network meta of 54 RCTs ranked all unsaturated oils above butter for LDL-lowering; coconut oil raises LDL +10.5 mg/dL vs vegetable oils; and a canola-oil RCT improved HbA1c in type-2 diabetes. Swapping seed oils "back to tallow/butter" moves toward the LDL-raising fats.
+
+    **15. Heating and deep-frying seed oils DOES create toxic aldehydes — the one legitimate concern**
+
+    Frying PUFA-rich oils generates cytotoxic/genotoxic aldehydes (4-HNE, acrolein) that penetrate the food; settled chemistry, worse with reuse. Dietary LA also raises circulating oxidized-LA metabolites. The real issue is thermal oxidation in repeated deep-frying, not the oil "as bottled."
+
+    **16. But the frying-oxidation concern has NOT been shown to harm humans — including a direct human test**
+
+    No RCT or hard-endpoint study links dietary heated-oil aldehydes to human disease — the field's own skeptic concedes the trials "do not yet exist"; the alarming vascular data are rat/single-lab; and a 2026 human crossover trial feeding repeatedly-heated (10-day) oil found NO acute impairment of vascular function (chronic effects still untested).
+
+    **17. Fried-food → disease associations are real but largely explained by body weight**
+
+    Frequent fried food tracks with higher T2D (RR 1.55) and heart disease (1.21), but the effect is "largely mediated by body weight and comorbid hypertension and hypercholesterolemia"; a cohort meta found fried food raised CV events (1.28) yet NOT all-cause (1.03) or CV (1.02) mortality.
+
+    **18. Brain and dementia: higher linoleic acid is neutral-to-protective — "seed oils rot your brain" is unsupported**
+
+    In UK Biobank, higher plasma LA → 18% lower dementia (HR 0.82) and higher plasma omega-6 → 15%-per-mmol/L lower dementia (HR 0.85), while circulating arachidonic acid was tied to *slower* cognitive decline; omega-3/6 supplementation trials show little cognition effect. The human data run opposite to the "rots your brain" claim.
+
+    **19. Higher linoleic acid tracks with LOWER body weight and fat mass — the "makes you fat" claim at whole-body level**
+
+    A UK Biobank analysis (n=272,587, cross-sectional + longitudinal) found the highest vs lowest circulating LA had ~11 cm smaller waist, ~11.8 kg lower weight and ~7.9 kg lower fat mass — while non-LA omega-6 went the opposite way; and controlled trials show no differential satiety/appetite effect of PUFA vs SFA/MUFA.
+
+
+??? note "Tier 3 — Weaker, single-study, mechanism, or conditional (7 findings)"
+
+    **20. The "LA causes obesity via mitochondrial ROS" theory is mechanism + mouse + hypothesis only**
+
+    The influencer thesis rests on mouse studies (soybean oil more obesogenic than coconut/fructose; LA raising endocannabinoids) and hypothesis papers — not human trials, and the human feeding + adiposity data run the opposite way (#7, #19).
+
+    **21. Tissue linoleic acid really has risen — but that is exposure, not proof of harm**
+
+    US adipose-tissue LA rose 136% over half a century, tracking a >1,000-fold rise in soybean-oil intake. The rise is real; the leap that it CAUSED chronic disease is correlation confounded by calories/sugar/ultra-processed food — and the cohorts show higher LA tracking with better outcomes.
+
+    **22. Pregnancy and infancy: the one window where the omega-6:omega-3 balance genuinely matters more**
+
+    Unlike adults, the perinatal window is sensitive to fatty-acid balance: the secular rise in breast-milk/formula LA may crowd out DHA and arachidonic acid needed for brain development, and experts are moving toward *lowering* LA in infant formula; a pregnancy RCT lowering the n-6:n-3 ratio is one of the few interventional tests. This is a genuine, bounded caveat — not a claim about adults eating cooking oil.
+
+    **23. Gut and IBD: a weak, real dietary-linoleic-acid signal for ulcerative colitis**
+
+    The genuine (weak) harm niche is inflammatory bowel disease: a large prospective cohort tied higher dietary LA to ulcerative colitis (echoing the round-1 EPIC/UC signal), and a 2024 Mendelian-randomization study examined causal FA→IBD links. UC-specific, not systemic inflammation, and not settled.
+
+    **24. Circulating OXLAMs are driven mostly by how much LA you eat, not by eating pre-oxidized oil**
+
+    Oxidized-LA metabolites are largely endogenous — lowering dietary LA lowers plasma OXLAMs, and they correlate with NASH as biomarkers. "Eat less LA" and "avoid rancid oil" are different claims the literature conflates.
+
+    **25. Skin: a weak, confounded skin-cancer association — and no human sunburn evidence at all**
+
+    Higher PUFA intake was modestly tied to non-melanoma skin cancer (squamous HR 1.16), tiny and confounded by total energy/sun behaviour; the "seed oils cause sunburn / photoprotection-from-within" claim has no supportive human trial evidence [S96 context].
+
+    **26. Hexane extraction is real, but the "toxic residue" claim is overstated**
+
+    Seed oils are hexane-extracted and refined; the EU residue ceiling in finished oil is 1 mg/kg, residues are believed at/below it, and no evidence links dietary hexane residue to harm — though the honest caveat is that the safety assessment is old and monitoring data are sparse.
+
+
+??? note "Tier 4 — Myths, misconceptions, and marketing (7 findings)"
+
+    **27. "All seed oils are the same" is false — twice over**
+
+    Linoleic-acid content ranges from ~75% (safflower) to ~19% (canola, which also carries ~9% omega-3 ALA); and beyond the oils differing, the omega-6 fats *within* the body differ — LA is protective while other n-6 fats are not (#8). The seed's name is not the hazard, and "omega-6" is not one thing.
+
+    **28. "Seed oils cause the obesity / chronic-disease epidemic" is monocausal and contradicted**
+
+    The ecological correlation is confounded, the mechanism is mouse/hypothesis, and the human biomarker, feeding-trial, mortality and adiposity data run neutral-to-favorable (#4–#7, #19). No credible human evidence makes seed oils "the cause."
+
+    **29. "Higher linoleic acid → heart disease" is contradicted by the outcomes**
+
+    LA is the main PUFA in LDL and oxidized LDL is atherogenic — real biochemistry — but higher circulating LA is associated with LOWER cardiovascular disease and mortality (#4, #6).
+
+    **30. "Seed oils cause cancer" — mostly no, with one honest caveat**
+
+    The 1971 corn-oil trial (more cancer) was confounded (control arm ~2× smokers, author-disclaimed) and the LA-cancer meta was null; the cohorts tie LA to lower cancer mortality. The one genuine positive signal is a 2025 meta finding *dietary-questionnaire* LA → 15% higher colorectal cancer — but tissue/biomarker LA was NULL, so it is not corroborated objectively.
+
+    **31. "Swap back to beef tallow / butter / coconut oil" is not supported for health outcomes**
+
+    Tallow (~50% SFA) and butter (~63%) raise LDL versus seed oils, coconut oil raises LDL, and the biggest 2025 cohort found butter → higher mortality while plant oils → lower. The one defensible point is frying stability.
+
+    **32. The real historical vegetable-oil harm was industrial TRANS FAT — a different product**
+
+    The genuinely harmful "vegetable oil" was partially hydrogenated oil (industrial trans fat), removed from the US food supply by 2018. Today's non-hydrogenated seed oils are chemically different.
+
+    **33. "Seed oils crash testosterone" and "rot your brain" are unsupported**
+
+    The testosterone claim rests on a few small old correlations with no adequately-powered RCT (covered in testosterone-protocol); the brain claim is contradicted by LA tied to lower dementia and slower decline (#18).
+
+
+??? note "Practical — what to actually do (3 findings)"
+
+    **34. What actually matters: the food, not the bottle**
+
+    For a healthy person eating whole foods, seed oils in normal cooking are not the chronic-disease driver claimed. The legitimate levers are narrow: don't eat heavily deep-fried / ultra-processed food (unhealthy regardless of oil); prefer olive oil / a Mediterranean pattern as the best-evidenced choice; use more stable fats for repeated high-heat frying; get enough omega-3; and total calories/body fat dwarf oil choice.
+
+    **35. The real omega-6:omega-3 lever is adding omega-3, not cutting omega-6**
+
+    Because both PUFAs are protective and omega-3 is the one Western diets lack, "fixing your ratio" means eating more fish / EPA+DHA — not fearing or removing linoleic acid.
+
+    **36. Guard-rail: don't conflate CLA, the ratio, or other n-6 fats with dietary linoleic acid**
+
+    Conjugated linoleic acid (CLA) is a different supplement with its own literature; the omega-6:omega-3 ratio is not "omega-6 is harmful" (#9); and the other n-6 fats are not linoleic acid (#8). All three conflations inflate the anti-seed-oil case.
+
+## Test yourself
+
+Twelve questions drawn at random from the findings above. Pick an answer, see why, and learn. Replayable, and your best score is remembered on this device.
+
+<div class="rlw-quiz" data-count="12" data-lang="en" data-id="seed-oils" markdown="0">
+<script type="application/json" class="rlw-quiz-data">
+{"questions": [{"tier": "Tier 1", "q": "Does eating more linoleic acid (the main fat in seed oils) raise the body's arachidonic acid, the fat blamed for inflammation?", "options": ["No. Even a 6-fold increase in linoleic acid did not raise it (p=0.72)", "Yes, it roughly doubles arachidonic acid", "Yes, but only in red blood cells", "Only when combined with sugar"], "a": 0, "why": "A systematic review found up to 6-fold more dietary linoleic acid did not raise tissue arachidonic acid (p=0.72), so the inflammation chain fails at step one."}, {"tier": "Tier 1", "q": "What did controlled human trials find about linoleic acid and inflammation markers such as CRP, IL-6 and TNF-alpha?", "options": ["It sharply raised all of them", "It raised only TNF-alpha", "It caused chronic inflammation", "No effect on inflammatory markers"], "a": 3, "why": "Systematic reviews of RCTs and a 2026 soybean-vs-palm crossover found higher linoleic acid did not raise CRP, IL-6 or TNF-alpha."}, {"tier": "Tier 1", "q": "At the observational and Mendelian-randomization level, what is the honest read on linoleic acid and inflammation?", "options": ["It clearly proves linoleic acid is pro-inflammatory", "Every study shows it lowers inflammation", "The evidence is mixed and does not cleanly show linoleic acid is pro-inflammatory", "No such studies exist"], "a": 2, "why": "A 2025 independent Mendelian-randomization study found no simple pro- or anti-inflammatory dichotomy for omega-6; the RCTs are null and the picture is mixed."}, {"tier": "Tier 1", "q": "In the largest biomarker analysis (30 cohorts, 68,659 people), higher circulating linoleic acid was linked to what?", "options": ["Higher heart disease", "Lower cardiovascular disease and mortality", "No change in any outcome", "Higher stroke risk"], "a": 1, "why": "The 68,659-person analysis found higher linoleic acid tied to lower total CVD (HR 0.93) and CV mortality (0.78), the opposite of the atherogenic prediction."}, {"tier": "Tier 1", "q": "Pooled biomarker studies found higher linoleic acid was tied to how much lower type-2 diabetes risk?", "options": ["About 35% lower (RR 0.65)", "About 35% higher", "No change", "Double the risk"], "a": 0, "why": "Pooled biomarker data found higher linoleic acid meant 35% lower type-2 diabetes (RR 0.65), backed by Mendelian randomization."}, {"tier": "Tier 1", "q": "Two independent 2025 studies with no industry funding found higher linoleic acid was linked to what?", "options": ["Higher overall mortality", "More cancer only", "No measurable difference", "Lower all-cause and cancer mortality"], "a": 3, "why": "A Danish adipose-tissue cohort found 24% lower mortality (HR 0.76) and a 221,054-person US cohort found swapping butter for plant oils cut mortality 17%."}, {"tier": "Tier 1", "q": "A meta-analysis of 102 randomized feeding trials found that replacing saturated fat with PUFA (as in seed oils) did what to metabolic health?", "options": ["Worsened blood sugar", "Had no metabolic effect", "Improved glucose, HbA1c and insulin resistance", "Raised liver and visceral fat"], "a": 2, "why": "The 102-trial meta found the most consistent favourable effects on glucose, HbA1c and insulin resistance came from PUFA; overfeeding trials showed SFA caused more liver fat than PUFA."}, {"tier": "Tier 1", "q": "Is 'omega-6' one single thing that behaves the same way in the body?", "options": ["Yes, all omega-6 fats act identically", "No. Linoleic acid is protective, while other omega-6 fats like arachidonic acid can be harmful", "Yes, they all cause inflammation", "No, they are all protective"], "a": 1, "why": "Linoleic acid tracks with lower disease, but adipose arachidonic acid tracks with higher mortality (HR 1.28), so lumping them as 'omega-6' is misleading."}, {"tier": "Tier 1", "q": "As a health metric, the omega-6 to omega-3 'ratio' is best described as what?", "options": ["Outdated, because both omega-6 and omega-3 are individually protective", "The single best measure of fat quality", "Proof that omega-6 is harmful", "Only meaningful in children"], "a": 0, "why": "In UK Biobank a high ratio tracked higher mortality yet both omega-6 and omega-3 were individually protective, so the ratio hides the levels that matter."}, {"tier": "Tier 2", "q": "Replacing saturated fat with PUFA lowers cholesterol and cuts coronary events. What about living longer (all-cause mortality)?", "options": ["It clearly extends lifespan", "It shortens lifespan", "It triples survival", "A clear mortality benefit is not shown"], "a": 3, "why": "RCT metas show 19% fewer coronary events but neither all-cause nor CVD mortality clearly moves; events improve, survival is not clearly shown."}, {"tier": "Tier 2", "q": "The strongest human harm signal for omega-6 comes from old recovered-data trials (Sydney, Minnesota). Why are they weak evidence?", "options": ["The data were faked", "They studied only women", "They used pure omega-6 with no omega-3, and the margarine likely carried trans fat", "They were never published"], "a": 2, "why": "The Sydney trial (HR 1.62) used pure omega-6 with no omega-3, and its margarine likely contained trans fat, confounding the harm signal."}, {"tier": "Tier 2", "q": "In trials, mixed omega-3-plus-omega-6 diets cut heart events 22%. What did omega-6-alone diets do?", "options": ["Cut events even more", "Increased risk 13%", "Had no effect at all", "Eliminated heart disease"], "a": 1, "why": "Omega-6-alone diets raised risk 13% (RR 1.13) while mixed diets cut it 22%, so the benefit is carried by the omega-3, and seed oils are the omega-6-alone case."}, {"tier": "Tier 2", "q": "The strongest diet outcome trials (PREDIMED, CORDIOPREV) point to which fat as the best-evidenced choice?", "options": ["Beef tallow", "Coconut oil", "Olive oil / a Mediterranean pattern", "Butter"], "a": 2, "why": "PREDIMED (HR 0.69) and CORDIOPREV support olive oil and the Mediterranean pattern as best-evidenced, which does not make seed oils toxic."}, {"tier": "Tier 2", "q": "Swapping seed oils 'back' to butter or coconut oil does what to LDL cholesterol?", "options": ["Lowers it", "Removes it entirely", "Has no effect", "Raises it"], "a": 3, "why": "A network meta of 54 RCTs ranked unsaturated oils above butter for LDL, and coconut oil raises LDL about 10.5 mg/dL versus vegetable oils."}, {"tier": "Tier 2", "q": "What is the one legitimate seed-oil concern backed by settled chemistry?", "options": ["Repeatedly heating and deep-frying them creates toxic aldehydes like 4-HNE and acrolein", "They are radioactive", "They contain arsenic", "They cause inflammation the moment they are bottled"], "a": 0, "why": "Frying PUFA-rich oils generates cytotoxic aldehydes (4-HNE, acrolein) that penetrate the food, worse with reuse, the one legitimate concern."}, {"tier": "Tier 2", "q": "Has the frying-oxidation (heated-oil aldehyde) concern been shown to cause human disease?", "options": ["Yes, proven in many large trials", "No. The hard-endpoint trials do not yet exist, and a 2026 human test found no acute vascular harm", "Yes, it causes cancer within days", "It has never been studied at all"], "a": 1, "why": "The field's own skeptic concedes the human trials do not yet exist, and a 2026 crossover feeding 10-day heated oil found no acute vascular impairment."}, {"tier": "Tier 2", "q": "Fried food is linked to more diabetes and heart disease. That association is largely explained by what?", "options": ["The oil itself", "Loss of vitamins", "Body weight and related conditions like high blood pressure", "Cooking temperature alone"], "a": 2, "why": "The fried-food link to type-2 diabetes (RR 1.55) is largely mediated by body weight and comorbid hypertension and high cholesterol."}, {"tier": "Tier 2", "q": "Do seed oils 'rot your brain'?", "options": ["Yes, they directly cause dementia", "Yes, they physically shrink the brain", "There is no data either way", "No. Higher linoleic acid tracks with about 18% LOWER dementia"], "a": 3, "why": "In UK Biobank higher plasma linoleic acid meant 18% lower dementia (HR 0.82), and arachidonic acid tracked with slower cognitive decline."}, {"tier": "Tier 2", "q": "A UK Biobank study of 272,587 people found the highest circulating linoleic acid was linked to what?", "options": ["Lower weight and fat mass, about 7.9 kg less fat mass", "Much higher body fat", "A bigger waist", "No difference in body composition"], "a": 0, "why": "The highest versus lowest linoleic acid had about 11.8 kg lower weight and 7.9 kg less fat mass, the opposite of the makes-you-fat claim."}, {"tier": "Tier 3", "q": "The popular theory that linoleic acid makes you fat via mitochondrial damage rests on what evidence?", "options": ["Large human feeding trials", "Mouse studies and hypothesis papers, not human trials", "Human twin studies", "A 40-year randomized trial"], "a": 1, "why": "The thesis rests on mouse studies and hypothesis papers, while human feeding and adiposity data run the opposite way."}, {"tier": "Tier 3", "q": "US body-fat linoleic acid rose 136% over 50 years. What does that fact prove?", "options": ["It proves seed oils cause chronic disease", "It proves nothing changed", "Only that exposure rose; it is confounded by calories, sugar and processed food", "It proves seed oils are perfectly safe"], "a": 2, "why": "The 136% rise is real exposure but confounded by calories, sugar and ultra-processed food, and cohorts show higher linoleic acid tracking with better outcomes."}, {"tier": "Tier 3", "q": "Is there any life stage where the omega-6 to omega-3 balance genuinely matters more?", "options": ["No, it never matters", "Only in old age", "Only for endurance athletes", "Yes, pregnancy and infancy, because of brain development"], "a": 3, "why": "The perinatal window is sensitive to fatty-acid balance, so experts are moving toward lowering linoleic acid in infant formula, a bounded caveat, not a claim about adults."}, {"tier": "Tier 3", "q": "Where is there a genuine, if weak, harm signal for dietary linoleic acid?", "options": ["Ulcerative colitis, a type of inflammatory bowel disease", "Heart attacks", "Alzheimer's disease", "Melanoma"], "a": 0, "why": "A large prospective cohort tied higher dietary linoleic acid to ulcerative colitis, a weak, UC-specific signal, not systemic inflammation."}, {"tier": "Tier 3", "q": "Oxidized-linoleic-acid metabolites (OXLAMs) in your blood come mostly from what?", "options": ["Eating rancid or pre-oxidized oil", "How much linoleic acid you eat, because they are made in the body", "Sun exposure", "Exercise"], "a": 1, "why": "Lowering dietary linoleic acid lowers plasma OXLAMs, so they are largely endogenous; 'eat less LA' and 'avoid rancid oil' are different claims."}, {"tier": "Tier 3", "q": "What is the evidence behind the claim that seed oils cause sunburn?", "options": ["Strong randomized trial proof", "Confirmed in children", "None. No supportive human trial evidence exists", "Proven for melanoma"], "a": 2, "why": "The skin-cancer link is tiny and confounded (squamous HR 1.16) and the sunburn or photoprotection-from-within claim has no supportive human trial."}, {"tier": "Tier 3", "q": "Seed oils are extracted with hexane. Is the 'toxic hexane residue' claim supported?", "options": ["Yes, the residues are dangerous", "The oil is basically pure hexane", "Hexane causes cancer in the bottle", "No. Residues are at or below the 1 mg/kg limit with no evidence of harm"], "a": 3, "why": "The EU ceiling in finished oil is 1 mg/kg, residues are believed at or below it, and no evidence links dietary hexane residue to harm."}, {"tier": "Tier 4", "q": "Myth or fact: all seed oils are basically the same.", "options": ["Myth. Linoleic acid ranges from about 75% (safflower) to about 19% (canola, which also has omega-3)", "Fact, they are identical", "Fact, all are 75% omega-6", "They differ only in price"], "a": 0, "why": "Linoleic-acid content ranges from about 75% in safflower to about 19% in canola (which also carries about 9% omega-3 ALA), so the seed's name is not the hazard."}, {"tier": "Tier 4", "q": "Is there credible human evidence that seed oils are 'the cause' of the obesity and chronic-disease epidemic?", "options": ["Yes, strong proof", "No. The claim is monocausal and the human data run neutral-to-favorable", "Yes, proven in 2020", "Only in men"], "a": 1, "why": "The ecological correlation is confounded and the human biomarker, feeding-trial, mortality and adiposity data run neutral-to-favorable."}, {"tier": "Tier 4", "q": "Linoleic acid is the main fat in oxidized LDL (real biochemistry). But in actual outcomes, higher circulating linoleic acid is linked to what?", "options": ["More heart disease", "Sudden death", "Less cardiovascular disease and mortality", "No measurable outcome"], "a": 2, "why": "Despite the atherogenic biochemistry, higher circulating linoleic acid is associated with lower cardiovascular disease and mortality."}, {"tier": "Tier 4", "q": "Do seed oils cause cancer?", "options": ["Yes, clearly, all cancers", "Yes, proven for every cancer type", "No, they actually cure cancer", "Mostly no. Cohorts tie linoleic acid to lower cancer mortality, with one unconfirmed questionnaire signal for colorectal cancer"], "a": 3, "why": "The 1971 corn-oil trial was confounded and the LA-cancer meta was null; the one positive signal (dietary-questionnaire colorectal, 15% higher) was null by tissue biomarker."}, {"tier": "Tier 4", "q": "Is switching from seed oils back to beef tallow or butter supported for better health outcomes?", "options": ["No. Those raise LDL, butter tracked with higher mortality, and the only defensible point is frying stability", "Yes, strongly supported", "Yes, it reverses disease", "Only coconut oil helps"], "a": 0, "why": "Tallow and butter raise LDL versus seed oils and the biggest 2025 cohort found butter tracked with higher mortality; only frying stability is defensible."}, {"tier": "Tier 4", "q": "The genuinely harmful 'vegetable oil' of the past was actually what?", "options": ["Olive oil", "Partially hydrogenated oil (industrial trans fat), removed from US food by 2018", "Canola oil", "Sunflower oil"], "a": 1, "why": "The harmful product was partially hydrogenated oil (industrial trans fat), gone from the US supply by 2018; today's non-hydrogenated seed oils are chemically different."}, {"tier": "Tier 4", "q": "The claims that seed oils crash testosterone and rot your brain are best described as what?", "options": ["Backed by strong RCTs", "Proven in men over 40", "Unsupported: no powered RCT for testosterone, and linoleic acid tracks with lower dementia", "Confirmed by the WHO"], "a": 2, "why": "The testosterone claim rests on a few small old correlations with no powered RCT, and the brain claim is contradicted by linoleic acid tied to lower dementia."}, {"tier": "Practical", "q": "For a healthy person eating whole foods, what matters most for health?", "options": ["The exact cooking-oil brand", "Avoiding all fat", "Eating only raw food", "The overall food pattern and total calories or body fat, not the oil bottle"], "a": 3, "why": "Seed oils in normal cooking are not the chronic-disease driver claimed; the real levers are avoiding deep-fried and ultra-processed food and managing total calories."}, {"tier": "Practical", "q": "How do you actually 'fix your omega-6 to omega-3 ratio'?", "options": ["Eat more omega-3 (fish or EPA plus DHA), since that is what Western diets lack", "Remove all linoleic acid from your diet", "Stop eating fat entirely", "Take hexane supplements"], "a": 0, "why": "Because both PUFAs are protective and omega-3 is the one Western diets lack, fixing the ratio means adding omega-3, not removing linoleic acid."}, {"tier": "Practical", "q": "Conjugated linoleic acid (CLA), the omega-6 to omega-3 ratio, and other omega-6 fats are what?", "options": ["The same as dietary linoleic acid", "Different things that get wrongly lumped in with dietary linoleic acid to inflate the anti-seed-oil case", "All proven harmful", "All identical to fish oil"], "a": 1, "why": "CLA is a separate supplement, the ratio is not 'omega-6 is harmful,' and other omega-6 fats are not linoleic acid; all three conflations inflate the case."}]}
+</script>
+</div>
 
 [^S1]: Rett BS, Whelan J (2011) *Nutr Metab (Lond)* 8:36. Increasing dietary linoleic acid up to 6-fold did not raise tissue arachidonic acid in adults; the mechanism fails at step one. DOI [10.1186/1743-7075-8-36](https://doi.org/10.1186/1743-7075-8-36) · PMID 21663641.
 [^S2]: Su H, et al. (2017) *Food Funct* 8(9):3091-3103. Meta-analysis, 30 RCTs / 1,377 people: higher LA had no significant effect on TNF-α, IL-6, CRP, adiponectin or MCP-1. DOI [10.1039/c7fo00433h](https://doi.org/10.1039/c7fo00433h) · PMID 28752873.

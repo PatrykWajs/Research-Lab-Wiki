@@ -8,6 +8,43 @@ description: How bisphenol A from receipts gets into the body, what it does, and
 
 **Complete** · Published 25 June 2026 · *Rebuilt 14 July 2026 — every cited study re-read from source and re-verified* · **29 cited studies & official assessments** · Confidence: **High** on exposure · **Moderate** on harm magnitude.
 
+## Start here
+
+!!! quote "Bottom line"
+    **A paper receipt coats your fingers in loose, hormone-active BPA that your skin absorbs more dangerously than your gut does, trivial for the occasional shopper but a real daily dose for cashiers and pregnant women, and free to skip by declining the paper.**
+
+**Myths vs. reality**
+
+| What most people believe | What the evidence actually shows |
+|---|---|
+| Plastic bottles are the big BPA worry, receipts are nothing | One receipt carries thousands of times more loose, rub-off BPA than a plastic bottle leaks, roughly 1 to 2 percent of the paper's weight (about 19.6 mg per gram) sitting on the surface. |
+| Swallowing BPA is worse than just touching it | Skin is worse per microgram. It skips the liver's first-pass cleanup, so more reaches your blood in the active form and lingers up to a week, versus 24 hours for swallowed BPA. |
+| "BPA-free" receipts are the safe choice | "BPA-free" almost always means BPS or BPF, about as hormonally active as BPA, and BPS resists your metabolism so more stays active. Only genuinely bisphenol-free paper is a real fix. |
+| Receipts are my main source of BPA | For the average person, canned and packaged food dominates (canned tuna up to about 105 micrograms per kg, worse when heated). A stray receipt is a small add-on. Cashiers are the exception. |
+| A quick touch is harmless | Sanitizer or lotion first can raise absorption up to about 185 times. One "sanitize, hold receipt, eat fries by hand" event pushed a person to the whole US population's 95th percentile in 90 minutes. |
+| Regulators agree BPA is basically fine | They do not. In 2023 the EU cut the safe daily dose about 20,000-fold, while the US FDA still calls it safe and does not regulate receipts at all. Same molecule, roughly 1,000x disagreement. |
+| If it were dangerous, there would be proof it causes disease | The exposure is proven and measured, but whether the receipt fraction causes a specific disease is genuinely unproven and expert-contested. The reason to avoid it is that avoiding it is free. |
+| Gloves would not really change anything | Gloves abolish the exposure entirely. In two separate studies the urinary BPA rise disappears with nitrile gloves, which is the clean proof it is the skin. |
+
+**What you actually learn**
+
+- A receipt is coated in loose BPA, about 1 to 2 percent of its weight, that rubs onto your fingers in seconds, thousands of times more free BPA than a plastic bottle leaks. In one US survey, 44 percent of 50 receipts carried high BPA.
+- BPA through skin is more dangerous than BPA in food: it dodges the liver, so more of it stays in the active form and is still detectable up to a week later (9 days in one person), versus 24 hours for food BPA.
+- Gloves make the exposure vanish. Bare hands raised cashiers' urinary BPA roughly 2 to 3 times over a shift; nitrile gloves gave zero rise. Two independent studies.
+- Cashiers run about 2 to 3 times elevated, and roughly 70 percent of their BPA comes through the skin. It tracks with a DNA-damage marker (8-OHdG) and higher insulin resistance.
+- Hand sanitizer or lotion turns a minor touch into a big dose, up to about 185 times more absorbed. One combined event pushed someone to the US 95th percentile in 90 minutes.
+- The scary "20,000 times over the limit" figure exists because the EU moved the line, not because receipts got worse. The same exposure was "42 times under the limit" on the 2015 rule and about 4,850 times over on the strict 2023 rule. The receipt never changed.
+- "BPA-free" is mostly marketing: it means BPS or BPF, about as hormone-active as BPA, and more free BPS survives through the skin than BPA (6.9 percent versus 2.7 percent). Only bisphenol-free paper like Pergafast 201 is a genuine fix.
+- For the average person your BPA mostly comes from canned and packaged food (worse when heated), not receipts, so a stray receipt is a small add-on, not your main source.
+- No study has proven a receipt causes a specific disease, and two respected agencies disagree by roughly 1,000 times on how risky BPA even is. The strongest signal is on sperm count and male hormones (an 18-study meta), plus prenatal hyperactivity as a "presumed hazard."
+
+!!! tip "What this means for you"
+    - Decline paper receipts and pick digital (email or app) when offered. It costs nothing and removes a real bioactive exposure.
+    - Never handle a receipt right after hand sanitizer or lotion, that is the up-to-185x amplifier. Wash your hands before eating if you have handled receipts, and do not eat finger food while holding one.
+    - If you are a cashier or pregnant, treat it seriously: wear nitrile gloves (proven to zero out the exposure), keep receipts away from kids, and push your employer toward bisphenol-free paper.
+    - Do not bother "upgrading" to BPA-free receipts, that is usually BPS or BPF and no safer. The only real fixes are digital or genuinely bisphenol-free paper.
+    - Keep it in proportion: for an occasional shopper the risk is small and unproven, so do not stress one receipt. Take the free win by declining it, and if you actually want to cut BPA, target the bigger source, canned and packaged food, worse when heated.
+
 !!! abstract "TL;DR"
     Thermal receipts are coated in **free, rub-off BPA** (≈19.6&nbsp;mg/g, in 44% of receipts) that absorbs **through the skin** — a route that bypasses liver detox, so more reaches the blood in its **active form** and lingers for days. **Hand sanitizer amplifies absorption up to 185×.** Diet is still the average person's main BPA source, so a stray receipt is a **small, easily-avoided** add-on — but for **cashiers** it's a real occupational exposure (~2–3× higher urinary BPA, with DNA-oxidative-damage and insulin-resistance correlates). "BPA-free" receipts are usually BPS/BPF — no safer. EFSA (2023) cut the safe dose ~20,000× and says background diet already exceeds it; the US FDA still calls it safe and doesn't regulate receipts at all. **Verdict: avoidance is cheap and rational — strongly so for cashiers and pregnant women.**
 
@@ -93,6 +130,119 @@ Receipt-borne BPA is one of the **most easily avoided** exposures, and the inter
 ---
 
 *Every source below is real and verifiable by its DOI / PMID / URL. Grades: agency = official risk assessment / regulation · SR/MA = systematic review / meta-analysis · primary = human biomonitoring / controlled exposure · secondary = review / commentary.*
+
+## The full findings — all 22
+
+Every conclusion this review reached, grouped by how strongly the evidence backs it. Each finding is distilled from the fully-cited evidence above.
+
+??? note "Tier 1 — Settled: the exposure is real (multi-study + agency-backed) (6 findings)"
+
+    **1. Receipts carry milligram quantities of free, rub-off BPA**
+
+    In 50 US thermal receipts, 44% had high BPA at **19.6 mg per gram** of paper (~1–2% of the paper's weight); the canonical transfer study found **8–17 g/kg in 11 of 13 papers** — thousands of times more free BPA than migrates from a plastic bottle.
+
+    **2. Gloves abolish the exposure — the cleanest proof it's the skin**
+
+    Two hours of bare-handed receipt handling raised urinary BPA **1.8 → 5.8 µg/L** (peak 11.1 at 8 h); wearing nitrile gloves produced **no rise**, and a separate cashier intervention found the ~2× post-shift rise vanished with gloves. Two independent causal demonstrations.
+
+    **3. The skin route bypasses the liver's first-pass detox — more bioactive, slower-clearing**
+
+    Dermal BPA reaches blood with a **higher unconjugated (bioactive) fraction (0.71–8.3%) than diet (0.29–1.4%)** and clears slowly — urinary excretion rises ~2 days and is detectable up to **1 week** (9 days in one person), versus 24 h for swallowed BPA. This is why a receipt's BPA matters more per microgram than dietary BPA.
+
+    **4. Cashiers absorb most of their BPA through the skin, and run ~2–3× elevated**
+
+    In cashiers, dermal contact contributed **51.9–84% (GM 70.9%)** of urinary BPA; French cashiers had median total urinary BPA **8.92 µg/L vs 3.54 µg/L** in controls, and Korean female cashiers showed ~2× post-shift BPA. A documented occupational exposure across three independent cohorts.
+
+    **5. "BPA-free" usually means BPS/BPF — not safer**
+
+    A 1,370-study systematic review found BPS and BPF are **"as hormonally active as BPA"** (estrogenic potency BPF 1.07, BPS 0.32 relative to BPA), with estrogenic/anti-androgenic activity — the classic "regrettable substitution". Only **bisphenol-free** paper (e.g. Pergafast 201) is a real fix — proven feasible when Switzerland mandated it (BPA-developed receipts fell 82% → 11%).
+
+    **6. EFSA cut the safe daily dose ~20,000× — diet alone already exceeds it**
+
+    In 2023 EFSA set a tolerable daily intake of **0.2 ng/kg bw/day** (immune/Th17 endpoint), ~20,000× below its 2015 value; **mean and high dietary exposure in all age groups exceed it by 2–3 orders of magnitude**. Receipts add a dermal, bioactive increment on top of an already-exceeded background.
+
+
+??? note "Tier 2 — Well-supported: amplifiers, magnitude, hormones, regulation (7 findings)"
+
+    **7. Hand sanitizer / lotion is a massive amplifier (up to ~185×)**
+
+    Skin penetration enhancers in sanitizers and lotions open the barrier — the study reported penetration enhancers can raise dermal absorption of lipophilic compounds "up to 100-fold," and measured receipt-to-sanitized-hand transfer **up to ~185× higher** than to a dry hand. Never handle receipts right after sanitizer.
+
+    **8. One worst-case event ≈ the population's 95th percentile**
+
+    Sanitizer → hold receipt → eat finger-food pushed unconjugated **serum BPA to ~7 ng/mL** and urinary BPA to **~20 µg/g creatinine in 90 min** — roughly the NHANES 95th percentile for the entire US population, from a single event.
+
+    **9. The same receipt exposure went from "42× under the limit" to ~5,000× over it — because EFSA moved the line, not the receipt**
+
+    Worst-case occupational receipt handling (~10 h/day) models to **~71 µg/day (≈0.97 µg/kg bw/day)** of dermal BPA — about **0.24× the 2015 temporary TDI** (Biedermann's 2010 paper called it "42× below" the TDI of its day) but **~4,850× the 2023 TDI** of 0.2 ng/kg/day. One dry-hand 5-second hold puts ~1 µg on the skin (up to ~10 µg wet/greasy); an illustrative order-of-magnitude, absorbed fraction smaller.
+
+    **10. BPA lowers sperm count and bioactive androgen (the HPG-axis link)**
+
+    Meta-analysis of 18 studies: urinary BPA inversely associated with **sperm concentration (β −0.03)** and **total count (β −0.05)**, with **higher SHBG and estradiol and lower bioactive androgen** — the same estrogenic/anti-androgenic pathway VL6 names for bisphenols. (The below-reference sperm-quality link was "not robust.")
+
+    **11. Canned/packaged food is the quantified "diet" that dominates for the average person — and heat makes it worse**
+
+    BPA is absent from raw food and migrates out of epoxy can-linings and plastic, rising with heat, sunlight and storage: canned **tuna up to ~105 µg/kg** (max after 121 °C / 90 min retort; lining shed up to 646 µg/kg); canned **sardines 5.2–48.7 µg/kg**, migration **+437%** with temperature/concentration. So a stray receipt is a small add-on to the dietary baseline for the average person — it's cashiers where the dermal route dominates.
+
+    **12. The EU restricts receipt BPA; the US does not**
+
+    The EU banned BPA in thermal paper above **0.02% from Jan 2020** (Reg (EU) 2016/2235) and lists BPA as an endocrine-disruptor SVHC; the US FDA still calls BPA safe at current levels, does not regulate receipts at all, and US exposure is ~1,000× EFSA's limit.
+
+    **13. Mitigation is cheap and proven**
+
+    Decline paper receipts / go digital; don't handle them after sanitizer or lotion; keep them from children; wash hands before eating; cashiers should wear **gloves** (the proven control) and employers should switch to bisphenol-free paper.
+
+
+??? note "Tier 3 — Consistent but observational (disease associations) (7 findings)"
+
+    **14. Low-dose effects are real at human-relevant doses (CLARITY-BPA academic arm)**
+
+    The CLARITY-BPA academic laboratories found **consistent effects at 2.5 / 25 / 250 µg/kg/day** across brain, heart, prostate, ovary, mammary and immune tissue — doses relevant to human exposure — contradicting the assumption that low doses are harmless. (The Core-study "no clear adverse effects" reading is the counter-position — see Tier 4.)
+
+    **15. Prenatal BPA is a "presumed human hazard" for hyperactivity**
+
+    A systematic review (29 rodent + 3 human studies) concluded early-life BPA exposure is a presumed hazard for childhood **hyperactivity**, urging precautionary reduction in pregnant women, infants and children. Pregnancy/childhood is the priority population, though the human arm is only three studies.
+
+    **16. Modest but consistent cardiovascular signal**
+
+    Prospective EPIC-Norfolk: incident coronary artery disease **OR 1.13 (95% CI 1.02–1.24) per SD urinary BPA** (borderline after full adjustment, OR 1.11, p=0.058), echoing earlier NHANES cross-sectional links to CVD (OR 1.39) and diabetes.
+
+    **17. Cashier BPA tracks a DNA-damage marker and insulin resistance**
+
+    Cashier urinary BPA correlated with the oxidative-DNA-damage marker 8-OHdG (R²=0.237, p<0.001), and higher cashier BPA tracked with higher fasting insulin / insulin resistance — biological correlates of the occupational exposure, though cross-sectional.
+
+    **18. "BPA-free" BPS/BPF now carries human disease-outcome signals, not just in-vitro activity**
+
+    Beyond estrogenic potency, human biomonitoring ties urinary BPS/BPF to **obesity** (NHANES: higher in obese adults; BPS↔general+abdominal obesity in 6–19-year-olds) and **type-2 diabetes** (BPS/BPAF positive even after BMI adjustment); two 2022–2023 reviews conclude BPS/BPF "could promote obesity and diabetes," BPS most — though this epidemiology is younger, thinner and mostly cross-sectional.
+
+    **19. Dermal BPS may be worse than BPA — it resists metabolism**
+
+    After handling receipts, **more free (unmetabolized) BPS (6.9%) than BPA (2.7%)** reached urine, and only the free form binds estrogen receptors — so switching to "BPA-free" thermal paper does not remove the dermal-absorption risk.
+
+    **20. "BPA-free" BPS/BPF are directly cytotoxic to human placental cells, not just hormonally active**
+
+    In JEG-Tox placental cells, **BPA and BPF induced more caspase-1/-9/-3 (inflammasome + apoptosis) than BPS**, and **BPF uniquely activated caspase-8** — substitute-bisphenol toxicity in a pregnancy-relevant tissue, reinforcing that "BPA-free" is not automatically safe, especially prenatally (in-vitro).
+
+
+??? note "Tier 4 — Genuinely contested (disease causation + the verdict) (2 findings)"
+
+    **21. Whether receipt BPA causes a specific disease is unproven and expert-contested**
+
+    The disease-causation question turns on the unresolved **EFSA-vs-FDA/BfR dispute**: EFSA's 20,000× cut rests on an immune (Th17) endpoint that regulatory toxicologists and Germany's BfR argue is not a demonstrated adverse effect (BfR derived a TDI ~1,000× higher), and the FDA still reads the CLARITY Core study as "no clear adverse effects". This is genuine expert disagreement, not a settled harm.
+
+    **22. Verdict — real exposure, contested harm, cheap avoidance**
+
+    Receipt BPA is a documented, avoidable **dermal/occupational exposure** (high confidence); whether it causes a specific disease is **unproven for the receipt fraction specifically** (low–moderate confidence) and depends on the EFSA-vs-FDA dispute above. Because avoidance costs ~nothing, precaution is rational — **strongly for cashiers and pregnant women**. Independently corroborated inside the knowledge base by Huberman Lab EP-236 (Dr. Shanna Swan), who gives a dedicated "avoid thermal-receipt BPA/BPS skin absorption" tool.
+
+## Test yourself
+
+Twelve questions drawn at random from the findings above. Pick an answer, see why, and learn. Replayable, and your best score is remembered on this device.
+
+<div class="rlw-quiz" data-count="12" data-lang="en" data-id="bpa-thermal-receipts" markdown="0">
+<script type="application/json" class="rlw-quiz-data">
+{"questions": [{"tier": "Tier 1", "q": "How much free, rub-off BPA does a high-BPA thermal receipt carry?", "options": ["About 19.6 mg per gram of paper, roughly 1 to 2 percent of its weight", "About 19.6 micrograms per gram, only trace amounts", "Less BPA than a plastic water bottle leaches", "None you can rub off, it is a sealed coating"], "a": 0, "why": "44 percent of 50 US receipts held high BPA at 19.6 mg per gram of paper, far more free BPA than a plastic bottle."}, {"tier": "Tier 1", "q": "What happened when people handled receipts wearing nitrile gloves instead of bare hands?", "options": ["Urinary BPA rose the same amount either way", "The gloves cut the rise by about half", "Wearing gloves produced no rise in urinary BPA", "The gloves raised BPA because of the material"], "a": 2, "why": "Bare-handed handling took urinary BPA from 1.8 to 5.8 micrograms per liter, while gloves produced no rise."}, {"tier": "Tier 1", "q": "Why does BPA from a receipt matter more per microgram than BPA swallowed in food?", "options": ["The skin actually absorbs far less than the gut does", "Food BPA is always the higher dose", "BPA from both routes is chemically identical", "The skin route skips the liver first-pass detox, so more stays bioactive and it clears over days not hours"], "a": 3, "why": "Dermal BPA carries a higher unconjugated bioactive fraction and stays detectable up to a week, versus 24 hours for swallowed BPA."}, {"tier": "Tier 1", "q": "For cashiers, roughly how much of their urinary BPA comes in through the skin?", "options": ["Around 70 percent, geometric mean 70.9 percent", "Around 30 percent", "Around 10 percent", "Essentially none, it is all dietary"], "a": 0, "why": "Dermal contact contributed a geometric mean of 70.9 percent of cashiers' urinary BPA across three cohorts."}, {"tier": "Tier 1", "q": "Myth or fact: BPA-free receipt paper is the safer choice.", "options": ["Fact, BPA-free means no hormone-active chemical", "Myth, the substitutes BPS and BPF are about as hormonally active as BPA", "Fact, but only for children", "Myth, BPA-free paper actually carries more BPA"], "a": 1, "why": "A 1,370-study review found BPS and BPF as hormonally active as BPA, the classic regrettable substitution."}, {"tier": "Tier 1", "q": "By roughly how much did EFSA cut BPA's tolerable daily intake in 2023?", "options": ["About 20-fold", "About 200-fold", "About 2,000-fold", "About 20,000-fold, down to 0.2 nanograms per kilogram per day"], "a": 3, "why": "EFSA set the TDI at 0.2 ng/kg per day in 2023, about 20,000 times below its 2015 value, a level diet alone already exceeds."}, {"tier": "Tier 2", "q": "What does using hand sanitizer or lotion right before handling a receipt do to BPA absorption?", "options": ["Nothing, the skin barrier blocks BPA either way", "It washes the BPA off, so absorption drops", "It can raise dermal BPA absorption dramatically, up to about 185 times higher", "It only matters if you then eat, not for the skin"], "a": 2, "why": "Skin penetration enhancers in sanitizer raised receipt-to-hand BPA transfer up to about 185 times higher."}, {"tier": "Tier 2", "q": "What did a single worst-case handling event (sanitizer, hold a receipt, eat finger food) produce?", "options": ["It pushed urinary BPA to about the US population's 95th percentile within 90 minutes", "It made no measurable difference", "It took a full week of handling to move BPA at all", "Only canned food could raise BPA that fast"], "a": 0, "why": "One sanitizer-hold-eat event drove urinary BPA to roughly the NHANES 95th percentile in 90 minutes."}, {"tier": "Tier 2", "q": "Why did the same receipt exposure flip from well under the safety limit to thousands of times over it?", "options": ["The receipts started carrying much more BPA", "People suddenly handled far more receipts", "EFSA moved the safety limit down about 20,000-fold, the line moved, not the receipt", "Skin absorption abruptly increased"], "a": 2, "why": "Worst-case handling models to about 0.97 micrograms per kilogram per day, roughly 4,850 times the 2023 TDI though only 0.24 times the old 2015 one."}, {"tier": "Tier 2", "q": "A meta-analysis of 18 studies linked higher urinary BPA to what?", "options": ["Higher sperm count and higher testosterone", "Lower sperm concentration and count, plus lower bioactive androgen", "No effect on any reproductive marker", "Effects only seen in women"], "a": 1, "why": "The 18-study meta tied urinary BPA to lower sperm concentration and count with higher SHBG and estradiol and lower bioactive androgen."}, {"tier": "Tier 2", "q": "For the average non-cashier person, where does most dietary BPA actually come from?", "options": ["Thermal receipts held for a few seconds", "Tap water", "Canned and packaged food, with migration rising under heat", "Raw fruit and vegetables"], "a": 2, "why": "BPA is absent from raw food but migrates from can linings, canned tuna reaching up to about 105 micrograms per kilogram and worse with heat."}, {"tier": "Tier 2", "q": "Which statement about receipt-BPA regulation is true?", "options": ["Both the EU and the US ban BPA in receipts", "The EU restricts BPA in thermal paper while the US does not regulate receipts at all", "The US has stricter receipt limits than the EU", "Neither region regulates it"], "a": 1, "why": "The EU banned BPA above 0.02 percent in thermal paper from January 2020, while the US FDA still calls BPA safe and does not regulate receipts."}, {"tier": "Tier 2", "q": "Which is a proven, low-cost way to cut receipt-BPA exposure?", "options": ["Rinsing each receipt with water first", "Handling receipts only with freshly sanitized hands", "Warming the receipt before you touch it", "Declining paper receipts and having cashiers wear gloves"], "a": 3, "why": "Declining paper, going digital, washing hands, and gloves for cashiers are the proven, cheap controls."}, {"tier": "Tier 3", "q": "What did the CLARITY-BPA academic laboratories find at doses relevant to human exposure?", "options": ["Consistent effects across brain, heart, prostate and other tissues at low doses", "No effects at any dose tested", "Effects only at very high doses", "Effects only in adult males"], "a": 0, "why": "The academic arm reported consistent effects at 2.5, 25 and 250 micrograms per kilogram per day across many tissues."}, {"tier": "Tier 3", "q": "A systematic review named early-life BPA a presumed human hazard for which childhood outcome?", "options": ["Childhood hyperactivity", "Childhood asthma", "Childhood obesity alone", "No childhood outcome at all"], "a": 0, "why": "A review of 29 rodent plus 3 human studies called prenatal BPA a presumed hazard for childhood hyperactivity."}, {"tier": "Tier 3", "q": "How strong is the BPA-cardiovascular link in prospective data?", "options": ["A large, definitive jump in heart disease", "A modest, borderline rise in coronary artery disease, about OR 1.13 per standard deviation", "No association whatsoever", "A clearly protective effect"], "a": 1, "why": "EPIC-Norfolk found incident coronary artery disease OR 1.13 per SD urinary BPA, borderline after full adjustment."}, {"tier": "Tier 3", "q": "In cashiers, higher urinary BPA tracked with which biological markers?", "options": ["Higher vitamin D levels", "Lower blood pressure and better sleep", "No measurable biological markers", "An oxidative DNA-damage marker (8-OHdG) and higher insulin resistance"], "a": 3, "why": "Cashier BPA correlated with the DNA-damage marker 8-OHdG (R-squared 0.237) and with higher fasting insulin."}, {"tier": "Tier 3", "q": "Beyond lab activity, human biomonitoring now ties BPS and BPF to what?", "options": ["Nothing, they only act in test tubes", "Improved metabolic health", "Obesity and type-2 diabetes signals in people", "Only mild skin irritation"], "a": 2, "why": "Human biomonitoring links urinary BPS and BPF to obesity and type-2 diabetes, BPS most of all."}, {"tier": "Tier 3", "q": "After handling receipts, how did free unmetabolized BPS compare to free BPA in urine?", "options": ["More free BPS (6.9 percent) than free BPA (2.7 percent) reached urine", "Less free BPS reached urine, so it is the safer swap", "They were exactly identical", "No BPS was absorbed through the skin"], "a": 0, "why": "More free BPS (6.9 percent) than BPA (2.7 percent) reached urine, and only the free form binds estrogen receptors."}, {"tier": "Tier 3", "q": "In human placental cells, what did BPA and the BPA-free substitutes do?", "options": ["Nothing, they were inert", "Only BPA had any effect", "They protected the placental cells", "They triggered cell-death and inflammasome pathways, so substitutes are not automatically safe"], "a": 3, "why": "In JEG-Tox placental cells, BPA and BPF induced more caspase-driven apoptosis than BPS, and BPF uniquely activated caspase-8."}, {"tier": "Tier 4", "q": "Is it settled that receipt BPA causes a specific disease?", "options": ["Yes, it is proven to cause disease", "No, it is genuine expert disagreement (EFSA versus FDA and BfR), not settled harm", "Yes, the FDA confirmed the harm", "No, and no expert believes there is any risk at all"], "a": 1, "why": "The disease-causation question rests on the unresolved EFSA-versus-FDA/BfR dispute, genuine disagreement rather than settled harm."}, {"tier": "Tier 4", "q": "What is the project's overall verdict on thermal-receipt BPA?", "options": ["A proven major health threat everyone should fear", "A harmless myth not worth any action", "A real, avoidable exposure whose specific disease harm is contested, so cheap precaution is rational, above all for cashiers and pregnant women", "A concern only from eating receipts, not from touching them"], "a": 2, "why": "Exposure is documented and dermal (high confidence), disease harm is contested (low to moderate), and avoidance costs near nothing, so precaution is rational especially for cashiers and pregnant women."}]}
+</script>
+</div>
 
 [^S1]: Hormann AM, vom Saal FS, Nagel SC, et al. Holding Thermal Receipt Paper and Eating Food after Using Hand Sanitizer Results in High Serum Bioactive and Urine Total Levels of Bisphenol A (BPA). *PLoS ONE.* 2014;9(10):e110509. [doi:10.1371/journal.pone.0110509](https://doi.org/10.1371/journal.pone.0110509). *(primary)*
 [^S2]: Ehrlich S, Calafat AM, Humblet O, Smith T, Hauser R. Handling of thermal receipts as a source of exposure to bisphenol A. *JAMA.* 2014;311(8):859–860. [doi:10.1001/jama.2013.283735](https://doi.org/10.1001/jama.2013.283735). *(primary)*
