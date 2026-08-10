@@ -59,6 +59,10 @@ extra:
 
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/rlw-quiz.css
+
+extra_javascript:
+  - assets/js/rlw-quiz.js
 
 plugins:
   - search:
