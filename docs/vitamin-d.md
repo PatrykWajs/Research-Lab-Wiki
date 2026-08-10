@@ -8,6 +8,43 @@ description: Does vitamin D prevent disease and boost health — or is it a defi
 
 **Complete** · Published 6 August 2026 · *One 8-cluster literature sweep; every one of the 90 cited study PMIDs was independently title-matched against PubMed — 3 wrong PMIDs were caught and corrected, and 8 retraction / Expression-of-Concern notices confirmed (two nonlinear-Mendelian-randomization papers were pulled)* · **90 cited sources** · Confidence: **High** on the primary-prevention nulls, the "deficiency is a cutoff artifact" and reverse-causation story, and the bolus/high-dose harm; **Moderate** on the deficiency-gated wins (mortality in the elderly, type-2 diabetes, pregnancy, respiratory infection) and the exact shape of the cancer-mortality signal.
 
+## Start here
+
+!!! quote "Bottom line"
+    **If you are not actually deficient, vitamin D pills do almost nothing for your health, and taking megadoses "to be safe" can quietly hurt you.**
+
+**Myths vs. reality**
+
+| What most people believe | What the evidence actually shows |
+|---|---|
+| "Almost everyone is deficient, so I probably am too." | A cutoff trick. At the evidence-based line (20 ng/mL) only about **6%** are truly deficient. Move the line to the industry-linked 30 ng/mL and suddenly "70 to 80% are insufficient." |
+| "Vitamin D is great for your bones." | In healthy adults it does not cut fractures or raise bone density. The 25,871-person VITAL trial found no fewer fractures, not even in people with low levels, and 10,000 IU a day actually **lost** bone density over 3 years. |
+| "It protects your heart and prevents cancer and early death." | Null in the big trials. An 83,000-person analysis put heart-event risk at exactly **1.00**, and cancer and death rates did not move in already-sufficient people. |
+| "More is better, so megadose to be safe." | The curve flattens, then bends toward harm. High daily doses lose bone, and a single big annual dose raised falls and fractures. The safe ceiling is **4,000 IU a day**. |
+| "Low vitamin D causes all these diseases." | Mostly backwards. Obesity lowers your level, and low D is usually a marker of being unwell, not the cause. The famous study "proving" low D causes heart disease and death was **retracted twice**. |
+| "It boosts testosterone, mood, and immunity." | Null for testosterone even in men with genuinely low T, null for depression in an 18,353-person trial, and null for preventing COVID. |
+| "Sunbathe to get your vitamin D naturally." | A cheap pill gets you the same blood level with none of the skin-cancer, melanoma, or ageing cost. |
+| "It cures winter depression (SAD)." | That claim traces to one 1999 study of 15 people with no placebo group. The large trials show nothing. |
+
+**What you actually learn**
+
+- The "everyone is deficient" panic is a number game: at the honest cutoff only about **6%** of people are truly deficient, but shift the line and it jumps to 70 to 80%.
+- The **Endocrine Society reversed its own 2011 guideline in 2024** and now says do NOT routinely test healthy people. The US Preventive Services Task Force agrees.
+- The classic "vitamin D for strong bones" idea collapsed. The biggest trial (25,871 people) found no fracture benefit at all, even in the low-level subgroup.
+- More is not safer: **10,000 IU a day lost bone density** over 3 years versus a low dose, and big infrequent megadoses increase falls and fractures.
+- The celebrated science claiming low vitamin D causally drives heart disease and death was **retracted twice** because the method was broken.
+- Being overweight lowers your vitamin D reading, not the other way around, so a low number is often just a sign of poor health you cannot fix with a pill.
+- It does not raise testosterone (tested even in low-T men) and does not prevent depression (tested in 18,353 people) or COVID.
+- Where it genuinely works is correcting real deficiency: it cures rickets and osteomalacia, cuts fractures in the frail housebound elderly (with calcium), and lifelong sufficiency lowers multiple-sclerosis risk.
+- To fix a real deficit, a modest **1,000 to 2,000 IU taken daily** is the sweet spot, under the 4,000 IU/day ceiling. Daily beats big weekly or monthly doses.
+
+!!! tip "What this means for you"
+    - If you feel fine and are not in a risk group, do not bother testing or supplementing. A sufficient level gains you almost nothing.
+    - Only test your 25(OH)D if you are genuinely at risk: dark skin, housebound, obese, or with gut malabsorption.
+    - Taking 5,000 IU "to be safe" with no recent blood test? Dial it down to about 1,000 to 2,000 IU a day unless a test shows you are low. Keep it daily, with K2 and a fatty meal.
+    - If you are low, fix it with a modest daily dose, never a big weekly or monthly megadose. Bolus dosing backfires.
+    - Do not sunbathe for vitamin D and do not chase 10,000 IU. More costs you bone; it does not add it.
+
 !!! abstract "TL;DR"
     Vitamin D is a **real treatment for real deficiency that got mis-sold as a health booster for everyone.** Correcting a genuine deficiency matters — it cures rickets and osteomalacia, cuts fractures in the deficient housebound elderly (with calcium),[^S17] and lifelong sufficiency lowers multiple-sclerosis risk with rare causal support.[^S75] But in already-replete adults, supplementation moves **almost no hard outcome**: it does not prevent heart disease,[^S4] cancer,[^S5] death,[^S1] fractures,[^S12][^S13] falls,[^S24] depression,[^S54] cognitive decline,[^S60] COVID,[^S43] or low testosterone.[^S50][^S51] Past ~1,000–2,000 IU/day the curve flattens then bends toward harm — 10,000 IU/day *lost* bone density in a 3-year trial,[^S22] and bolus megadoses *increase* falls and fractures.[^S20] "Everyone is deficient" is a **cutoff artifact** (~6% truly deficient at the IOM's 20 ng/mL, versus 70–80% "insufficient" at the industry-linked 30 ng/mL),[^S31][^S33] and the **Endocrine Society reversed itself in 2024**, now advising against routine screening of healthy people.[^S27] The honest rule: **test if you're at-risk, correct a real deficit with a modest daily dose, and stop chasing a number if you're already sufficient.**
 
