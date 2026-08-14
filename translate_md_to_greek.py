@@ -107,7 +107,20 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Powe","Nielson","Vimaleswaran","Drincic","Butler-Laporte","Murai","Ganmaa","de Koning","Vellekkatt","Menon",
     "Nowak","Gloth","Navale","Malihi","Durup","Vieth","Araki","Marcinowska-Suchowierska","Sofianopoulou","Hyppönen",
     "Hypponen","Sutherland","Tian","Ye","Dimitrakopoulou","Afzal","Mokry","Manousaki","Revez","Munger","Pittas",
-    "Kawahara","Palacios","Chawes","Terushkin","Reid","Kang","Costenbader","Manson","Chandler","Brenner","Cooper"]
+    "Kawahara","Palacios","Chawes","Terushkin","Reid","Kang","Costenbader","Manson","Chandler","Brenner","Cooper",
+    # magnesium project — acronyms/terms/trials/forms (keep Latin)
+    "MAGPIE","MgSO4","Mg-ATP","ATP","PPI","PPIs","SGLT2","SGLT2i","ZMA","MMFS-01","Magtein","AIDP","TRPM6","MDS",
+    "HOMA-IR","ISI","SBP","DBP","RR","HR","OR","mmHg","mmol","AGA","ACG","Cochrane","NAKO","KORA","WHI","RDA","EAR",
+    "L-threonate","Epsom","CSF","Naveh","CMER","PharmaNutra","Alesco","CELLg8","Threotech","Neurocentria","Magceutics",
+    # magnesium project — author surnames (keep Latin)
+    "de Baaij","Jahnen-Dechent","Altman","Tzivoni","Shepherd","Rosanoff","Workinger","Pitliya","Garrison","Roguin Maor",
+    "Kuusipalo","Barna","Torigoe","Mori","Morishita","Chang","Firoz","Pardo","Tinsley","Argeros","Dong","Maqrashi","Amiri",
+    "Bagheri","Yin","Jiang","von Luckner","Moabedi","Tarleton","Cheungpasitporn","Tang","Mah","Schuster","Slutsky",
+    "Hausenblas","Boyle","Orchard","Cinar","Excoffon","Wilborn","Gallagher","Kass","Gröber","Grober","Marles","Sakaguchi",
+    "Kew","Powell","Rouse","Doyle","Vanoni","Pham","Barbagallo","Dibaba","Khan","Hruby","Farsinejad-Marj","Facchinetti",
+    "Costello","Elin","Witkowski","Gullestad","DiNicolantonio","Schuchardt","Kappeler","Brilli","Edwards","Khalid",
+    "Kessoku","Tepper","Moslehi","Secondulfo","Ayub","Jesus","Hernández-Rubio","Floris","Jafar","Behers","Mohammadi",
+    "Basit","Adomako","Krishnan","Léonard","Shah","Cepeda","Fong","Talandashti","Abhishek","Helte","Shugaa Addin","Maggio"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(

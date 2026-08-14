@@ -66,6 +66,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](vitamin-d.md)
 
+-   :material-atom:{ .lg .middle } __Magnesium: What It Actually Does vs What People Think__
+
+    ---
+
+    Sleep, cramps, the "glycinate" form, testosterone, "everyone's deficient" — which magnesium claims are real? An essential mineral with a genuinely real dietary gap, where almost every benefit is deficiency-correction and the strongest evidence is IV hospital medicine, not the supplement. **151 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](magnesium.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
