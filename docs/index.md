@@ -74,6 +74,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](magnesium.md)
 
+-   :material-medication-outline:{ .lg .middle } __Zinc: What It Actually Does vs What People Think__
+
+    ---
+
+    Immunity, colds, testosterone, "everyone's deficient" — which zinc claims survive? An essential mineral whose benefits are almost entirely deficiency-correction: the one settled, life-saving use (treating diarrhea in deficient children) is the one nobody markets, and "harmless" is the biggest myth. **82 cited sources**, every PMID title-matched.
+
+    [:octicons-arrow-right-24: Read the research](zinc.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

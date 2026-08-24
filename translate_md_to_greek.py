@@ -120,7 +120,16 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Kew","Powell","Rouse","Doyle","Vanoni","Pham","Barbagallo","Dibaba","Khan","Hruby","Farsinejad-Marj","Facchinetti",
     "Costello","Elin","Witkowski","Gullestad","DiNicolantonio","Schuchardt","Kappeler","Brilli","Edwards","Khalid",
     "Kessoku","Tepper","Moslehi","Secondulfo","Ayub","Jesus","Hernández-Rubio","Floris","Jafar","Behers","Mohammadi",
-    "Basit","Adomako","Krishnan","Léonard","Shah","Cepeda","Fong","Talandashti","Abhishek","Helte","Shugaa Addin","Maggio"]
+    "Basit","Adomako","Krishnan","Léonard","Shah","Cepeda","Fong","Talandashti","Abhishek","Helte","Shugaa Addin","Maggio",
+    # zinc project — acronyms/terms/trials/brands (>=3 char, keep Latin)
+    "AREDS2","AREDS","FAZST","ZMA","ZnT","ZIP","SLC39","SLC30","IZiNCG","UNICEF","WHO","IOM","BOND","BRINDA",
+    "Cochrane","Zicam","Fixodent","Poligrip","Galzin","OptiZinc","RdRp","HCQ","BPH","AMD","B12","Wilson","COVID","RDA","Cu-Zn-SOD","Galzin",
+    # zinc project — author surnames (keep Latin)
+    "Andreini","Vallee","Falchuk","Kambe","Wessells","Hennigar","Marles","Reider","Wegmüller","Wegmuller","Barrie",
+    "Gandia","Yadrick","Eby","Hemilä","Hemila","Nault","Lazzerini","Dhingra","Lassi","Meydani","Wilkinson","Velthuis",
+    "Carlucci","Netter","Leake","Schisterman","Wong","Kılıç","Kilic","Wilborn","Brilla","Conte","Yee","Dréno","Dreno",
+    "Heckmann","Mozaffar","Swardfager","Karashima","Person","Brewer","Camarata","Nations","Hedera","Jafek","Alexander",
+    "Chandra","Fosmire","Leitzmann","Duncan","Jayawardena","Hunter","Davis","King","Brown","Singh"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
