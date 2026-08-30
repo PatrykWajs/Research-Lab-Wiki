@@ -82,6 +82,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](zinc.md)
 
+-   :material-heart-pulse:{ .lg .middle } __Vitamin K2 (MK-7): What It Actually Does vs What People Think__
+
+    ---
+
+    Keeps calcium out of your arteries, reverses plaque, prevents fractures, boosts testosterone, must be paired with D3 — which K2 claims survive? A genuine cofactor that reliably fixes a status biomarker but has never been shown to fix a hard outcome: the clearest "the lab number moves, the disease doesn't" case in the supplement world. **85 cited sources**, every PMID title-matched.
+
+    [:octicons-arrow-right-24: Read the research](vitamin-k2.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

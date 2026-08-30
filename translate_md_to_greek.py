@@ -129,7 +129,20 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Gandia","Yadrick","Eby","Hemilä","Hemila","Nault","Lazzerini","Dhingra","Lassi","Meydani","Wilkinson","Velthuis",
     "Carlucci","Netter","Leake","Schisterman","Wong","Kılıç","Kilic","Wilborn","Brilla","Conte","Yee","Dréno","Dreno",
     "Heckmann","Mozaffar","Swardfager","Karashima","Person","Brewer","Camarata","Nations","Hedera","Jafek","Alexander",
-    "Chandra","Fosmire","Leitzmann","Duncan","Jayawardena","Hunter","Davis","King","Brown","Singh"]
+    "Chandra","Fosmire","Leitzmann","Duncan","Jayawardena","Hunter","Davis","King","Brown","Singh",
+    # vitamin-K2 project — acronyms/terms/trials/brands (>=3 char, keep Latin; K1/K2/K3 NOT added — 2-char, and gpt-4o keeps them)
+    "MGP","dp-ucMGP","ucMGP","ucOC","cOC","PIVKA-II","PIVKA","VKOR","VKORC1","UBIAD1","GGCX","Gla","VKA","VKAs",
+    "MK-4","MK-7","MK-8","MK-9","MK-13","INR","DOAC","DOACs","AVADEC","ECKO","Trevasc-HDK","iPACK-HD","K4Kidneys",
+    "Valkyrie","VitaVasK","VitaK-CAC","MenaQ7","K2VITAL","NattoPharma","Gnosis","Glakay","GPRC6A","Leydig","HCC",
+    "menatetrenone","phylloquinone","menaquinone","menadione","natto","Bruneck","PREVEND","EPIC-Heidelberg",
+    "PROSPECT-EPIC","Rotterdam","CAC","NaF","18F-NaF",
+    # vitamin-K2 project — author surnames (keep Latin)
+    "Rost","Schurgers","Sato","Nakagawa","Okano","Conly","Halder","Schwalfenberg","Berenjian","Szterk","Shiraki",
+    "Knapen","Inoue","Cockayne","Avenell","Mott","Stevenson","Cheung","Binkley","Luo","Rennenberg","Geleijnse",
+    "Gast","Willeit","Witham","De Vriese","Vriese","Vossen","Hasific","Zwakenberg","Diederichsen","Vlasschaert",
+    "van Ballegooijen","Ballegooijen","Masterjohn","Scheiber","Kuang","Bolton-Smith","Haroon","Holden","Saritas",
+    "Krueger","Diegel","Moriishi","Beulens","Shahdadian","Nikpayam","Shea","Nimptsch","Habu","Yoshida","Neogi",
+    "McFarlin","Dofferhoff","Visser","Theuwissen","Sconce","Rombouts","Violi","Caluwé","Caluwe","Dalmeijer"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
