@@ -142,7 +142,19 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Gast","Willeit","Witham","De Vriese","Vriese","Vossen","Hasific","Zwakenberg","Diederichsen","Vlasschaert",
     "van Ballegooijen","Ballegooijen","Masterjohn","Scheiber","Kuang","Bolton-Smith","Haroon","Holden","Saritas",
     "Krueger","Diegel","Moriishi","Beulens","Shahdadian","Nikpayam","Shea","Nimptsch","Habu","Yoshida","Neogi",
-    "McFarlin","Dofferhoff","Visser","Theuwissen","Sconce","Rombouts","Violi","Caluwé","Caluwe","Dalmeijer"]
+    "McFarlin","Dofferhoff","Visser","Theuwissen","Sconce","Rombouts","Violi","Caluwé","Caluwe","Dalmeijer",
+    # ashwagandha project — extracts/brands/chemicals/acronyms (>=3 char, keep Latin; 2-char skipped)
+    "KSM-66","Sensoril","Shoden","Ixoreal","Natreon","NooGandha","Prolanza","Inventia","Specnova","Arjuna Natural",
+    "somnifera","withanolide","withanolides","withaferin","withanone","withanoside","withanosides","sitoindoside","sitoindosides",
+    "triethylene","rasayana","adaptogen","LiverTox","RUCAM","DILIN","DILI","Ayurveda","Ayurvedic","HPA","GABA","GABAergic",
+    "DHEA","DHEA-S","HAM-A","DASS","DASS-21","PSQI","STAI","GAD","FSFI","FSDS","WHOQOL","CANTAB","VO2max","TSH","EMA","HMPC",
+    "RIVM","Lareb","5xFAD","Th1","PSG","Fodevarestyrelsen",
+    # ashwagandha project — author surnames (keep Latin)
+    "Chandrasekhar","Salve","Gopukumar","Fuladi","Remenapp","Akhgarjand","Arumugam","Albalawi","Della Porta","Pratte",
+    "Marchi","Fatima","Ambiye","Mahdi","Ahmad","Nasimi","Azgomi","Bonilla","Dongre","Khanna","Langade","Deshpande",
+    "Kelgane","Cheah","Kaushik","Choudhary","Chengappa","Pingali","Sandhu","Shenoy","Sharma","Vollmer","Björnsson","Bjornsson",
+    "Philips","Suryawanshi","Bokan","Sriperumbuduri","Saper","Tallon","Brendler","Williamson","Coope","Candelario","Kuboyama",
+    "Vaishnavi","Panossian","Patil","Bashir","Lazarev","Diederichsen"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(

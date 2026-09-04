@@ -90,6 +90,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](vitamin-k2.md)
 
+-   :material-leaf:{ .lg .middle } __Ashwagandha: What It Actually Does vs What People Think__
+
+    ---
+
+    Stress, cortisol, sleep, testosterone, "adaptogen," immunity — which ashwagandha claims survive? The rare supplement whose *popular* use (cortisol and sleep) is genuinely, if modestly, supported, while "safe because natural" is refuted by real liver injury (deaths, a transplant), and the testosterone boost is null in healthy men. **64 cited sources**, every PMID title-matched.
+
+    [:octicons-arrow-right-24: Read the research](ashwagandha.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
