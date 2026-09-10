@@ -19,9 +19,8 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-08-06: new Vitamin D page + index card. Only these two are re-translated
-    # (bpa/collagen/testosterone/seed-oils/creatine/omega-3/methodology already done in their own runs — don't re-pay).
-    "vitamin-d.md": ("el/vitamini-d.md", {"](methodology.md)": "](methodologia.md)"}),
+    # 2026-09-09: new Melatonin page + index card only (everything else already translated - don't re-pay).
+    "melatonin.md": ("el/melatonini.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -30,6 +29,11 @@ PAGES = {
         "](creatine.md)":             "](kreatini.md)",
         "](omega-3-fish-oil.md)":     "](omega-3-ichthelaio.md)",
         "](vitamin-d.md)":            "](vitamini-d.md)",
+        "](magnesium.md)":            "](magnisio.md)",
+        "](zinc.md)":                 "](psevdargyros.md)",
+        "](vitamin-k2.md)":           "](vitamini-k2.md)",
+        "](ashwagandha.md)":          "](asvagkanta.md)",
+        "](melatonin.md)":            "](melatonini.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -154,12 +158,21 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Marchi","Fatima","Ambiye","Mahdi","Ahmad","Nasimi","Azgomi","Bonilla","Dongre","Khanna","Langade","Deshpande",
     "Kelgane","Cheah","Kaushik","Choudhary","Chengappa","Pingali","Sandhu","Shenoy","Sharma","Vollmer","Björnsson","Bjornsson",
     "Philips","Suryawanshi","Bokan","Sriperumbuduri","Saper","Tallon","Brendler","Williamson","Coope","Candelario","Kuboyama",
-    "Vaishnavi","Panossian","Patil","Bashir","Lazarev","Diederichsen"]
+    "Vaishnavi","Panossian","Patil","Bashir","Lazarev","Diederichsen",
+    # melatonin project - acronyms, trials, drug names (>=3 char, distinctive; no common-word substrings)
+    "AASM","CHMP","IARC","EFSA","MTNR1B","CYP1A2","DLMO","AANAT","PubMed","Cochrane","Parkinson","Tanner",
+    "COVID-19","TNF-alpha","I-squared","SMD","AUC","BMI","ICU","USP","NSF","ADHD","RCT","RCTs","PMID","PMIDs",
+    "MT1","MT2","Circadin","Slenyto","ramelteon","tasimelteon","agomelatine","fluvoxamine","citalopram",
+    "nifedipine","zolpidem","eszopiclone","zopiclone","dexmedetomidine","amitriptyline","Pro-MEDIC",
+    "6-sulfatoxymelatonin","Withania"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
     r'(\[\^[A-Za-z0-9]+\]|\[[^\]]*\]\([^)]*\)|`[^`]+`|:[a-z0-9_+-]+:|&[#A-Za-z0-9]+;|'
-    + _WORD_ALT + r'|\d[\d.,:%°+/×]*(?:[-–]\d[\d.,:%°+/×]*)*)')
+    # word-boundary-wrapped: without \b a protected word matches INSIDE ordinary words
+    # (e.g. "Conte" inside "Contested"/"Content"), which corrupts the translation.
+    + r'\b(?:' + _WORD_ALT + r')\b'
+    + r'|\d[\d.,:%°+/×]*(?:[-–]\d[\d.,:%°+/×]*)*)')
 L, R = '⟦', '⟧'
 
 SYS = ("You are a professional EN→EL (Greek) translator for a scientific health-research website "

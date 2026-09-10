@@ -98,6 +98,12 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](ashwagandha.md)
 
+-   :material-weather-night:{ .lg .middle } __Melatonin: What It Actually Does vs What People Think__
+
+    ---
+
+    A natural sleeping pill, or a clock-shifting signal mis-sold as one? As a sleep aid it buys 4 to 7 minutes and sleep doctors recommend against it; for jet lag and a delayed body clock it genuinely works. Timing beats dose, mistimed doses shift your clock the wrong way, and half of tested products miss their label. **139 cited sources**, 193 PMIDs title-matched.
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
