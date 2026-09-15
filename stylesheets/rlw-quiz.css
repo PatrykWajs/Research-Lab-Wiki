@@ -1,0 +1,107 @@
+/* Research Lab Wiki — self-test quiz styles. Themed off Material CSS vars (light + slate/dark). */
+
+.rlw-quiz {
+  --rlw-ok: #2e7d32;
+  --rlw-no: #c62828;
+  margin: 1.6rem 0;
+}
+
+.rlw-card {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: .6rem;
+  padding: 1.15rem 1.25rem 1.35rem;
+  background: var(--md-default-bg-color);
+  box-shadow: 0 2px 14px rgba(0, 0, 0, .07);
+}
+
+.rlw-kicker {
+  font-size: .66rem;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: var(--md-primary-fg-color);
+}
+
+.rlw-head { display: flex; justify-content: space-between; align-items: baseline; gap: .6rem; }
+.rlw-counter { font-size: .72rem; color: var(--md-default-fg-color--light); white-space: nowrap; }
+
+.rlw-progress {
+  width: 100%; height: 5px; margin: .5rem 0 .95rem;
+  border: 0; border-radius: 4px; background: var(--md-default-fg-color--lightest);
+  -webkit-appearance: none; appearance: none;
+}
+.rlw-progress::-webkit-progress-bar { background: var(--md-default-fg-color--lightest); border-radius: 4px; }
+.rlw-progress::-webkit-progress-value { background: var(--md-primary-fg-color); border-radius: 4px; }
+.rlw-progress::-moz-progress-bar { background: var(--md-primary-fg-color); border-radius: 4px; }
+
+.rlw-prompt { font-weight: 600; font-size: 1.02rem; line-height: 1.45; margin: .15rem 0 .85rem; }
+
+.rlw-opts { display: grid; gap: .5rem; }
+.rlw-opt {
+  display: flex; align-items: center; gap: .65rem; width: 100%; text-align: left;
+  padding: .62rem .78rem;
+  border: 1px solid var(--md-primary-fg-color);
+  border-radius: .45rem;
+  background: transparent; color: var(--md-default-fg-color);
+  font: inherit; cursor: pointer;
+  transition: background .15s ease, border-color .15s ease;
+}
+.rlw-opt:hover:not(:disabled) { background: rgba(128, 128, 128, .08); }
+.rlw-opt:disabled { cursor: default; opacity: .95; }
+.rlw-opt-key {
+  flex: 0 0 1.55rem; height: 1.55rem;
+  display: inline-flex; align-items: center; justify-content: center;
+  border-radius: 50%; font-size: .72rem; font-weight: 700;
+  background: var(--md-primary-fg-color); color: #fff;
+}
+.rlw-opt-label { flex: 1; }
+.rlw-opt.is-correct { border-color: var(--rlw-ok); background: rgba(46, 125, 50, .12); }
+.rlw-opt.is-correct .rlw-opt-key { background: var(--rlw-ok); }
+.rlw-opt.is-wrong { border-color: var(--rlw-no); background: rgba(198, 40, 40, .1); }
+.rlw-opt.is-wrong .rlw-opt-key { background: var(--rlw-no); }
+
+.rlw-feedback { margin-top: .95rem; }
+.rlw-verdict { font-weight: 700; margin-bottom: .45rem; }
+.rlw-verdict.ok { color: var(--rlw-ok); }
+.rlw-verdict.no { color: var(--rlw-no); }
+.rlw-explain {
+  font-size: .92rem; line-height: 1.5;
+  padding: .55rem .8rem;
+  border-left: 3px solid var(--md-primary-fg-color);
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0 .35rem .35rem 0;
+}
+
+.rlw-btn {
+  margin-top: 1rem; padding: .58rem 1.3rem;
+  border: 0; border-radius: .45rem;
+  background: var(--md-primary-fg-color); color: #fff;
+  font: inherit; font-weight: 600; cursor: pointer;
+  transition: background .15s ease;
+}
+.rlw-btn:hover { background: var(--md-accent-fg-color); }
+
+.rlw-h { margin: .25rem 0 .4rem; }
+.rlw-sub { color: var(--md-default-fg-color--light); font-size: .92rem; margin: .25rem 0; }
+.rlw-best { font-size: .8rem; color: var(--md-default-fg-color--light); margin-top: .45rem; }
+
+.rlw-end { text-align: center; }
+.rlw-score { font-size: 2.7rem; font-weight: 800; color: var(--md-primary-fg-color); line-height: 1.1; }
+.rlw-score-pct { font-size: 1rem; color: var(--md-default-fg-color--light); margin-bottom: .3rem; }
+.rlw-missed-h { margin: 1.1rem 0 .55rem; }
+.rlw-missed { text-align: left; display: grid; gap: .55rem; }
+.rlw-missed-item {
+  border-left: 3px solid var(--rlw-no);
+  padding: .45rem .75rem;
+  background: var(--md-default-fg-color--lightest);
+  border-radius: 0 .3rem .3rem 0;
+}
+.rlw-missed-q { font-weight: 700; font-size: .9rem; }
+.rlw-missed-a { font-size: .86rem; color: var(--rlw-ok); margin-top: .2rem; font-weight: 600; }
+.rlw-missed-an { font-size: .82rem; color: var(--md-default-fg-color--light); margin-top: .2rem; }
+
+.rlw-quiz-err {
+  border: 1px dashed var(--md-default-fg-color--light);
+  border-radius: .45rem; padding: .7rem .9rem;
+  font-size: .85rem; color: var(--md-default-fg-color--light);
+}
