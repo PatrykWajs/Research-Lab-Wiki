@@ -104,6 +104,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     A natural sleeping pill, or a clock-shifting signal mis-sold as one? As a sleep aid it buys 4 to 7 minutes and sleep doctors recommend against it; for jet lag and a delayed body clock it genuinely works. Timing beats dose, mistimed doses shift your clock the wrong way, and half of tested products miss their label. **139 cited sources**, 193 PMIDs title-matched.
 
+-   :material-fruit-cherries:{ .lg .middle } __Pomegranate: What It Actually Does vs What People Think__
+
+    ---
+
+    The famous compound is never absorbed, the one real effect shrinks as more trials are run, and the testosterone claim cites a paper that does not exist. 147 verified sources.
+
+    [Read the research](pomegranate.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
