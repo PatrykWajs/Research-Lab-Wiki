@@ -19,8 +19,8 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-09-15: new Pomegranate page + index card only (everything else already translated - don't re-pay).
-    "pomegranate.md": ("el/rodi.md", {"](methodology.md)": "](methodologia.md)"}),
+    # 2026-09-18: new Alpha-GPC page + index card only (everything else already translated).
+    "alpha-gpc.md": ("el/alfa-gpc.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -35,6 +35,7 @@ PAGES = {
         "](ashwagandha.md)":          "](asvagkanta.md)",
         "](melatonin.md)":            "](melatonini.md)",
         "](pomegranate.md)":          "](rodi.md)",
+        "](alpha-gpc.md)":            "](alfa-gpc.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -175,7 +176,8 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "POMx","Mitopure","Amazentis","Timeline","Punica","granatum","PSADT","PSA","MnSOD","PON1",
     "FTC","IMT","FMD","NMR","Gordonibacter","Ellagibacter","metabotype","anthocyanin","Lanham",
     "Anthocyanins","Ellagic","Ellagitannins","Metabotype","Metabotypes","Punicalagin","Urolithins","metabotypes","punicalagins",
-]
+    # alpha-GPC page (2026-09-18): chemical synonyms, drug and brand names, trial acronyms
+    "Alpha-GPC", "alpha-GPC", "GPC", "L-alpha-glycerylphosphorylcholine", "glycerylphosphorylcholine", "glycerophosphocholine", "alfoscerate", "alphoscerate", "TMAO", "FMO3", "PET", "ICD", "MRS", "Alzheimer", "donepezil", "citicoline", "nimodipine", "oxiracetam", "Gliatilin", "AlphaSize", "GeniusPure", "ASCOMALVA", "CONIVaD", "Chemi", "Nutra", "NNB", "Neopharmed", "Gentili", "Italfarmaco", "Daewoong", "Suheung", "Otsuka", "Kewpie", "Ajinomoto", "Balchem", "Gatti", "Kerksick", "Bellar", "Tamura", "Canal", "Marcus", "L-carnitine", "NHIS", "MFDS", "HIRA", "Stroop", "Flanker", "N-Back"]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(

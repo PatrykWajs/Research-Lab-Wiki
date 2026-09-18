@@ -112,6 +112,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [Read the research](pomegranate.md)
 
+-   :material-brain:{ .lg .middle } __Alpha-GPC: What It Actually Does vs What It Is Sold For__
+
+    ---
+
+    A prescription dementia drug sold as a nootropic: same choline density as the cheapest powder, no absorption advantage, and a brain effect never measured in a living human. 135 verified sources.
+
+    [Read the research](alpha-gpc.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
