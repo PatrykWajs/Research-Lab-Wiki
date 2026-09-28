@@ -19,8 +19,8 @@ MODEL = "gpt-4o"
 
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
-    # 2026-09-18: new Alpha-GPC page + index card only (everything else already translated).
-    "alpha-gpc.md": ("el/alfa-gpc.md", {"](methodology.md)": "](methodologia.md)"}),
+    # 2026-09-28: new Chewing Gum page + index card only (everything else already translated).
+    "chewing-gum.md": ("el/tsichla.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -36,6 +36,7 @@ PAGES = {
         "](melatonin.md)":            "](melatonini.md)",
         "](pomegranate.md)":          "](rodi.md)",
         "](alpha-gpc.md)":            "](alfa-gpc.md)",
+        "](chewing-gum.md)":          "](tsichla.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -177,7 +178,19 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "FTC","IMT","FMD","NMR","Gordonibacter","Ellagibacter","metabotype","anthocyanin","Lanham",
     "Anthocyanins","Ellagic","Ellagitannins","Metabotype","Metabotypes","Punicalagin","Urolithins","metabotypes","punicalagins",
     # alpha-GPC page (2026-09-18): chemical synonyms, drug and brand names, trial acronyms
-    "Alpha-GPC", "alpha-GPC", "GPC", "L-alpha-glycerylphosphorylcholine", "glycerylphosphorylcholine", "glycerophosphocholine", "alfoscerate", "alphoscerate", "TMAO", "FMO3", "PET", "ICD", "MRS", "Alzheimer", "donepezil", "citicoline", "nimodipine", "oxiracetam", "Gliatilin", "AlphaSize", "GeniusPure", "ASCOMALVA", "CONIVaD", "Chemi", "Nutra", "NNB", "Neopharmed", "Gentili", "Italfarmaco", "Daewoong", "Suheung", "Otsuka", "Kewpie", "Ajinomoto", "Balchem", "Gatti", "Kerksick", "Bellar", "Tamura", "Canal", "Marcus", "L-carnitine", "NHIS", "MFDS", "HIRA", "Stroop", "Flanker", "N-Back"]
+    "Alpha-GPC", "alpha-GPC", "GPC", "L-alpha-glycerylphosphorylcholine", "glycerylphosphorylcholine", "glycerophosphocholine", "alfoscerate", "alphoscerate", "TMAO", "FMO3", "PET", "ICD", "MRS", "Alzheimer", "donepezil", "citicoline", "nimodipine", "oxiracetam", "Gliatilin", "AlphaSize", "GeniusPure", "ASCOMALVA", "CONIVaD", "Chemi", "Nutra", "NNB", "Neopharmed", "Gentili", "Italfarmaco", "Daewoong", "Suheung", "Otsuka", "Kewpie", "Ajinomoto", "Balchem", "Gatti", "Kerksick", "Bellar", "Tamura", "Canal", "Marcus", "L-carnitine", "NHIS", "MFDS", "HIRA", "Stroop", "Flanker", "N-Back",
+    # chewing gum page (2026-09-28): terms, compounds, trials, acronyms, author surnames (all >=3 chars)
+    "Momose", "Sesay", "Tucha", "Hasegawa", "Onyper", "Mäkinen", "Makinen", "CPP-ACP", "rCBF", "HbO2",
+    "TMJ", "TMD", "GERD", "FODMAP", "FODMAPs", "MMC", "SART", "X5P", "PTS", "PKU", "BHT", "TiO2", "Falim",
+    "chicle", "xylitol", "sorbitol", "erythritol", "aspartame", "mannitol", "maltitol", "isomalt",
+    "acesulfame", "sucralose", "saccharin", "neotame", "advantame", "E171", "E321", "E951", "E967",
+    "E420", "E421", "E965", "E953", "E968", "Short", "Moazzez", "Smit", "Chan", "Tabrizi", "Gavish",
+    "Scholey", "Wilkinson", "Allen", "Smith", "Levine", "Hetherington", "Swoboda", "Shikany", "Miyake",
+    "Ohrbach", "Watanabe", "Dawson", "Zibell", "Madansky", "Sasaki-Otomaru", "Torney", "Johnson",
+    "Holgerson", "Autio-Gold", "Riley", "Dodds", "Scheie", "Trahan", "Söderling", "Soderling",
+    "Isokangas", "Tenovuo", "Hujoel", "Deshpande", "Jadad", "Blau", "Magnuson", "Haighton", "Kirkland",
+    "EFSA", "IARC", "JECFA", "NICE", "ADA"
+]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
 COMBINED = re.compile(
@@ -202,6 +215,14 @@ def load_key():
     k = os.environ.get("OPENAI_API_KEY")
     if k:
         return k
+    biz_env = pathlib.Path("/Users/patrykwajs/Documents/BUSINESS/AGENTIC AI/.env")
+    if biz_env.exists():
+        try:
+            for ln in biz_env.read_text(encoding="utf-8").splitlines():
+                if ln.startswith("OPENAI_API_KEY="):
+                    return ln.split("=", 1)[1].strip().strip('"').strip("'")
+        except Exception:
+            pass
     try:                       # fall back to a local .env (not committed)
         for ln in open(ROOT / ".env"):
             if ln.startswith("OPENAI_API_KEY="):
@@ -226,6 +247,9 @@ def restore(text, store):
 def translate_batch(strings):
     if not strings:
         return []
+    if len(strings) > 50:
+        mid = len(strings) // 2
+        return translate_batch(strings[:mid]) + translate_batch(strings[mid:])
     def call(items):
         try:
             r = client.chat.completions.create(model=MODEL, temperature=0,

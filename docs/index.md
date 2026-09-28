@@ -120,6 +120,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [Read the research](alpha-gpc.md)
 
+-   :material-tooth-outline:{ .lg .middle } __Chewing Gum: What It Actually Does vs What People Think__
+
+    ---
+
+    A biphasic physiological stimulant whose real wins are mechanical and visceral: salivary acid buffering and postoperative sham feeding work, while fat burning and memory claims are debunked. **145 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](chewing-gum.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
