@@ -21,6 +21,7 @@ MODEL = "gpt-4o"
 PAGES = {
     # 2026-09-28: new Chewing Gum page + index card only (everything else already translated).
     "chewing-gum.md": ("el/tsichla.md", {"](methodology.md)": "](methodologia.md)"}),
+    "lycopene.md":    ("el/lykopenio.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -37,6 +38,7 @@ PAGES = {
         "](pomegranate.md)":          "](rodi.md)",
         "](alpha-gpc.md)":            "](alfa-gpc.md)",
         "](chewing-gum.md)":          "](tsichla.md)",
+        "](lycopene.md)":             "](lykopenio.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -189,7 +191,17 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Ohrbach", "Watanabe", "Dawson", "Zibell", "Madansky", "Sasaki-Otomaru", "Torney", "Johnson",
     "Holgerson", "Autio-Gold", "Riley", "Dodds", "Scheie", "Trahan", "Söderling", "Soderling",
     "Isokangas", "Tenovuo", "Hujoel", "Deshpande", "Jadad", "Blau", "Magnuson", "Haighton", "Kirkland",
-    "EFSA", "IARC", "JECFA", "NICE", "ADA"
+    "EFSA", "IARC", "JECFA", "NICE", "ADA",
+    # lycopene page (2026-10-07): terms, compounds, trials, acronyms, author surnames (all >=3 chars)
+    "Lyc-O-Mato", "LactoLycopene", "StAR", "CYP11A1", "BCO1", "BCO2", "TMPRSS2:ERG", "TMPRSS2", "ERG",
+    "FMD", "SBP", "DBP", "MDA", "8-OHdG", "OSL", "ADI", "SR-B1", "CD36", "IPSS", "cfPWV", "MEAL",
+    "CARET", "ATBC", "CIE", "SSR", "MED", "HPFS", "TAC", "DOMS", "FEV1", "EIB", "iOAT", "Lycored",
+    "phytoene", "phytofluene", "lycopene", "all-trans", "cis-lycopene", "5-cis", "9-cis", "13-cis", "15-cis",
+    "Di Mascio", "Stahl", "Sies", "Aust", "Rizwan", "Groten", "Cooperstone", "Meléndez-Martínez", "Melendez-Martinez",
+    "Boileau", "Clinton", "Gärtner", "Gartner", "Unlu", "Fielding", "Moran", "Giovannucci", "Ilic", "Kucuk",
+    "van Breemen", "Morgia", "Ried", "Gajendragadkar", "Schwarz", "Veeramachaneni", "Salas-Huetos",
+    "Durairajanayagam", "Mínguez-Alarcón", "Minguez-Alarcon", "Christian", "Holick", "Michaud", "Bub", "Jacques",
+    "Neuman", "Rao", "Agarwal", "Porrini", "Story", "Dehghani", "Bazzucchi", "Arazi", "Markovitch"
 ]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token

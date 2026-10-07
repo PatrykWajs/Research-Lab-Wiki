@@ -128,6 +128,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](chewing-gum.md)
 
+-   :material-shield-sun-outline:{ .lg .middle } __Lycopene: What It Actually Does vs What People Think__
+
+    ---
+
+    A potent lipophilic antioxidant whose real dermatological win is burn flare mitigation (25%–48% blunting, real SPF ~1.3), not sunburn prevention. Requires 10–12 weeks of pre-loading and dietary fat; testosterone and cancer-cure claims debunked. **133 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](lycopene.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
