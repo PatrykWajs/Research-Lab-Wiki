@@ -20,8 +20,8 @@ MODEL = "gpt-4o"
 # EN file -> EL output (greeklish slug) + per-file link rewrites applied AFTER translation
 PAGES = {
     # 2026-09-28: new Chewing Gum page + index card only (everything else already translated).
-    "chewing-gum.md": ("el/tsichla.md", {"](methodology.md)": "](methodologia.md)"}),
-    "lycopene.md":    ("el/lykopenio.md", {"](methodology.md)": "](methodologia.md)"}),
+    # 2026-10-18: new Ginger page + index card only (everything else already translated).
+    "ginger.md":      ("el/tzinzer-ginger.md", {"](methodology.md)": "](methodologia.md)"}),
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -39,6 +39,7 @@ PAGES = {
         "](alpha-gpc.md)":            "](alfa-gpc.md)",
         "](chewing-gum.md)":          "](tsichla.md)",
         "](lycopene.md)":             "](lykopenio.md)",
+        "](ginger.md)":               "](tzinzer-ginger.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -201,7 +202,30 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Boileau", "Clinton", "Gärtner", "Gartner", "Unlu", "Fielding", "Moran", "Giovannucci", "Ilic", "Kucuk",
     "van Breemen", "Morgia", "Ried", "Gajendragadkar", "Schwarz", "Veeramachaneni", "Salas-Huetos",
     "Durairajanayagam", "Mínguez-Alarcón", "Minguez-Alarcon", "Christian", "Holick", "Michaud", "Bub", "Jacques",
-    "Neuman", "Rao", "Agarwal", "Porrini", "Story", "Dehghani", "Bazzucchi", "Arazi", "Markovitch"
+    "Neuman", "Rao", "Agarwal", "Porrini", "Story", "Dehghani", "Bazzucchi", "Arazi", "Markovitch",
+    # ginger page (2026-10-18): compounds, acronyms, trials, drugs, funders, author surnames (all >=3 chars)
+    "gingerol", "gingerols", "6-gingerol", "8-gingerol", "10-gingerol", "12-gingerol", "shogaol", "shogaols",
+    "6-shogaol", "8-shogaol", "10-shogaol", "zingerone", "paradol", "8-paradol", "gingerdione", "gingerdiol",
+    "gingerdiols", "Zingiber", "officinale", "Zingiberaceae", "Kaempferia", "parviflora", "Alpinia",
+    "galanga", "Bixa", "orellana", "COX-1", "COX-2", "5-LOX", "5-HETE", "NF-κB", "IκBα", "p65", "TNF-α",
+    "hs-CRP", "PGE1", "PGE2", "PGF2α", "LTB4", "5-HT3", "5-HT3A", "5-HT3AB", "NK1", "TRPA1", "CYP2C9",
+    "CYP3A4", "CYP2C19", "CYP2D6", "CYP2C8", "P-gp", "BCRP", "PXR", "AhR", "UGT1A9", "UGT2B7", "UGT1A8",
+    "AMPK", "AMPKα", "CaMKK", "AS160", "Rab5", "GPx", "SOD", "CINV", "PONV", "NVP", "LES", "RPE", "VO2",
+    "VO2peak", "1RM", "AMRAP", "TUNEL", "3β-HSD", "17β-HSD", "P450scc", "P450c17", "P450", "iNOS", "cGMP",
+    "PDE5", "Nrf2", "Bax", "NOAEL", "AMSTAR-2", "RoB", "RoB-2", "ROB-2", "WMD", "VAS", "Lequesne", "Cmax",
+    "Tmax", "NCCIH", "NIH", "NCI", "PROSPERO", "EV.EXT", "Novafen", "LactMed", "Motherisk", "URCC",
+    "Commission E", "Lancet", "HPLC", "UHPLC-MS/MS", "LC-MS/MS", "GC-MS", "HEK293", "RAW 264.7", "U937",
+    "N1E-115", "C2C12", "db/db", "Lepr", "L-NAME", "LD50", "sICAM-1", "sVCAM-1", "sE-selectin", "AGEs",
+    "TEF", "UCP1", "McCormick", "Royan", "Tikrit", "Zanjan", "Georgia", "Exeter", "Iranian", "Iran",
+    "Norwegian", "Korean", "Brazilian", "Chilean", "Australian", "Thai", "Iraqi", "Swedish", "Dramamine",
+    "dimenhydrinate", "scopolamine", "cinnarizine", "ondansetron", "aprepitant", "metoclopramide",
+    "sumatriptan", "ketoprofen", "ibuprofen", "mefenamic", "diclofenac", "warfarin", "phenprocoumon",
+    "rivaroxaban", "dabigatran", "aspirin", "clopidogrel", "metformin", "cinnamon", "feverfew", "pyridoxine",
+    "paracetamol", "misoprostol", "vasopressin", "glucosamine", "tacrolimus", "digoxin", "midazolam",
+    "omeprazole", "arachidonic", "guanidinium", "zearalenone", "cisplatin", "busulfan", "cyclophosphamide",
+    "carbendazim", "difenoconazole", "metabisulfite", "alloxan", "streptozotocin", "fructose", "geraniol",
+    "Chen", "Ebrahimzadeh", "Jalali", "Maharlouei", "May", "Mazidi", "Mohammad", "Morvaridzadeh",
+    "Musazadeh", "October", "Rjabi", "Schumacher", "The", "Zhu", "Zick", "Zhou", "Lage"
 ]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token

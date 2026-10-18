@@ -1,0 +1,602 @@
+{
+ "questions": [
+  {
+   "n": 1,
+   "tier": "Tier 1",
+   "q": "After a 2 g dose of a 5 % ginger extract, what form do gingerols take in human plasma?",
+   "options": [
+    "Almost entirely glucuronide and sulfate conjugates, with free 6-gingerol undetectable",
+    "Mostly free aglycones at micromolar levels",
+    "Bound to albumin as unchanged gingerol for 24 hours",
+    "Converted to zingerone, which is the main circulating species"
+   ],
+   "a": 0,
+   "why": "Free 6-gingerol was undetectable at every time point; conjugates peaked at 0.47 to 0.85 µg/mL with half-lives of 1 to 3 h and no accumulation."
+  },
+  {
+   "n": 2,
+   "tier": "Tier 1",
+   "q": "How do free plasma gingerol and shogaol levels compare with the concentrations that inhibit COX-2, 5-LOX or CYP enzymes in vitro?",
+   "options": [
+    "They match within a factor of two",
+    "They sit 100- to 1,000-fold below",
+    "They are about 10-fold higher",
+    "They are equal only after heated ginger"
+   ],
+   "a": 1,
+   "why": "COX-2 IC50s are 7.5 to 32 µM; free 6-shogaol peaks near 0.05 µM after a maximal supplement dose."
+  },
+  {
+   "n": 3,
+   "tier": "Tier 1",
+   "q": "How does dried ginger powder compare with fresh rhizome in total gingerols plus shogaols per gram?",
+   "options": [
+    "Fresh is about 5 times richer",
+    "They are identical",
+    "Dried is 3 to 8 times richer per gram",
+    "Dried contains no actives after drying"
+   ],
+   "a": 2,
+   "why": "A validated survey found 1.1 to 1.5 mg/g in fresh rhizome and 4.4 to 11.3 mg/g in dried powder, with supplements varying about 10-fold."
+  },
+  {
+   "n": 4,
+   "tier": "Tier 1",
+   "q": "Where does the commonly quoted \"4 g/day limit\" for ginger come from?",
+   "options": [
+    "A WHO toxicological no-effect level",
+    "An NIH upper intake level",
+    "The EU monograph's maximum daily dose",
+    "The top of the German Commission E's 1990 therapeutic range"
+   ],
+   "a": 3,
+   "why": "The EMA assessment report traces 2 to 4 g/day to Commission E; the 2025 EU monograph caps motion-sickness use at 2.5 g/day and no human NOAEL exists."
+  },
+  {
+   "n": 5,
+   "tier": "Tier 1",
+   "q": "What does about 1 g/day of ginger do for nausea and vomiting of pregnancy versus placebo?",
+   "options": [
+    "Reduces nausea intensity but has no reliable effect on vomiting, equivalent to vitamin B6",
+    "Stops vomiting but not nausea",
+    "Has no effect on either",
+    "Reduces both by more than half"
+   ],
+   "a": 0,
+   "why": "Twelve RCTs give nausea MD 1.20 VAS points (I² = 0 %) and a non-significant vomiting effect; a 291-woman trial found equivalence to pyridoxine."
+  },
+  {
+   "n": 6,
+   "tier": "Tier 1",
+   "q": "What did the 68,522-woman Norwegian cohort find about ginger use in pregnancy?",
+   "options": [
+    "Doubled malformation risk",
+    "No increase in malformations, stillbirth, preterm birth or low Apgar",
+    "Higher preterm birth only",
+    "A halving of miscarriage"
+   ],
+   "a": 1,
+   "why": "The cohort found no malformation or perinatal signal; the pooled RCT miscarriage estimate (RR 3.14, CI 0.65 to 15.11) is too imprecise to exclude an effect on early loss."
+  },
+  {
+   "n": 7,
+   "tier": "Tier 1",
+   "q": "What did 1.2 g of ginger do to liquid gastric emptying on antral ultrasound in healthy volunteers?",
+   "options": [
+    "Slowed half-emptying from 13 to 27 minutes",
+    "Had no effect",
+    "Halved half-emptying from 26.7 to 13.1 minutes",
+    "Abolished antral contractions"
+   ],
+   "a": 2,
+   "why": "Half-emptying time was 13.1 versus 26.7 min with placebo; the effect replicated in dyspepsia without relieving symptoms, and 0.5 to 1 g doses were null by other methods."
+  },
+  {
+   "n": 8,
+   "tier": "Tier 1",
+   "q": "How do gingerols and shogaols act on the 5-HT3 receptor?",
+   "options": [
+    "As competitive antagonists at the ondansetron site",
+    "As full agonists",
+    "They have no action on 5-HT3 receptors",
+    "As non-competitive, allosteric inhibitors that do not bind the ondansetron site"
+   ],
+   "a": 3,
+   "why": "In human recombinant and native enteric receptors they reduce the maximal serotonin response without displacing the labelled antagonist."
+  },
+  {
+   "n": 9,
+   "tier": "Tier 1",
+   "q": "At 1 to 4 g/day of dried ginger powder, what happened to platelets, bleeding time and INR in controlled human studies?",
+   "options": [
+    "Nothing changed, including in a warfarin pharmacokinetic trial",
+    "INR rose by about 1 unit",
+    "Bleeding time doubled",
+    "Platelet aggregation fell by half"
+   ],
+   "a": 0,
+   "why": "Every controlled study at these doses was null; the warfarin trial gave an S-warfarin clearance ratio of 1.05 and unchanged INR."
+  },
+  {
+   "n": 10,
+   "tier": "Tier 1",
+   "q": "What is the source of the widely quoted \"+17.7 % testosterone\" effect of ginger?",
+   "options": [
+    "A placebo-controlled trial in 100 men",
+    "One uncontrolled open-label pre/post study not indexed in PubMed",
+    "A meta-analysis of five RCTs",
+    "A Cochrane review"
+   ],
+   "a": 1,
+   "why": "No randomized placebo-controlled trial of ginger on testosterone exists in men; the figure comes from 75 Iraqi men with upper-normal baseline testosterone, no placebo and no stated dose."
+  },
+  {
+   "n": 11,
+   "tier": "Tier 1",
+   "q": "What does a single dose of ginger before or after exercise do to pain, effort and endurance?",
+   "options": [
+    "Cuts pain by a quarter",
+    "Raises VO2max",
+    "Nothing measurable",
+    "Doubles time to exhaustion"
+   ],
+   "a": 2,
+   "why": "Acute 2 g before cycling, 2 g after eccentric exercise and 1 g before a time-to-exhaustion test were all null; four weeks of juiced ginger did not change cycling performance."
+  },
+  {
+   "n": 12,
+   "tier": "Tier 1",
+   "q": "What is the Cochrane estimate for ginger versus placebo in primary dysmenorrhea?",
+   "options": [
+    "No difference",
+    "Complete pain relief in most women",
+    "Worse pain than placebo",
+    "About 1.5 cm lower pain on a 10 cm scale, low-quality evidence"
+   ],
+   "a": 3,
+   "why": "Three RCTs in 266 women gave MD −1.55 (95 % CI −2.43 to −0.68); 22 of 27 supplement trials were Iranian and only one was adequately blinded."
+  },
+  {
+   "n": 13,
+   "tier": "Tier 1",
+   "q": "What is the one consistent harm of ginger at trial doses?",
+   "options": [
+    "Gastrointestinal effects such as heartburn and belching",
+    "Liver injury",
+    "Bleeding",
+    "Hypotension"
+   ],
+   "a": 0,
+   "why": "GI adverse effects are common (1 to 10 %), dose-related, grade 1 at 2 g, and doubled withdrawals in osteoarthritis trials."
+  },
+  {
+   "n": 14,
+   "tier": "Tier 2",
+   "q": "What size of CRP reduction do meta-analyses of ginger RCTs report, and in whom?",
+   "options": [
+    "About 5 mg/L in healthy adults",
+    "About 0.4 to 1.0 mg/L, almost entirely in metabolically ill cohorts",
+    "No change at any dose",
+    "About 10 mg/L in athletes"
+   ],
+   "a": 1,
+   "why": "The GRADE pool gives CRP −0.86 mg/L with high heterogeneity; no RCT of ginger alone on CRP in healthy non-obese adults was found."
+  },
+  {
+   "n": 15,
+   "tier": "Tier 2",
+   "q": "Which chemotherapy antiemetic effect of ginger is reproducible across trials?",
+   "options": [
+    "Complete prevention of delayed nausea",
+    "Better results at 2 g on the chemotherapy day",
+    "Less acute vomiting with 0.5 to 1 g/day taken for more than 3 days, started before chemotherapy",
+    "Elimination of anticipatory nausea"
+   ],
+   "a": 2,
+   "why": "Pooled OR 0.3 to 0.4 for acute vomiting at ≤1 g/day; same-day 1 to 2 g was null in the two best-run trials and the 1.5 g arm did less than 0.5 to 1 g."
+  },
+  {
+   "n": 16,
+   "tier": "Tier 2",
+   "q": "For postoperative nausea and vomiting, what does ginger at or above 1 g reliably do?",
+   "options": [
+    "Eliminates vomiting",
+    "Nothing in any trial",
+    "Replaces standard prophylaxis",
+    "Lowers nausea scores and rescue antiemetic use; the vomiting effect is inconsistent"
+   ],
+   "a": 3,
+   "why": "The 2006 pool gave PONV RR 0.69 on 363 patients; later pools found nausea benefit but vomiting RR 0.78 with a confidence interval crossing one."
+  },
+  {
+   "n": 17,
+   "tier": "Tier 2",
+   "q": "What dosing pattern reduced next-day exercise soreness in the foundational ginger trials?",
+   "options": [
+    "2 g/day for 11 days before the damaging bout, cutting soreness by about 23 to 25 %",
+    "A single 2 g dose right after exercise",
+    "4 g/day for 5 days, which cut soreness by half",
+    "Heated ginger only"
+   ],
+   "a": 0,
+   "why": "Raw and heated ginger gave 25 % and 23 % reductions with borderline p-values; an independent 4 g/day trial found no pain effect."
+  },
+  {
+   "n": 18,
+   "tier": "Tier 2",
+   "q": "What happened to creatine kinase, a muscle-damage marker, in ginger exercise trials?",
+   "options": [
+    "It fell by half",
+    "It never fell, and in one trial kept rising longer with ginger",
+    "It fell only with heated ginger",
+    "It was never measured"
+   ],
+   "a": 1,
+   "why": "No ginger-only trial reports lower CK; the soreness effect reads as modest analgesia rather than less muscle damage."
+  },
+  {
+   "n": 19,
+   "tier": "Tier 2",
+   "q": "What is the pooled effect of ginger on knee osteoarthritis pain versus placebo?",
+   "options": [
+    "SMD −1.5, a large effect",
+    "No effect",
+    "SMD −0.30 with twice the withdrawal rate; ibuprofen ranked above ginger",
+    "Equal to diclofenac in every trial"
+   ],
+   "a": 2,
+   "why": "Five placebo RCTs give pain SMD −0.30 and withdrawals RR 2.33; an independent meta-analysis called the evidence insufficient."
+  },
+  {
+   "n": 20,
+   "tier": "Tier 2",
+   "q": "What is the state of the evidence for ginger lowering HbA1c in type 2 diabetes?",
+   "options": [
+    "Settled: every pool agrees on a 2-point drop",
+    "Ginger raises HbA1c",
+    "Only tea preparations work",
+    "Pooled Iranian trials show −0.4 to −1.0 points, but the risk-of-bias-filtered pool and the largest single trial found nothing"
+   ],
+   "a": 3,
+   "why": "Heterogeneity is 77 to 92 %, the RoB-2 pool of five trials was null, and the 204-patient trial of ginger in black tea found no glycemic change."
+  },
+  {
+   "n": 21,
+   "tier": "Tier 2",
+   "q": "Which lipid changes consistently with ginger across meta-analyses?",
+   "options": [
+    "Triglycerides fall by about 9 to 25 mg/dL; cholesterol fractions barely move",
+    "LDL cholesterol falls by 30 mg/dL",
+    "HDL doubles",
+    "No lipid changes at all"
+   ],
+   "a": 0,
+   "why": "Triglycerides fall in nearly every pool; total and LDL changes are 0 to −8 mg/dL and inconsistent; all lipid outcomes are very low certainty."
+  },
+  {
+   "n": 22,
+   "tier": "Tier 2",
+   "q": "In whom does ginger lower blood pressure?",
+   "options": [
+    "Everyone, by about 15 mmHg",
+    "People with elevated pressure, by about 5/2 mmHg at 2 g/day or more; not normotensive adults",
+    "Only athletes",
+    "Only at doses below 500 mg"
+   ],
+   "a": 1,
+   "why": "The 2026 GRADE pool gives SBP −5.03 mmHg with the effect concentrated in elevated baseline pressure; healthy adults showed no change."
+  },
+  {
+   "n": 23,
+   "tier": "Tier 2",
+   "q": "What happened to gastric mucosal prostaglandins when osteoarthritis patients took ginger extract versus diclofenac?",
+   "options": [
+    "Both fell equally",
+    "They fell on ginger only",
+    "They rose on ginger and fell on diclofenac, with mucosal damage only on diclofenac",
+    "Neither changed"
+   ],
+   "a": 2,
+   "why": "This is the best human evidence that ginger does not act as a systemic COX-1 inhibitor in the stomach."
+  },
+  {
+   "n": 24,
+   "tier": "Tier 2",
+   "q": "What did the only double-blind RCT of ginger in infertile men find?",
+   "options": [
+    "Doubled sperm count and testosterone",
+    "No effect on anything",
+    "Higher LH and FSH",
+    "Lower sperm DNA fragmentation, no change in count, motility and morphology trending worse, hormones measured only at baseline"
+   ],
+   "a": 3,
+   "why": "Adjusted fragmentation difference 3.21 points (p = 0.009); concentration unchanged; progressive motility and morphology both p = 0.06 against ginger; no pregnancy endpoint."
+  },
+  {
+   "n": 25,
+   "tier": "Tier 2",
+   "q": "What is known about ginger and the vestibular system in motion sickness?",
+   "options": [
+    "It has no vestibular action; laboratory trials split and sea trials show less vomiting or parity with drugs",
+    "It blocks vestibular nystagmus like dimenhydrinate",
+    "It worsens vertigo",
+    "It has been proven superior to scopolamine"
+   ],
+   "a": 0,
+   "why": "Ginger did not alter caloric, rotatory or optokinetic nystagmus; one rotating-chair study was positive, the next null, and no meta-analysis exists."
+  },
+  {
+   "n": 26,
+   "tier": "Tier 2",
+   "q": "Which measurable intermediate links ginger to a nausea endpoint in humans?",
+   "options": [
+    "Serum serotonin",
+    "Blunted vection-induced tachygastria and vasopressin release",
+    "Gastric pH",
+    "Plasma gingerol concentration"
+   ],
+   "a": 1,
+   "why": "In 13 susceptible volunteers, 1 and 2 g reduced vection nausea, tachygastria and plasma vasopressin but not nausea produced by intravenous vasopressin."
+  },
+  {
+   "n": 27,
+   "tier": "Tier 2",
+   "q": "What is the best human evidence for ginger-induced thermogenesis?",
+   "options": [
+    "A 500 kcal/day rise in resting metabolism",
+    "A 5 kg weight loss in 4 weeks",
+    "A 43 kcal/day rise in thermic effect of food in ten overweight men, with no change in resting energy expenditure",
+    "None exists"
+   ],
+   "a": 2,
+   "why": "Weight falls 1 to 1.5 kg at 2 g/day in one pool and not at all in the larger 36-RCT pool; the meal test showed no effect on glucose, insulin or lipids."
+  },
+  {
+   "n": 28,
+   "tier": "Tier 2",
+   "q": "What does the evidence show for ginger in migraine?",
+   "options": [
+    "Equivalence to sumatriptan and effective prophylaxis",
+    "A cure in most patients",
+    "Harm in every trial",
+    "Better than placebo only as an add-on to IV ketoprofen and in a feverfew combination; the only prophylaxis RCT was negative"
+   ],
+   "a": 3,
+   "why": "The 2026 GRADE synthesis rates every outcome low or very low and concludes it is too uncertain whether ginger works as acute or preventive treatment."
+  },
+  {
+   "n": 29,
+   "tier": "Tier 3",
+   "q": "Which molecule mediates ginger's effects in the body?",
+   "options": [
+    "Unresolved: deconjugated metabolites, gingerdiols and gut-microbial shogaol products are proposed, none confirmed in humans",
+    "Free 6-gingerol, proven in human tissue",
+    "Zingerone, proven in RCTs",
+    "Glucuronides, shown to inhibit COX in vivo"
+   ],
+   "a": 0,
+   "why": "Over 90 % of absorbed 6-shogaol becomes phase I and cysteine-conjugated metabolites; the microbial-metabolite route rests on one mouse study."
+  },
+  {
+   "n": 30,
+   "tier": "Tier 3",
+   "q": "What did the two human colon-biopsy tests of the COX/LOX hypothesis show?",
+   "options": [
+    "Large PGE2 reductions in both",
+    "PGE2 fell only under one normalization in normal-risk volunteers, and leukotriene B4 rose in at-risk subjects",
+    "No samples could be analysed",
+    "Complete suppression of all eicosanoids"
+   ],
+   "a": 1,
+   "why": "The authors of the at-risk study wrote that ginger lacks the ability to decrease eicosanoid levels in that group."
+  },
+  {
+   "n": 31,
+   "tier": "Tier 3",
+   "q": "What is the main weakness of the antioxidant-biomarker evidence for ginger?",
+   "options": [
+    "No trial has measured MDA",
+    "Effects go in opposite directions across pools",
+    "Heterogeneity of 83 to 98 % and the largest effects come from the smallest, shortest, lowest-dose trials",
+    "Only animal data exist"
+   ],
+   "a": 2,
+   "why": "MDA falls and GPx, TAC and SOD rise in every pool, but the small-study pattern and very low GRADE certainty undermine the estimate."
+  },
+  {
+   "n": 32,
+   "tier": "Tier 3",
+   "q": "What is the state of human evidence on ginger and cytochrome P450 drug interactions?",
+   "options": [
+    "Proven strong CYP3A4 inhibition in patients",
+    "No in-vitro data exist",
+    "Ginger induces all CYP enzymes in humans",
+    "Micromolar inhibition in vitro, the only human probe (CYP2C9 with warfarin) null, gut-wall effects untested"
+   ],
+   "a": 3,
+   "why": "Free plasma levels are 100- to 1,000-fold below the in-vitro IC50s, so systemic inhibition is implausible; first-pass intestinal effects on narrow-index drugs remain possible."
+  },
+  {
+   "n": 33,
+   "tier": "Tier 3",
+   "q": "Where does the bleeding signal for ginger with anticoagulants come from?",
+   "options": [
+    "Self-reported bleeding on warfarin (OR 3.20 without higher INR) and about ten case reports without rechallenge",
+    "Controlled trials showing higher INR",
+    "A randomized trial of dabigatran",
+    "Platelet studies at 1 g/day"
+   ],
+   "a": 0,
+   "why": "A 314-patient survey found no association, the EU monograph adopted no bleeding warning, and the one mechanistically plausible unresolved case is dabigatran via P-glycoprotein."
+  },
+  {
+   "n": 34,
+   "tier": "Tier 3",
+   "q": "Which pregnancy signals for ginger remain unresolved?",
+   "options": [
+    "A proven doubling of malformations",
+    "A Korean cohort stillbirth odds ratio of 7.8 with a confidence interval to 70, and more vaginal spotting in the Norwegian cohort",
+    "Neonatal jaundice",
+    "None; ginger is proven safe"
+   ],
+   "a": 1,
+   "why": "Both signals are imprecise or confounded; the EU monograph keeps \"preferable to avoid\" as a precaution while acknowledging 300 to 1,000 reassuring outcomes."
+  },
+  {
+   "n": 35,
+   "tier": "Tier 3",
+   "q": "What characterizes the rodent evidence that ginger raises testosterone?",
+   "options": [
+    "Consistent large increases in healthy animals at food doses",
+    "No rodent studies exist",
+    "Mostly rescue after chemical or metabolic testicular insult, at human-equivalent doses of 0.5 to 11 g/day of extract",
+    "Decreases in every model"
+   ],
+   "a": 2,
+   "why": "In healthy rats the effect is small and inconsistent, and isolated zingerone, geraniol and 6-gingerol did not reverse the diabetic testosterone deficit."
+  },
+  {
+   "n": 36,
+   "tier": "Tier 3",
+   "q": "What does the only manometry study show about ginger and the lower esophageal sphincter?",
+   "options": [
+    "Resting pressure fell by half",
+    "Resting pressure doubled",
+    "The sphincter closed permanently",
+    "Resting pressure unchanged; swallow-induced relaxation increased"
+   ],
+   "a": 3,
+   "why": "Neither \"ginger causes reflux\" nor \"ginger cures reflux\" is supported; heartburn occurs in about one user in eight in open-label series."
+  },
+  {
+   "n": 37,
+   "tier": "Tier 3",
+   "q": "Which glycemic mechanism of ginger has been demonstrated in humans?",
+   "options": [
+    "Lower HOMA-IR only; GLUT4, AMPK, GLP-1 and enzyme inhibition are cell and rodent findings",
+    "GLUT4 translocation in muscle biopsies",
+    "AMPK activation in blood cells",
+    "GLP-1 release after a meal"
+   ],
+   "a": 0,
+   "why": "The most potent constituent on GLUT4 in cells was [8]-gingerol, not [6]-gingerol, and no human study has measured any of these pathways after ginger."
+  },
+  {
+   "n": 38,
+   "tier": "Tier 4",
+   "q": "Why is \"ginger is a natural ibuprofen working in your blood\" a myth?",
+   "options": [
+    "Because ginger inhibits only COX-1",
+    "Because free gingerols are undetectable or near 0.05 µM in plasma, purified gingerols showed no COX-1 inhibition, and gastric PGE2 rose on ginger extract",
+    "Because ibuprofen is also a plant extract",
+    "Because ginger has no enzyme activity in vitro"
+   ],
+   "a": 1,
+   "why": "Compound-dependent COX-2 activity at micromolar concentrations in a dish is the defensible statement; the human mechanism is not established."
+  },
+  {
+   "n": 39,
+   "tier": "Tier 4",
+   "q": "What is wrong with the claim that ginger is as effective as sumatriptan?",
+   "options": [
+    "The trial used too high a dose",
+    "Sumatriptan was never given",
+    "The 100-patient trial had no placebo arm, no non-inferiority margin and no effect sizes in its abstract",
+    "The trial was retracted"
+   ],
+   "a": 2,
+   "why": "The 2026 GRADE meta-analysis rates the comparison \"very uncertain\"; the doses quoted circulate only from secondary sources."
+  },
+  {
+   "n": 40,
+   "tier": "Tier 4",
+   "q": "What does the evidence say about ginger as a blood thinner at label doses?",
+   "options": [
+    "It must always be stopped before surgery because trials show bleeding",
+    "It is stronger than aspirin",
+    "It reverses warfarin",
+    "Every controlled study at 1 to 4 g/day of powder was null; effects appear only at 10 g, raw ginger with fat, or litres of tea"
+   ],
+   "a": 3,
+   "why": "Pausing supplements before surgery is a cost-free precaution, not a demonstrated hazard; the dabigatran case is the one plausible unresolved interaction."
+  },
+  {
+   "n": 41,
+   "tier": "Tier 4",
+   "q": "Is fresh ginger stronger than dried, and does heating make it more anti-inflammatory?",
+   "options": [
+    "No: dried holds 4.4 to 11.3 mg/g versus 1.1 to 1.5 mg/g fresh, and heated ginger matched raw in the only human comparison",
+    "Yes to both",
+    "Fresh is stronger but heating helps",
+    "Drying destroys all activity"
+   ],
+   "a": 0,
+   "why": "Drying and heating convert gingerols to shogaols rather than destroying them; heated ginger gave 23 % and raw 25 % soreness reduction."
+  },
+  {
+   "n": 42,
+   "tier": "Tier 4",
+   "q": "What is the trial evidence for ginger ale, candied ginger, lozenges or tea against nausea?",
+   "options": [
+    "Several positive RCTs",
+    "None exists; the positive trials used 0.5 to 1.2 g of powdered rhizome in capsules, and higher doses did less",
+    "Ginger ale is the best-studied form",
+    "Tea works only above 3 g"
+   ],
+   "a": 1,
+   "why": "The 1.5 g chemotherapy arm did less than 0.5 to 1.0 g, the 2 g arm was null, and the pregnancy subgroup favoured under 1,500 mg/day."
+  },
+  {
+   "n": 43,
+   "tier": "Practical",
+   "q": "What dose of dried ginger powder carried the positive nausea trials?",
+   "options": [
+    "3 to 4 g/day",
+    "100 mg/day",
+    "0.5 to 1 g/day, with higher doses doing less",
+    "10 g single doses"
+   ],
+   "a": 2,
+   "why": "Cardiometabolic and inflammation trials used 1.5 to 2 g/day, the soreness protocol 2 g/day for 11 days, and the EU monograph caps repeated use at 2.5 g/day."
+  },
+  {
+   "n": 44,
+   "tier": "Practical",
+   "q": "What matters more than dose for ginger's antiemetic and soreness effects?",
+   "options": [
+    "Taking it with fat",
+    "Taking it at night",
+    "Chewing the root raw",
+    "Timing: pre-loading three days before chemotherapy, one hour before travel, or 5 to 11 days before a hard session"
+   ],
+   "a": 3,
+   "why": "Same-day dosing was null in both the chemotherapy and the exercise settings; the positive trials pre-loaded."
+  },
+  {
+   "n": 45,
+   "tier": "Practical",
+   "q": "How much active compound can a 30 to 60 mL ginger shot contain at most?",
+   "options": [
+    "About 35 to 90 mg, comparable to 1 to 2 g of dried powder, with no peer-reviewed assay of commercial shots",
+    "About 500 mg, more than any capsule",
+    "Zero, because juicing destroys gingerols",
+    "Exactly 4 g"
+   ],
+   "a": 0,
+   "why": "Fresh rhizome holds 1.1 to 1.5 mg/g, so a shot is a food-range dose in the nausea band, not the 1.5 to 2 g/day of the cardiometabolic trials."
+  },
+  {
+   "n": 46,
+   "tier": "Practical",
+   "q": "Which interaction rules survive the evidence for ginger at 2 g/day?",
+   "options": [
+    "Dangerous bleeding with any aspirin dose",
+    "Plausible additive effects with antidiabetic and antihypertensive drugs, worse acute nausea with aprepitant in one trial, and a gallstone caution resting only on rat bile data",
+    "Mandatory separation from all medications",
+    "No interactions of any kind"
+   ],
+   "a": 1,
+   "why": "Label-dose anticoagulant interaction is unproven, heavy intake on a DOAC is not, and gut-wall CYP3A4 and P-glycoprotein effects on narrow-index drugs are untested."
+  }
+ ]
+}

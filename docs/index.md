@@ -136,6 +136,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](lycopene.md)
 
+-   :material-sprout:{ .lg .middle } __Ginger: What It Actually Does vs What People Think__
+
+    ---
+
+    A food-dose gut agent with a modest, timing-dependent antiemetic and analgesic record and no demonstrated systemic mechanism: free gingerols are undetectable in blood after 2 g of extract. Pregnancy nausea and pre-loaded chemo vomiting are the bounded wins; testosterone, fat-loss and blood-thinning claims have no controlled evidence. **228 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](ginger.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---
