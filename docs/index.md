@@ -144,6 +144,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](ginger.md)
 
+-   :material-bottle-tonic-outline:{ .lg .middle } __Extra Virgin Olive Oil & Oleocanthal: What It Actually Does vs What People Think__
+
+    ---
+
+    A good default fat with a real but small phenolic bonus. A tablespoon holds 0.3 to 3.4 % of an ibuprofen tablet's worth of oleocanthal, never measured in human blood; PREDIMED's benefit belongs to the Mediterranean diet; against refined oil EVOO lowers oxidised LDL and about 3 mmHg of systolic pressure. **304 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](olive-oil-oleocanthal.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

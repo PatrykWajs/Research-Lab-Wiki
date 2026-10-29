@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "n": 1,
+   "tier": "Tier 1",
+   "q": "What happens to parent oleocanthal in plasma?",
+   "options": [
+    "It has never been measured in human plasma; its aldehydes react with glycine and proteins",
+    "It circulates at about 25 µM for several hours",
+    "It is stored in fat tissue and released slowly",
+    "It is converted entirely into ibuprofen"
+   ],
+   "a": 0,
+   "why": "Oleocanthal disappears on contact with plasma, forming oleoglycine; in animals it is found only in the gut after oral dosing."
+  },
+  {
+   "n": 2,
+   "tier": "Tier 1",
+   "q": "How much oleocanthal does a tablespoon of high-phenolic olive oil hold compared with an ibuprofen tablet?",
+   "options": [
+    "About the same as one tablet",
+    "About 0.3 to 3.4 % of a 200 to 400 mg tablet by mass",
+    "About half a tablet",
+    "About 10 tablets"
+   ],
+   "a": 1,
+   "why": "A 13.5 g tablespoon at 100 to 500 mg/kg carries 1.35 to 6.8 mg of oleocanthal; the ibuprofen comparison describes a test-tube mechanism, not a dose."
+  },
+  {
+   "n": 3,
+   "tier": "Tier 1",
+   "q": "What does the peppery throat sting of extra virgin olive oil tell you?",
+   "options": [
+    "The exact phenolic dose in mg/kg",
+    "That the oil is rancid",
+    "That oleocanthal is present, through TRPA1 activation in the pharynx, not how much",
+    "That the oil has been refined"
+   ],
+   "a": 2,
+   "why": "Oleocanthal activates TRPA1, the same channel ibuprofen activates; sensitivity varies between people and food protein can abolish the sting."
+  },
+  {
+   "n": 4,
+   "tier": "Tier 1",
+   "q": "What does the only authorised EU health claim for olive oil phenolics say?",
+   "options": [
+    "Olive oil prevents heart attacks",
+    "Olive oil reduces inflammation and pain",
+    "Olive oil protects the brain from dementia",
+    "Olive oil polyphenols contribute to the protection of blood lipids from oxidative stress"
+   ],
+   "a": 3,
+   "why": "It is a biomarker claim at 5 mg of hydroxytyrosol and derivatives per 20 g of oil, and the regulation names no measurement method."
+  },
+  {
+   "n": 5,
+   "tier": "Tier 1",
+   "q": "What phenolic content does one 13.5 g tablespoon need to deliver the claim's 5 mg?",
+   "options": [
+    "About 370 mg/kg at the moment you eat it",
+    "About 50 mg/kg",
+    "About 2,000 mg/kg",
+    "Any extra virgin oil qualifies automatically"
+   ],
+   "a": 0,
+   "why": "5 mg per 13.5 g is about 370 mg/kg; an oil at the 250 mg/kg threshold gives about 3.4 mg per tablespoon."
+  },
+  {
+   "n": 6,
+   "tier": "Tier 1",
+   "q": "What happened when the same 30 olive oils were analysed in five laboratories?",
+   "options": [
+    "All labs agreed within 1 %",
+    "They qualified for the health claim between 1 and 21 times out of 30 depending on the protocol",
+    "None of the oils contained phenolics",
+    "Every oil qualified in every lab"
+   ],
+   "a": 1,
+   "why": "Correction factors alone moved results 2.2 to 2.5-fold, so a label number means little without its method."
+  },
+  {
+   "n": 7,
+   "tier": "Tier 1",
+   "q": "What does refining do to olive oil phenolics?",
+   "options": [
+    "Doubles them",
+    "Leaves them unchanged",
+    "Removes essentially all hydroxytyrosol and tyrosol early in the process",
+    "Converts them into oleocanthal"
+   ],
+   "a": 2,
+   "why": "Refined and light olive oils keep the fatty acids and tocopherols but lose the phenolic fraction behind the health claim."
+  },
+  {
+   "n": 8,
+   "tier": "Tier 1",
+   "q": "How fast do olive oil phenolics fall during storage at room temperature?",
+   "options": [
+    "About 1 % a year",
+    "They rise with age",
+    "They are stable for ten years",
+    "Roughly 40 to 46 % in the first year"
+   ],
+   "a": 3,
+   "why": "Losses are faster in warm storage and in oleocanthal-rich oils; cold storage at 4 °C kept about 92 % over six months."
+  },
+  {
+   "n": 9,
+   "tier": "Tier 1",
+   "q": "In what form does absorbed hydroxytyrosol mostly circulate?",
+   "options": [
+    "About 98 % as conjugates, with free hydroxytyrosol near 0.03 µM after 25 mL",
+    "Mostly free at micromolar levels",
+    "Bound to red blood cells for days",
+    "Entirely as oleocanthal"
+   ],
+   "a": 0,
+   "why": "The main glucuronides showed no antioxidant activity at the concentrations found in human fluids."
+  },
+  {
+   "n": 10,
+   "tier": "Tier 1",
+   "q": "Why was the 2013 PREDIMED report retracted?",
+   "options": [
+    "The olive oil was fake",
+    "Randomisation failures, including household co-enrolment and non-random assignment at one site",
+    "The trial never took place",
+    "Participants were paid to report fewer events"
+   ],
+   "a": 1,
+   "why": "The 2018 republication gave almost unchanged estimates: HR 0.69 for the EVOO arm and 0.72 for nuts."
+  },
+  {
+   "n": 11,
+   "tier": "Tier 1",
+   "q": "When does olive oil lower LDL cholesterol?",
+   "options": [
+    "Whenever it is added on top of the diet",
+    "Only when taken on an empty stomach",
+    "When it replaces saturated fat such as butter, lard or ghee",
+    "Never under any condition"
+   ],
+   "a": 2,
+   "why": "Added on top of a diet it moves LDL by about +0.04 mg/dL per 10 g/day, and linoleic-rich oils lower LDL and apoB more."
+  },
+  {
+   "n": 12,
+   "tier": "Tier 1",
+   "q": "How does extra virgin olive oil behave under frying heat?",
+   "options": [
+    "It becomes toxic above 120 °C",
+    "It gains phenolics when heated",
+    "It forms more aldehydes than any seed oil",
+    "It is among the most oxidation-stable common oils, but heat strips 40 to 75 % of its phenolics"
+   ],
+   "a": 3,
+   "why": "EVOO outlasted seed oils before reaching the 25 % polar-compound discard limit; the cost of heat is the phenolic payload."
+  },
+  {
+   "n": 13,
+   "tier": "Tier 1",
+   "q": "What did the randomised hard-outcome trials of olive oil actually test?",
+   "options": [
+    "A Mediterranean dietary package, not EVOO against refined oil or a seed oil",
+    "EVOO against a placebo capsule",
+    "Refined olive oil against butter",
+    "Oleocanthal tablets against ibuprofen"
+   ],
+   "a": 0,
+   "why": "PREDIMED and CORDIOPREV compared Mediterranean diets with low-fat diets or advice; no trial has compared oils on heart attacks, strokes or death."
+  },
+  {
+   "n": 14,
+   "tier": "Tier 2",
+   "q": "Which outcome carried most of PREDIMED's benefit?",
+   "options": [
+    "Total mortality",
+    "Stroke, which fell from 24 to 14 per 1,000 over 4.8 years",
+    "Cardiovascular death",
+    "Myocardial infarction alone"
+   ],
+   "a": 1,
+   "why": "Cardiovascular mortality (HR 0.81, non-significant) and total mortality (HR 1.0) were not clearly reduced."
+  },
+  {
+   "n": 15,
+   "tier": "Tier 2",
+   "q": "What did CORDIOPREV find in coronary patients?",
+   "options": [
+    "No difference at all",
+    "A benefit only in women",
+    "9.6 fewer events per 1,000 person-years against a real low-fat diet, seen in men",
+    "Harm from the Mediterranean diet"
+   ],
+   "a": 2,
+   "why": "Events ran 28.1 against 37.7 per 1,000 person-years; two olive-oil-sector foundations co-funded the trial."
+  },
+  {
+   "n": 16,
+   "tier": "Tier 2",
+   "q": "What shape does the cohort dose-response for olive oil and mortality take?",
+   "options": [
+    "A straight line with no ceiling",
+    "Higher mortality above one tablespoon",
+    "No association at any intake",
+    "About 15 to 20 % lower mortality, with most of the association reached by 18 to 22 g/day"
+   ],
+   "a": 3,
+   "why": "Per 10 g/day, cardiovascular disease fell about 7 % and all-cause mortality 8 %, with the curve flattening near 20 g/day."
+  },
+  {
+   "n": 17,
+   "tier": "Tier 2",
+   "q": "In the large US cohorts, what was olive oil better than?",
+   "options": [
+    "Butter, margarine, mayonnaise and dairy fat, but not other vegetable oils combined",
+    "Every other fat including seed oils",
+    "Nothing at all",
+    "Only fish oil"
+   ],
+   "a": 0,
+   "why": "Replacing animal or processed fats with olive oil went with 5 to 34 % lower risk; against other plant oils there was no significant difference."
+  },
+  {
+   "n": 18,
+   "tier": "Tier 2",
+   "q": "Which marker does high-phenolic olive oil lower most consistently against low-phenolic oil?",
+   "options": [
+    "Fasting glucose",
+    "Oxidised LDL",
+    "C-reactive protein",
+    "Body weight"
+   ],
+   "a": 1,
+   "why": "Pools give SMD −0.25 to −0.68, the endpoint behind the EU health claim."
+  },
+  {
+   "n": 19,
+   "tier": "Tier 2",
+   "q": "How much does EVOO lower systolic blood pressure against refined olive oil?",
+   "options": [
+    "About 20 mmHg",
+    "It raises it",
+    "About 3 mmHg over weeks, with no diastolic change",
+    "No effect in any trial"
+   ],
+   "a": 2,
+   "why": "A network meta-analysis of 13 trials found −2.87 to −2.99 mmHg at low to moderate certainty."
+  },
+  {
+   "n": 20,
+   "tier": "Tier 2",
+   "q": "Where do the headline large blood-pressure drops from olive oil come from?",
+   "options": [
+    "A 10,000-person trial",
+    "The PREDIMED primary endpoint",
+    "A Cochrane review of drug trials",
+    "Trials of 23 and 24 people, while broad EVOO pools find no significant effect"
+   ],
+   "a": 3,
+   "why": "The −7.9 mmHg figure is a change from baseline, not a contrast with the polyphenol-free oil."
+  },
+  {
+   "n": 21,
+   "tier": "Tier 2",
+   "q": "How large is the phenolic effect on cholesterol?",
+   "options": [
+    "HDL up 1 to 2 mg/dL; LDL down 4 to 5 mg/dL only at high phenolic doses",
+    "LDL down by half, like a statin",
+    "HDL doubles",
+    "Total cholesterol rises sharply"
+   ],
+   "a": 0,
+   "why": "EUROLIVE's phenolic HDL increment was about 0.8 mg/dL between the low and high oils."
+  },
+  {
+   "n": 22,
+   "tier": "Tier 2",
+   "q": "What did the EVOO-only meta-analysis of 33 trials find for inflammatory markers?",
+   "options": [
+    "CRP fell by 50 %",
+    "No effect on CRP, IL-6, IL-10 or TNF-α",
+    "IL-6 rose",
+    "TNF-α was abolished"
+   ],
+   "a": 1,
+   "why": "Reductions appear when olive oil comes inside a Mediterranean diet, not when EVOO is tested alone."
+  },
+  {
+   "n": 23,
+   "tier": "Tier 2",
+   "q": "What is the most reproducible human effect of oleocanthal-rich oil?",
+   "options": [
+    "Lasting pain relief",
+    "Lower blood glucose within an hour",
+    "Acute dampening of ex vivo platelet aggregation after 40 mL",
+    "Weight loss in a week"
+   ],
+   "a": 2,
+   "why": "Two small trials of 9 and 10 people found the effect; the first trial's authors concluded it did not run through COX."
+  },
+  {
+   "n": 24,
+   "tier": "Tier 2",
+   "q": "What do olive oil interventions do to HbA1c in type 2 diabetes?",
+   "options": [
+    "Lower it by 2 points",
+    "Raise it",
+    "Normalise it completely",
+    "Lower it by about 0.27 percentage points"
+   ],
+   "a": 3,
+   "why": "Fasting glucose fell 0.44 mmol/L across 29 trials; PREDIMED's diabetes result is a secondary subgroup analysis."
+  },
+  {
+   "n": 25,
+   "tier": "Tier 2",
+   "q": "How much phenolic content does a typical premium EVOO hold?",
+   "options": [
+    "About 340 to 420 mg/kg by LC-MS/MS, with one in six to one in four below the claim threshold",
+    "About 5,000 mg/kg on average",
+    "Zero",
+    "Exactly 250 mg/kg by law"
+   ],
+   "a": 0,
+   "why": "Greek qNMR samples averaged 483 mg/kg; oleocanthal alone ranged from non-detectable to 355 mg/kg across 175 oils."
+  },
+  {
+   "n": 26,
+   "tier": "Tier 2",
+   "q": "What did screens of retail extra virgin olive oil find?",
+   "options": [
+    "Every bottle is pure seed oil",
+    "A large share fails some grade criterion, mostly refined-oil admixture or sensory defects, with rates depending on the method",
+    "No fraud exists",
+    "Only olive oil from Greece is ever adulterated"
+   ],
+   "a": 1,
+   "why": "An FDA screen flagged 62.5 % of 88 products, while fatty-acid limits alone would flag fewer than 10 %."
+  },
+  {
+   "n": 27,
+   "tier": "Tier 3",
+   "q": "Did the HDL efflux improvement from high-phenolic oil replicate?",
+   "options": [
+    "Yes, in every trial",
+    "It was never tested",
+    "No: it appeared in one EUROLIVE sub-study and not in OLIVAUS at more than twice the dose",
+    "Efflux fell in every trial"
+   ],
+   "a": 2,
+   "why": "PREDIMED's efflux gain was against baseline, not against the control diet."
+  },
+  {
+   "n": 28,
+   "tier": "Tier 3",
+   "q": "How should the EVOO-only PREDIMED signals for atrial fibrillation, diabetes and breast cancer be read?",
+   "options": [
+    "As proven effects",
+    "As retracted results",
+    "As effects seen equally in the nut arm",
+    "As post hoc or secondary analyses with few events, corrected but not retracted"
+   ],
+   "a": 3,
+   "why": "The breast cancer result rests on 35 cases; the nut arm was null on each outcome."
+  },
+  {
+   "n": 29,
+   "tier": "Tier 3",
+   "q": "What do Spanish cohorts suggest about virgin versus common olive oil?",
+   "options": [
+    "Virgin oil tracks lower mortality while common oil does not, but no trial has compared grades",
+    "Common oil is better",
+    "There is no difference at all",
+    "Both raise mortality"
+   ],
+   "a": 0,
+   "why": "Virgin oil carried all-cause HR 0.66 against 0.96 for common oil in a Spanish national sample."
+  },
+  {
+   "n": 30,
+   "tier": "Tier 3",
+   "q": "What happens to blood vessel function after a large olive oil fat load eaten alone?",
+   "options": [
+    "It permanently damages arteries",
+    "It can blunt flow-mediated dilation for hours, while high-phenolic oil or oil with vegetables does not",
+    "It always improves dilation",
+    "It has no measurable effect"
+   ],
+   "a": 1,
+   "why": "A 50 g fat load cut FMD by 31 %; 50 mL of high-polyphenol EVOO against refined oil gave a 4.8-point FMD advantage."
+  },
+  {
+   "n": 31,
+   "tier": "Tier 3",
+   "q": "How does olive oil's effect on flow-mediated dilation compare with other foods?",
+   "options": [
+    "Ten times larger than any other food",
+    "Negative",
+    "About +0.8 points, similar to tea, cocoa, soy, nuts and vegetables",
+    "Larger than any drug"
+   ],
+   "a": 2,
+   "why": "Mediterranean diets give +1.66 to +2.32 points; tea gave +3.22 in the same large meta-analysis."
+  },
+  {
+   "n": 32,
+   "tier": "Tier 3",
+   "q": "Where does the oleocanthal amyloid-clearance mechanism come from?",
+   "options": [
+    "A large human brain-imaging trial",
+    "PREDIMED autopsies",
+    "A Cochrane review",
+    "Mouse studies by one commercially linked laboratory network, with no human measurement"
+   ],
+   "a": 3,
+   "why": "The key experiments injected pure oleocanthal; investigators declare roles in a company developing oleocanthal products."
+  },
+  {
+   "n": 33,
+   "tier": "Tier 3",
+   "q": "What happened in the 26-person US trial of high-phenolic EVOO in mild cognitive impairment?",
+   "options": [
+    "Refined olive oil improved the dementia rating at least as much as EVOO",
+    "EVOO cured cognitive impairment",
+    "Both oils worsened cognition",
+    "The trial was retracted"
+   ],
+   "a": 0,
+   "why": "The overall blood-brain barrier permeability change was not significant, and the oil was donated by its producer."
+  },
+  {
+   "n": 34,
+   "tier": "Tier 3",
+   "q": "What can the cohort link between olive oil and dementia-related death not do?",
+   "options": [
+    "Adjust for age",
+    "Separate oil grades, and it vanishes when olive oil is compared with other vegetable oils",
+    "Include women",
+    "Measure deaths"
+   ],
+   "a": 1,
+   "why": "Half a tablespoon a day carried HR 0.72 for dementia-related death, which is not the same as dementia incidence."
+  },
+  {
+   "n": 35,
+   "tier": "Tier 4",
+   "q": "Is there a randomised trial showing extra virgin olive oil relieves pain?",
+   "options": [
+    "Yes, many large trials",
+    "Yes, it matches ibuprofen for headaches",
+    "No, none exists; the closest evidence is olive extracts in osteoarthritis",
+    "Yes, but only for back pain"
+   ],
+   "a": 2,
+   "why": "Olive extracts pool to a modest, uncertain effect from three trials, and an olive-leaf trial was null on its primary outcome."
+  },
+  {
+   "n": 36,
+   "tier": "Tier 4",
+   "q": "What did the MIND trial find, in which the diet arm received about two tablespoons of EVOO a day for three years?",
+   "options": [
+    "A large improvement in memory",
+    "Reversal of Alzheimer disease",
+    "Worse cognition with EVOO",
+    "No cognitive or MRI benefit compared with the control"
+   ],
+   "a": 3,
+   "why": "Global cognition improved +0.205 against +0.170 in controls (P = 0.23)."
+  },
+  {
+   "n": 37,
+   "tier": "Tier 4",
+   "q": "Which statement about PREDIMED is accurate?",
+   "options": [
+    "Its retraction did not collapse the evidence, and it never proved EVOO itself prevents heart attacks",
+    "It proved olive oil prevents all heart attacks",
+    "Its retraction showed the diet had no effect",
+    "It tested olive oil against seed oils"
+   ],
+   "a": 0,
+   "why": "The republished estimates barely moved, while heart attacks and cardiovascular death were not clearly reduced and nuts did as well."
+  },
+  {
+   "n": 38,
+   "tier": "Tier 4",
+   "q": "What does an oil's smoke point mainly track?",
+   "options": [
+    "Phenolic content",
+    "Free acidity, so it is a poor guide to oxidation products",
+    "Omega-3 content",
+    "Country of origin"
+   ],
+   "a": 1,
+   "why": "EVOO formed fewer polar compounds and aldehydes than seed oils in frying tests, and oil type did not change acrylamide."
+  },
+  {
+   "n": 39,
+   "tier": "Tier 4",
+   "q": "Does genetic evidence show that oleic acid itself protects against heart attack?",
+   "options": [
+    "Yes, strongly",
+    "Yes, but only in women",
+    "No: genetically higher oleic acid was not associated with heart disease or stroke",
+    "It shows oleic acid causes heart attacks"
+   ],
+   "a": 2,
+   "why": "Stroke associations in another genetic study were driven by a pleiotropic desaturase locus."
+  },
+  {
+   "n": 40,
+   "tier": "Tier 4",
+   "q": "Is there human evidence that EVOO lowers blood pressure through nitro-oleic acid?",
+   "options": [
+    "Yes, from PREDIMED",
+    "Yes, from a large human trial",
+    "Yes, it is the main mechanism",
+    "No: the evidence is mouse and test-tube work"
+   ],
+   "a": 3,
+   "why": "The mouse study injected nitro-oleic acid, and in humans adding a fat to nitrite blunted its vessel-widening effect."
+  },
+  {
+   "n": 41,
+   "tier": "Practical",
+   "q": "Which features best predict what phenolics actually reach your spoon?",
+   "options": [
+    "Recent harvest date, a phenolic value with its method and date, and opaque packaging",
+    "A green glass bottle and a high price",
+    "The words extra virgin on the label",
+    "A dark colour of the oil"
+   ],
+   "a": 0,
+   "why": "Phenolics fall 40 to 46 % a year, methods differ two- to threefold, and tin or bag-in-box beat green glass and PET."
+  },
+  {
+   "n": 42,
+   "tier": "Practical",
+   "q": "How should a daily tablespoon of EVOO be used to get the most from it?",
+   "options": [
+    "Heated to its smoke point first",
+    "Raw, replacing butter, margarine or mayonnaise rather than added on top",
+    "Added on top of all other fats",
+    "Only in deep frying"
+   ],
+   "a": 1,
+   "why": "A 170 °C sauté removes about 75 % of phenolics, and the cholesterol and cohort benefits come from what the oil replaces."
+  },
+  {
+   "n": 43,
+   "tier": "Practical",
+   "q": "What is the better way to raise your phenolic dose without adding calories?",
+   "options": [
+    "Drink a glass of oil daily",
+    "Heat the oil to concentrate it",
+    "Choose a higher-phenolic oil rather than pouring more",
+    "Take refined olive oil capsules"
+   ],
+   "a": 2,
+   "why": "8 g of a 1,021 mg/kg oil delivered the same phenolic dose as 20 g of a 414 mg/kg oil."
+  },
+  {
+   "n": 44,
+   "tier": "Practical",
+   "q": "What does the evidence say about taking olive oil as a fasted morning shot?",
+   "options": [
+    "Fasting doubles absorption",
+    "It is required for any benefit",
+    "It flushes gallstones",
+    "No trial favours it over taking oil with food, and a fasted bolus contracts the gallbladder"
+   ],
+   "a": 3,
+   "why": "A 50 mL EVOO bolus is used clinically to test gallbladder contraction; the flush claim rests on one uncontrolled case."
+  },
+  {
+   "n": 45,
+   "tier": "Practical",
+   "q": "Which safety statement about food-dose olive oil is supported?",
+   "options": [
+    "No documented allergy to the oil, no warfarin interaction study, and contaminants concentrated in pomace oil",
+    "It commonly causes allergic reactions",
+    "It interacts dangerously with warfarin at any dose",
+    "Extra virgin oil carries the most PAH contamination"
+   ],
+   "a": 0,
+   "why": "A measurable platelet effect at 40 mL is a reason to mention a very high-oleocanthal oil to a prescriber if you take antiplatelet drugs or anticoagulants."
+  }
+ ]
+}
