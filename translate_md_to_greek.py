@@ -228,7 +228,7 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "omeprazole", "arachidonic", "guanidinium", "zearalenone", "cisplatin", "busulfan", "cyclophosphamide",
     "carbendazim", "difenoconazole", "metabisulfite", "alloxan", "streptozotocin", "fructose", "geraniol",
     "Chen", "Ebrahimzadeh", "Jalali", "Maharlouei", "May", "Mazidi", "Mohammad", "Morvaridzadeh",
-    "Musazadeh", "October", "Rjabi", "Schumacher", "The", "Zhu", "Zick", "Zhou", "Lage",
+    "Musazadeh", "October", "Rjabi", "Schumacher", "Zhu", "Zick", "Zhou", "Lage",
     "Abuznait", "Agrawal", "Beauchamp", "Hernáez", "Kaddoumi", "Katsa", "Valls", "Folin", "Folin-Ciocalteu", "EUROLIVE", "CORDIOPREV", "PREDIMED", "PREDIMED-Plus", "PREDIMED-Navarra", "PREDIMED-Barcelona", "PREDIMED-Reus", "OLIVAUS", "VOHF", "SOLOS", "VOLOS", "APRIL", "MICOIL", "MIND", "MedLey", "OmniHeart", "DIVAS", "Lyon", "Moli-sani", "Three-City", "EPIC-Spain", "SUN", "Koroneiki", "Hojiblanca", "Patrimonio Comunal Olivarero", "Cobram Estate", "Cobram", "Oleolive", "Monell", "Wageningen", "Chalkidiki", "Picual", "Arbequina", "Kalamon", "EVOO", "EVOOs", "VOO", "IOC", "NCBI", "NEJM", "BMJ", "hTRPA1", "TRPV1", "LRP1", "P-glycoprotein", "NLRP3", "eNOS", "NOS2", "NOX2", "NOx", "mPGES-1", "MIP-1α", "MAPK", "ADAMTS-5", "MMP-13", "GM-CSF", "CYP2A6", "oxLDL", "apoA1", "apoB-48", "hsCRP", "IL-10", "RHI", "EndoPAT", "VLDL", "qNMR", "UHPLC", "LC-MS", "FT-NIR", "MOSH", "MOAH", "PAH", "3-MCPD", "TBARS", "GPx1", "ADP", "TRAP", "CDR-SOB", "MCI", "TgSwDI", "TgCRND8", "hTau", "3xTg", "Glu298Asp", "K18", "Tris", "EGCG", "GIP", "DPP-4", "VTE", "NNT"
 ]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
