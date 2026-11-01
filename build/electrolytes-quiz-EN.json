@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "n": 1,
+   "tier": "Tier 1",
+   "q": "What happened to urinary sodium when healthy men fasted for a full 24 hours on a controlled diet?",
+   "options": [
+    "It fell, along with chloride, while urinary aldosterone rose",
+    "It doubled as the kidney dumped sodium",
+    "It rose by about 1,000 mg",
+    "It was unchanged in every man"
+   ],
+   "a": 0,
+   "why": "The one-day fast lowered sodium and chloride excretion and raised aldosterone; the natriuresis of fasting is a multi-day phenomenon that self-limits by day four."
+  },
+  {
+   "n": 2,
+   "tier": "Tier 1",
+   "q": "What drives the natriuresis of prolonged fasting?",
+   "options": [
+    "A direct toxic effect of fasting on the proximal tubule",
+    "Ketoacid anions that must leave the body paired with a cation until ammoniagenesis catches up",
+    "The loss of dietary chloride",
+    "Rising insulin"
+   ],
+   "a": 1,
+   "why": "Sodium loss tracked organic-acid anion excretion at r = 0.891; chronic fasting excretes 120 mmol/day of ketoacid anions, while a 5 % carbohydrate diet raises ketones only 0.62 mmol/L."
+  },
+  {
+   "n": 3,
+   "tier": "Tier 1",
+   "q": "Why is your first morning urine dark and concentrated?",
+   "options": [
+    "Because you lost a litre of water overnight",
+    "Because sodium stores were depleted",
+    "Because vasopressin peaks between 04:00 and 06:00 and the kidney conserved water as designed",
+    "Because plasma osmolality rose sharply"
+   ],
+   "a": 2,
+   "why": "Varying intake between 1.0 and 2.5 L/day moved urine but not plasma osmolality, and an extra 716 mL/day for a week left morning urine unchanged."
+  },
+  {
+   "n": 4,
+   "tier": "Tier 1",
+   "q": "Over what timescale does the body settle sodium balance?",
+   "options": [
+    "Every night, before breakfast",
+    "Within one hour of each meal",
+    "Only at the weekend",
+    "Days to weeks, with total-body sodium swinging 200 to 400 mmol at fixed intake"
+   ],
+   "a": 3,
+   "why": "A single 24-hour urine classified a 3 g salt difference only 49 % of the time; a 43.5 mmol sachet sits inside the body's own day-to-day noise."
+  },
+  {
+   "n": 5,
+   "tier": "Tier 1",
+   "q": "Roughly how much sodium does a temperate one-hour session of brisk walking, running or cycling cost?",
+   "options": [
+    "About half a gram, at 0.7 L/h and 34 mmol/L",
+    "About 3 g, a teaspoon of salt",
+    "About 50 mg",
+    "About 5 g in every session"
+   ],
+   "a": 0,
+   "why": "In 285 adults the mean sweat rate was 0.71 L/h at an estimated whole-body 34.1 mmol/L, a 0.78 % mass loss."
+  },
+  {
+   "n": 6,
+   "tier": "Tier 1",
+   "q": "How much sodium does a sedentary adult lose through the skin in a day?",
+   "options": [
+    "About 2 g, which a morning drink must replace",
+    "At most a few tenths of a gram; balance studies recover 86 to 92 % of intake in urine",
+    "About the same as a marathon runner",
+    "None at all"
+   ],
+   "a": 1,
+   "why": "After a five-hour sweat deficit the kidney cut urinary sodium to 21 mmol a day; no retrieved study shows an overnight sodium deficit."
+  },
+  {
+   "n": 7,
+   "tier": "Tier 1",
+   "q": "What happened to the electrically induced cramp threshold when men lost 3 to 4.7 % of body mass and 3 to 4 g of sodium?",
+   "options": [
+    "It fell by half",
+    "It rose, protecting against cramp",
+    "It did not change, because the cramp generator is spinal",
+    "Cramps became impossible to induce"
+   ],
+   "a": 2,
+   "why": "A peripheral nerve block cut cramp duration from 55.6 to 2.6 s; the cramp sits in the alpha-motor-neuron pool, not in the fluid around the muscle."
+  },
+  {
+   "n": 8,
+   "tier": "Tier 1",
+   "q": "What distinguished the 43 Ironman triathletes who cramped from the 167 who did not?",
+   "options": [
+    "Lower serum sodium below the normal range",
+    "Greater weight loss during the race",
+    "Drinking plain water instead of a sports drink",
+    "Faster race time and a history of cramping, with no electrolyte or body-weight difference"
+   ],
+   "a": 3,
+   "why": "Prior cramps, pace, muscle damage, sex, age and injury predict cramps across cohorts of 82 to 76,654 athletes."
+  },
+  {
+   "n": 9,
+   "tier": "Tier 1",
+   "q": "Why does pickle juice relieve a cramp?",
+   "options": [
+    "Through an oropharyngeal reflex that acts within about a minute while plasma is unchanged",
+    "By restoring plasma sodium within five minutes",
+    "By raising plasma osmolality",
+    "Because vinegar relaxes muscle fibres directly"
+   ],
+   "a": 0,
+   "why": "One mL/kg shortened an induced cramp by 49 s with no plasma change; a 1.5 g sodium bolus moved nothing in plasma within an hour."
+  },
+  {
+   "n": 10,
+   "tier": "Tier 1",
+   "q": "What does the Cochrane pool say about magnesium for the nocturnal cramps a sedentary adult gets?",
+   "options": [
+    "A 50 % reduction in cramp frequency",
+    "About −0.18 cramps a week with a confidence interval spanning zero, and no trial at all in exercise cramps",
+    "Effective only as glycinate",
+    "Effective at 60 mg a day"
+   ],
+   "a": 1,
+   "why": "Intravenous 5 g a day and 900 mg of citrate twice daily were also null; a sachet's 60 to 120 mg is below every dose that failed."
+  },
+  {
+   "n": 11,
+   "tier": "Tier 1",
+   "q": "What did the Kawasaki spot-urine formula do to estimated sodium intake in people who also had three to seven 24-hour urines?",
+   "options": [
+    "Under-estimated it by half",
+    "Matched the measured value within 50 mg",
+    "Over-estimated it by 1,297 mg a day, over-estimating at low and under-estimating at high intake, bending a linear mortality curve into a J",
+    "Removed any association with mortality"
+   ],
+   "a": 2,
+   "why": "All three formulas did it, and they still predicted death with urinary sodium concentration held constant."
+  },
+  {
+   "n": 12,
+   "tier": "Tier 1",
+   "q": "In 10,709 adults with at least two 24-hour urines each, what did each extra 1,000 mg a day of sodium carry?",
+   "options": [
+    "Hazard ratio 0.80, a protective effect",
+    "No association at all",
+    "A J-curve with risk only below 3 g",
+    "Hazard ratio 1.18 for cardiovascular events, with potassium at 0.82 and no J-curve"
+   ],
+   "a": 3,
+   "why": "The sodium-blood-pressure slope across 85 trials from 0.4 to 7.6 g a day was approximately linear with no flattening at either end."
+  },
+  {
+   "n": 13,
+   "tier": "Tier 1",
+   "q": "Does sodium need glucose to be absorbed from the gut?",
+   "options": [
+    "No: the ileum absorbs sodium actively against a 110 mEq/L gradient without glucose; glucose speeds jejunal uptake",
+    "Yes: without glucose sodium passes straight through",
+    "Only in athletes",
+    "Only when taken fasted"
+   ],
+   "a": 0,
+   "why": "The glucose-sodium cotransport story explains why oral rehydration solution works in diarrhoeal disease, not a benefit at breakfast."
+  },
+  {
+   "n": 14,
+   "tier": "Tier 1",
+   "q": "What does 'hydrates better than water' actually mean in the Beverage Hydration Index trials?",
+   "options": [
+    "A measurable rise in intracellular water",
+    "Less urine over four hours from a litre you did not need; a sports drink and a sugar-free electrolyte drink equalled water",
+    "A better health outcome",
+    "Faster recovery from illness"
+   ],
+   "a": 1,
+   "why": "Oral rehydration solution left 1,038 g of urine against 1,337 g for water; the effect needs 27 to 52 mmol/L of sodium and has poor within-person reproducibility."
+  },
+  {
+   "n": 15,
+   "tier": "Tier 1",
+   "q": "Which way does sodium move water across the cell membrane?",
+   "options": [
+    "Into cells, hydrating them",
+    "Neither; sodium is osmotically inert",
+    "Out of cells, by raising extracellular osmolality; the retention is extracellular",
+    "Into mitochondria specifically"
+   ],
+   "a": 2,
+   "why": "Holding 43.5 mmol of sodium isotonically needs about 0.31 L kept in the extracellular fluid, which is the whole ORS effect."
+  },
+  {
+   "n": 16,
+   "tier": "Tier 1",
+   "q": "Which electrolyte is the actual shortfall in Western diets?",
+   "options": [
+    "Sodium: most adults are below 1,500 mg",
+    "Magnesium alone",
+    "Chloride",
+    "Potassium: US adults excrete 2,155 mg a day against a 3,510 mg target, and higher potassium tracks lower risk in every cohort"
+   ],
+   "a": 3,
+   "why": "Only 0.002 % of a 103,570-person cohort met both WHO targets at once; each extra 1.64 g of potassium tracked stroke RR 0.79."
+  },
+  {
+   "n": 17,
+   "tier": "Tier 2",
+   "q": "What happens to sweat sodium after a week to ten days of heat acclimation?",
+   "options": [
+    "It falls by about 40 %, with conservation starting on day three",
+    "It doubles as sweat rate rises",
+    "It is unchanged",
+    "It depends only on diet"
+   ],
+   "a": 0,
+   "why": "Three days of low versus high sodium diet moved sweat sodium only 10 to 12 %, and salty sweat is partly a fixed ductal trait."
+  },
+  {
+   "n": 18,
+   "tier": "Tier 2",
+   "q": "In 413 Ironman finishers randomised to an extra 3.6 g of sodium, placebo or nothing, what differed between groups?",
+   "options": [
+    "Serum sodium rose 5 mmol/L with sodium",
+    "Nothing: serum sodium, weight change, finishing time and temperature were the same",
+    "Hyponatremia was abolished in the sodium group",
+    "The sodium group finished 20 minutes faster"
+   ],
+   "a": 1,
+   "why": "Sodium in a drink only slows the dilution caused by forced overdrinking; it does not prevent exercise-associated hyponatremia."
+  },
+  {
+   "n": 19,
+   "tier": "Tier 2",
+   "q": "What predicted hyponatremia at the 2002 Boston Marathon?",
+   "options": [
+    "Drinking plain water instead of a sports drink",
+    "Female sex and NSAID use",
+    "Weight gain during the race (OR 4.2) and finishing over four hours (OR 7.4), not the type of fluid",
+    "A fast finishing time"
+   ],
+   "a": 2,
+   "why": "Exercise-associated hyponatremia is a disease of drinking more than you sweat, and its lethal error is treating it as dehydration."
+  },
+  {
+   "n": 20,
+   "tier": "Tier 2",
+   "q": "Does sodium supplementation improve endurance performance in controlled trials?",
+   "options": [
+    "Yes, by 5 to 10 % in every trial",
+    "Yes, but only in cool weather",
+    "Yes, through preventing cramps",
+    "No in three controlled trials; one real-race half-Ironman trial was positive and a concentrated pre-load expanded plasma volume"
+   ],
+   "a": 3,
+   "why": "700 mg/h over a 72-km time trial gave 171 versus 172 minutes; 1,800 mg over two hours changed nothing."
+  },
+  {
+   "n": 21,
+   "tier": "Tier 2",
+   "q": "When is electrolyte replacement during exercise actually indicated?",
+   "options": [
+    "When duration over 90 minutes, heat or sweat at or above 1.5 L/h, salty sweat at or above 40 mmol/L and fluid replacement over 80 % converge",
+    "In every session over 30 minutes",
+    "Whenever you sweat visibly",
+    "Before every morning workout"
+   ],
+   "a": 0,
+   "why": "A model found sodium replacement unnecessary in all realistic soccer and elite-marathon scenarios; drinking to thirst matched programmed drinking."
+  },
+  {
+   "n": 22,
+   "tier": "Tier 2",
+   "q": "What did an oral rehydration solution do to the cramp threshold when drunk during hot, dehydrating downhill running?",
+   "options": [
+    "Lowered it",
+    "Raised it 6.5 to 13.6 Hz while plain water lowered it 3.8 to 4.5 Hz",
+    "Nothing",
+    "Abolished cramps entirely"
+   ],
+   "a": 1,
+   "why": "This is the one real electrolyte effect on a cramp surrogate; it involves fluid replaced in real time during heat, not a drink taken hours before."
+  },
+  {
+   "n": 23,
+   "tier": "Tier 2",
+   "q": "How much does potassium supplementation lower blood pressure, and in whom?",
+   "options": [
+    "About 15 mmHg in everyone",
+    "Nothing in anyone",
+    "About 3 to 5 mmHg systolic in hypertensive people at 60 to 120 mmol a day; not measurably in normotensive people",
+    "About 10 mmHg at 200 mg a day"
+   ],
+   "a": 2,
+   "why": "Five days of up to 60 mEq extra potassium did nothing to pressure in 35 normotensive adults; a sachet is 5 to 13 mmol and has never been tested."
+  },
+  {
+   "n": 24,
+   "tier": "Tier 2",
+   "q": "What did the 20,995-person salt-substitute trial in rural China find?",
+   "options": [
+    "No effect on any outcome",
+    "More strokes from potassium",
+    "A benefit only in young adults",
+    "Stroke RR 0.86, major cardiovascular events 0.87 and all-cause death 0.88, with no excess hyperkalaemia events"
+   ],
+   "a": 3,
+   "why": "The 75/25 sodium-potassium chloride substitute lowered sodium and raised potassium together; a 5:1 sachet does the opposite to the ratio."
+  },
+  {
+   "n": 25,
+   "tier": "Tier 2",
+   "q": "What does a 1,000 mg sodium / 200 mg potassium stick do to a typical day's sodium-to-potassium molar ratio?",
+   "options": [
+    "Raises it from about 2.85 to 3.33, about 17 % higher",
+    "Lowers it to about 1.0",
+    "Leaves it unchanged",
+    "Halves it"
+   ],
+   "a": 0,
+   "why": "The ratio predicted risk at least as well as sodium in TOHP, NHANES III and the pooled 24-hour-urine cohorts."
+  },
+  {
+   "n": 26,
+   "tier": "Tier 2",
+   "q": "What is the randomised blood-pressure cost of a sustained extra 1,000 mg a day of sodium in a normotensive adult?",
+   "options": [
+    "About 10 mmHg",
+    "About 1 to 2.5 mmHg systolic, two to three times that with age, hypertension or higher baseline pressure",
+    "Zero",
+    "About 20 mmHg"
+   ],
+   "a": 1,
+   "why": "The cross-sectional NHANES slope of 4.58 mmHg compares different people and overstates it; in DASH-Sodium the largest step came below 100 mmol a day."
+  },
+  {
+   "n": 27,
+   "tier": "Tier 2",
+   "q": "Which magnesium form is the one to avoid, and how do the others compare?",
+   "options": [
+    "Citrate, which is poorly absorbed",
+    "Chloride, because it is inorganic",
+    "Oxide, at 4 % absorption; citrate, chloride, lactate, aspartate and glycinate are not separated by human data",
+    "Glycinate, which has no data"
+   ],
+   "a": 2,
+   "why": "Malate's superiority is a rat finding that ranks citrate last; dose dominates, with absorption falling from 65 % to 11 % as the dose rises."
+  },
+  {
+   "n": 28,
+   "tier": "Tier 2",
+   "q": "How much magnesium does a hard 2.5 litre sweat session cost?",
+   "options": [
+    "About 300 mg, the whole RDA",
+    "About 100 mg",
+    "About 30 mg",
+    "About 3 mg, under 1 % of the RDA, at 1.27 mg per litre"
+   ],
+   "a": 3,
+   "why": "The reported fall in sweat magnesium with acclimation was a skin-contamination artefact; the positive exercise trials used 350 mg a day in groups of 22 to 25."
+  },
+  {
+   "n": 29,
+   "tier": "Tier 2",
+   "q": "How does the 50 to 120 mg of magnesium in a sachet compare with the dietary gap?",
+   "options": [
+    "It roughly matches the median shortfall of about 80 to 100 mg a day; it is a top-up, not a repletion dose",
+    "It is ten times the daily requirement",
+    "It is negligible at 1 % of the RDA",
+    "It exceeds the upper level"
+   ],
+   "a": 0,
+   "why": "Median US intake was 326 mg in Caucasian men and 237 mg in Caucasian women against an RDA of 310 to 420 mg; the serum reference interval is a 1974 population distribution."
+  },
+  {
+   "n": 30,
+   "tier": "Tier 2",
+   "q": "In which groups does clinically low magnesium actually concentrate?",
+   "options": [
+    "Everyone who exercises",
+    "Long-term PPI users, thiazide users, heavy drinkers and people with type 2 diabetes",
+    "Loop diuretic users only",
+    "Young healthy adults"
+   ],
+   "a": 1,
+   "why": "PPI use carried OR 2.0 (7.2 with a loop diuretic) and thiazides OR 2.7 to 3.1, while loop diuretics associated with higher serum magnesium in the general population."
+  },
+  {
+   "n": 31,
+   "tier": "Tier 2",
+   "q": "Who is at risk of hyperkalaemia from added potassium?",
+   "options": [
+    "Every healthy adult who eats a banana",
+    "Only children",
+    "People with kidney disease or on RAAS-blocking drugs; in CKD G3b to 4, 40 mmol a day made 11 % hyperkalaemic",
+    "Nobody, potassium is always safe"
+   ],
+   "a": 2,
+   "why": "In healthy people the same load produced extra natriuresis within two hours; that response was absent in CKD."
+  },
+  {
+   "n": 32,
+   "tier": "Tier 2",
+   "q": "What does 1 to 2 % dehydration reliably do, and what does it do weakly?",
+   "options": [
+    "Reliably halves reaction time",
+    "Nothing at all",
+    "Causes seizures",
+    "Reliably worsens mood, thirst and perceived effort; cognition pools to −0.14 with a confidence interval touching zero"
+   ],
+   "a": 3,
+   "why": "A 4.1 % loss left cognition and balance unchanged while mood disturbance rose."
+  },
+  {
+   "n": 33,
+   "tier": "Tier 2",
+   "q": "Which hard outcomes does drinking extra water have randomised support for?",
+   "options": [
+    "Recurrent kidney stones (RR 0.45, low certainty) and recurrent cystitis in low-drinking women",
+    "Slower kidney-disease progression",
+    "Weight loss in all adults",
+    "Longer lifespan"
+   ],
+   "a": 0,
+   "why": "Coaching 631 CKD patients to drink 0.6 L more a day left eGFR decline unchanged; four cups of coffee a day left total body water unchanged."
+  },
+  {
+   "n": 34,
+   "tier": "Tier 3",
+   "q": "What sodium intake did the J-curve cohorts actually identify as lowest-risk?",
+   "options": [
+    "4 to 6 g in every cohort",
+    "PURE 3 to 6 g, INTERSTROKE 2.8 to 3.5 g and Graudal's flat zone 2.6 to 4.9 g; none found 4 to 6 g",
+    "Above 7 g",
+    "Below 1 g"
+   ],
+   "a": 1,
+   "why": "Every J-curve cohort used a spot-urine formula, and no trial has ever raised sodium against hard outcomes."
+  },
+  {
+   "n": 35,
+   "tier": "Tier 3",
+   "q": "Where do the reports of sodium restriction raising cholesterol and stress hormones come from?",
+   "options": [
+    "Long-term trials in healthy adults",
+    "The SSaSS trial",
+    "Pooling very short, very large reductions; modest reductions sustained four weeks or more show no lipid change",
+    "Measured 24-hour urine cohorts"
+   ],
+   "a": 2,
+   "why": "Salt sensitivity is pathophysiologically real but has no clinical test, and the heart-failure sodium trial was underpowered."
+  },
+  {
+   "n": 36,
+   "tier": "Tier 3",
+   "q": "How does insulin affect renal sodium handling, and what does that say about the overnight fall?",
+   "options": [
+    "It dumps sodium from the proximal tubule",
+    "It has no renal effect",
+    "It doubles sodium excretion overnight",
+    "It retains sodium distally at clamp doses, inhibits proximal reabsorption, and a physiological rise in natriuretic peptide cancels it; the overnight fall has never been shown to cause sodium loss"
+   ],
+   "a": 3,
+   "why": "Removing basal insulin with somatostatin produced a biphasic, unexplained sodium response rather than a clean natriuresis."
+  },
+  {
+   "n": 37,
+   "tier": "Tier 3",
+   "q": "What is the evidence that electrolytes fix keto flu?",
+   "options": [
+    "A physiological rationale with no clinical trial; symptoms did not differ between 5, 15 and 25 % carbohydrate diets despite a clear ketone gradient",
+    "Three randomised trials showing complete relief",
+    "A Cochrane review",
+    "A large cohort study"
+   ],
+   "a": 0,
+   "why": "The electrolyte problems of real multi-day fasting are hyponatraemia with sodium sparing and potassium, phosphate and magnesium falls on refeeding."
+  },
+  {
+   "n": 38,
+   "tier": "Tier 3",
+   "q": "Which non-electrolyte cramp intervention has the clearest efficacy, and why is it not used?",
+   "options": [
+    "Vitamin K2, now standard care",
+    "Quinine, which cuts cramp number 28 % but is restricted for rare serious toxicity",
+    "Calf stretching before exercise",
+    "TRP-agonist drinks"
+   ],
+   "a": 1,
+   "why": "The 2024 vitamin K2 trial was retracted and replaced; the TRP-agonist drink has one conflicted positive and one independent near-null."
+  },
+  {
+   "n": 39,
+   "tier": "Tier 3",
+   "q": "Which potassium salts carry the bone and kidney-stone benefits?",
+   "options": [
+    "All potassium salts equally",
+    "Potassium chloride specifically",
+    "Citrate and bicarbonate at prescription doses in specific patients, not the chloride in electrolyte mixes",
+    "None; the benefits are mythical"
+   ],
+   "a": 2,
+   "why": "Two years of potassium citrate in 276 postmenopausal women changed neither bone turnover nor density; citrate cut stones in hypocitraturic formers."
+  },
+  {
+   "n": 40,
+   "tier": "Tier 4",
+   "q": "What does 'cellular transport technology' actually describe?",
+   "options": [
+    "A patented molecule that enters cells",
+    "A proven performance aid",
+    "A way to hydrate without drinking",
+    "Why oral rehydration solution cuts intravenous drips in children with diarrhoea, not a benefit at breakfast"
+   ],
+   "a": 3,
+   "why": "Gatorade measured 327 mOsm/kg, hypertonic under the convention; hypotonic drinks preserved plasma volume best during exercise."
+  },
+  {
+   "n": 41,
+   "tier": "Tier 4",
+   "q": "What is the evidence that water first thing in the morning boosts metabolism and flushes toxins?",
+   "options": [
+    "One unreplicated 14-person study worth about 24 kcal per 500 mL, and no toxin study at all",
+    "Dozens of trials",
+    "A Cochrane review",
+    "Strong evidence in athletes"
+   ],
+   "a": 0,
+   "why": "A better-controlled crossover found no thermogenesis after distilled water or saline, only after sucrose; extra water dilutes urine."
+  },
+  {
+   "n": 42,
+   "tier": "Tier 4",
+   "q": "Why is over-the-counter potassium capped near 99 mg per solid dose?",
+   "options": [
+    "Because 100 mg of potassium is toxic",
+    "Because solid potassium chloride tablets ulcerated and perforated the small bowel; it is a dosage-form rule, not a dose hazard",
+    "Because potassium causes cramps",
+    "Because of a WHO limit"
+   ],
+   "a": 1,
+   "why": "Dissolved potassium in water is a banana's worth; the citrate 'buffer' claim borrows from a 22 g bicarbonate protocol."
+  },
+  {
+   "n": 43,
+   "tier": "Practical",
+   "q": "What does a 1,000 mg sodium sachet do to a typical US day's intake?",
+   "options": [
+    "Takes it to the WHO target",
+    "Changes it by under 1 %",
+    "Takes 3,608 mg to 4,608 mg, twice the 2,300 mg chronic disease risk reduction intake, adding 28 % to a 9 g salt day",
+    "Halves it"
+   ],
+   "a": 2,
+   "why": "It is 43.5 mmol, about 140 % of an overnight urinary output that was disposal of intake, and it lands inside PURE's disputed reference band."
+  },
+  {
+   "n": 44,
+   "tier": "Practical",
+   "q": "If you keep the drink, how should you mix one stick?",
+   "options": [
+    "In 100 mL as a concentrated shot",
+    "In 5 L to dilute the sodium",
+    "Dry, without water",
+    "In at least 500 mL, where it is hypotonic; in 250 mL it is hypertonic and pulls fluid into the gut"
+   ],
+   "a": 3,
+   "why": "Keep total supplemental magnesium under 250 to 350 mg, and treat added potassium as a drug if kidneys or RAAS-blocking drugs are involved."
+  },
+  {
+   "n": 45,
+   "tier": "Practical",
+   "q": "What are the real levers for a better sodium-to-potassium ratio?",
+   "options": [
+    "Less sodium and one to two servings of potassium-dense food; potato potassium is as bioavailable as a supplement",
+    "A 200 mg potassium sachet",
+    "A sweat test",
+    "Drinking more water"
+   ],
+   "a": 0,
+   "why": "A sweat test is worth doing only in the long, hot, salty, high-replacement corner, and a patch cannot measure sweat rate."
+  }
+ ]
+}

@@ -152,6 +152,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](olive-oil-oleocanthal.md)
 
+-   :material-cup-water:{ .lg .middle } __Electrolytes & Morning Hydration: What They Actually Do vs What People Think__
+
+    ---
+
+    Hypotonic salt water with a small, real magnesium top-up, sold on a rationale the physiology does not support. A 24-hour fast lowers urinary sodium rather than raising it; the sodium J-curve comes from spot-urine formulas that over-estimate intake by 1,297 mg a day; neither salt nor magnesium prevents cramps; "hydrates better than water" means 300 mL less urine from a litre you did not need. **341 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](electrolytes.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

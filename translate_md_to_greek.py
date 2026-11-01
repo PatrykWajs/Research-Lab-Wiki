@@ -22,6 +22,7 @@ PAGES = {
     # 2026-09-28: new Chewing Gum page + index card only (everything else already translated).
     # 2026-10-18: new Ginger page + index card only (everything else already translated).
     # 2026-10-25: Olive Oil page is translated by build/build_el_elaiolado.py; PAGES = index card only.
+    # 2026-11-01: Electrolytes page is translated by build/build_el_ilektrolytes.py; PAGES = index card only.
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -41,6 +42,7 @@ PAGES = {
         "](lycopene.md)":             "](lykopenio.md)",
         "](ginger.md)":               "](tzinzer-ginger.md)",
         "](olive-oil-oleocanthal.md)": "](elaiolado-kai-elaiokanthali.md)",
+        "](electrolytes.md)":         "](ilektrolytes-kai-proini-enydatosi.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
