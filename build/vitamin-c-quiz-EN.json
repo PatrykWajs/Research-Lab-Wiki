@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "n": 1,
+   "tier": "Tier 1",
+   "q": "In the NIH depletion-repletion study, what happened to fasting plasma vitamin C when the daily dose rose from 200 to 2,500 mg?",
+   "options": [
+    "It rose only from about 68 to 85 µmol/L",
+    "It roughly doubled",
+    "It rose tenfold, in proportion to the dose",
+    "It fell, because high doses are toxic to the transporter"
+   ],
+   "a": 0,
+   "why": "The curve is sigmoid: 200 mg is the first dose beyond the steep part, complete plasma saturation comes at 1,000 mg, and the plateau has a shallow slope."
+  },
+  {
+   "n": 2,
+   "tier": "Tier 1",
+   "q": "At what daily intake were neutrophils, monocytes and lymphocytes saturated with vitamin C in men?",
+   "options": [
+    "About 1,000 mg a day",
+    "About 100 mg a day, at 14 times the plasma concentration",
+    "About 2,300 mg a day, Pauling's optimum",
+    "They never saturate; more always enters"
+   ],
+   "a": 1,
+   "why": "Women's plasma and cells saturated at 400 mg; the immune cells the marketing talks about are full at food intake."
+  },
+  {
+   "n": 3,
+   "tier": "Tier 1",
+   "q": "What happens to a single oral dose of vitamin C above about 500 mg?",
+   "options": [
+    "It is stored in the liver for later",
+    "It is fully absorbed and raises tissue stores proportionally",
+    "Absorption falls and the absorbed surplus is excreted once plasma passes the renal threshold",
+    "It is converted to vitamin E"
+   ],
+   "a": 2,
+   "why": "The renal threshold sits near 86 µmol/L in men and 72 in women; at pharmacological levels clearance approaches the glomerular filtration rate."
+  },
+  {
+   "n": 4,
+   "tier": "Tier 1",
+   "q": "What peak plasma level does 1.25 g of vitamin C produce by mouth, and by vein?",
+   "options": [
+    "The same, about 500 µmol/L either way",
+    "About 885 by mouth and 135 by vein",
+    "About 13,400 µmol/L either way",
+    "About 135 µmol/L by mouth and about 885 by vein"
+   ],
+   "a": 3,
+   "why": "The maximum tolerable oral regimen is modelled to top out near 220 µmol/L against 13,400 for 50 g intravenously; oral and intravenous vitamin C are different drugs."
+  },
+  {
+   "n": 5,
+   "tier": "Tier 1",
+   "q": "How does kiwifruit-derived vitamin C compare with synthetic ascorbic acid in steady-state human studies?",
+   "options": [
+    "They are identical in plasma, white cells and muscle",
+    "Kiwifruit vitamin C is absorbed about 35 % better",
+    "Synthetic is absorbed better because it has no fibre",
+    "Kiwifruit vitamin C is retained three times longer"
+   ],
+   "a": 0,
+   "why": "The 35 % bioflavonoid claim is one eight-person single-dose study from 1988; every steady-state comparison finds no difference."
+  },
+  {
+   "n": 6,
+   "tier": "Tier 1",
+   "q": "What does Cochrane find for daily vitamin C and colds in the general community?",
+   "options": [
+    "Half as many colds",
+    "Incidence RR 0.97 (0.94 to 1.00), colds about 8 % shorter in adults, and no consistent effect when started at onset",
+    "Colds prevented entirely at 1 g a day",
+    "Colds a third shorter when started at the first sneeze"
+   ],
+   "a": 1,
+   "why": "In 10,708 community participants the incidence effect is near nothing; the duration effect needs daily use all season."
+  },
+  {
+   "n": 7,
+   "tier": "Tier 1",
+   "q": "In which group did vitamin C halve the rate of colds?",
+   "options": [
+    "Office workers in winter",
+    "Children in daycare",
+    "598 marathon runners, skiers and sub-arctic soldiers under brief heavy exertion, in small old trials",
+    "Everyone who took at least 1 g a day"
+   ],
+   "a": 2,
+   "why": "The subgroup RR is 0.48 (0.35 to 0.64); a 674-recruit trial at 2 g a day was null, so the pattern is not universal."
+  },
+  {
+   "n": 8,
+   "tier": "Tier 1",
+   "q": "On what did Linus Pauling base his 2.3 g a day optimum?",
+   "options": [
+    "A randomised trial he ran in 1970",
+    "The NIH saturation studies",
+    "Measured leukocyte ascorbate in his own laboratory",
+    "An evolutionary argument about ancestral diets and the synthesis rate of animals that make their own vitamin C"
+   ],
+   "a": 3,
+   "why": "He also pooled four small pre-1970 trials and proposed a 250 to 4,000 mg band; he ran no cold trial, and the 2,349-person Toronto trial found no dose-response."
+  },
+  {
+   "n": 9,
+   "tier": "Tier 1",
+   "q": "What did 500 mg of vitamin C a day do to cardiovascular events, cancer and mortality over eight to nine years in 22,812 people?",
+   "options": [
+    "Nothing: events HR 0.99 and RR 1.02, cancer 1.01, cataract 1.02, mortality 1.07",
+    "Cut events by a fifth",
+    "Cut cancer by a third",
+    "Raised mortality significantly"
+   ],
+   "a": 0,
+   "why": "The Physicians' Health Study II and the Women's Antioxidant Cardiovascular Study are the two trials that tested exactly this decision."
+  },
+  {
+   "n": 10,
+   "tier": "Tier 1",
+   "q": "Does vitamin C alone carry the mortality signal seen for antioxidant supplements as a class?",
+   "options": [
+    "Yes, it raises mortality 5 %",
+    "No: RR 1.02 (0.98 to 1.07) across 29 low-bias trials; the signal comes from β-carotene, vitamin A and vitamin E",
+    "Yes, it lowers mortality 10 %",
+    "The question has never been studied"
+   ],
+   "a": 1,
+   "why": "The 2007 and 2012 antioxidant meta-analyses both clear vitamin C in either direction."
+  },
+  {
+   "n": 11,
+   "tier": "Tier 1",
+   "q": "How much extra urinary oxalate does 1,000 mg of ascorbic acid produce?",
+   "options": [
+    "None; the oxalate rise is an assay artefact",
+    "About 500 mg, complete conversion",
+    "About 6 to 13 mg a day, 1.2 to 1.8 % of the dose's millimoles, in stone formers and non-formers alike",
+    "About 1 mg, too little to measure"
+   ],
+   "a": 2,
+   "why": "Controlled studies with preservatives, EDTA and isotopes excluded in-vitro conversion and still found 20 to 60 % rises at 1 to 2 g."
+  },
+  {
+   "n": 12,
+   "tier": "Tier 1",
+   "q": "What did the large cohorts find for kidney stones and vitamin C intake?",
+   "options": [
+    "Everyone at 1,000 mg had twice the stones",
+    "No association in anyone",
+    "Women at 1,000 mg had more stones, men did not",
+    "Men at 1,000 mg or more had about 40 to 90 % more symptomatic stones; women showed nothing, and food-only intake nothing in either sex"
+   ],
+   "a": 3,
+   "why": "HPFS RR 1.41, the pooled Harvard cohorts HR 1.43, Swedish supplement users HR 1.92; about one extra stone per 80 men a decade."
+  },
+  {
+   "n": 13,
+   "tier": "Tier 1",
+   "q": "What do the famous 'antioxidants blunt training' trials have in common?",
+   "options": [
+    "They combined vitamin C with vitamin E, and pooled across 18 trials the combination changed neither VO2max, endurance, lean mass nor strength",
+    "They all used vitamin C alone at 200 mg",
+    "They all found VO2max gains halved",
+    "They were all in elite athletes"
+   ],
+   "a": 0,
+   "why": "Ristow, Paulsen, Bjørnsen and Morrison all used C plus E; the vitamin-C-only training evidence is thin in both directions."
+  },
+  {
+   "n": 14,
+   "tier": "Tier 1",
+   "q": "How much do antioxidant supplements reduce muscle soreness?",
+   "options": [
+    "By about half",
+    "About 0.2 to 0.5 cm on a 10 cm scale, below the 1.4 cm a person can notice",
+    "By 3 to 4 cm on a 10 cm scale",
+    "They abolish soreness at 3 g a day"
+   ],
+   "a": 1,
+   "why": "Across 50 trials the effect is statistically detectable and not noticeable; vitamin C alone protected neither force nor range of motion."
+  },
+  {
+   "n": 15,
+   "tier": "Tier 1",
+   "q": "What happened in the only randomised blinded trials of oral vitamin C megadoses?",
+   "options": [
+    "Survival quadrupled, as Pauling had reported",
+    "COVID symptoms resolved two days sooner",
+    "They were null: 10 g a day in 250 cancer patients and 8 g a day in 214 COVID-19 outpatients",
+    "They were stopped early for benefit"
+   ],
+   "a": 2,
+   "why": "The Mayo trials found overlapping survival curves; COVID A to Z found 5.5 against 6.7 days to half-symptom reduction, P = .45."
+  },
+  {
+   "n": 16,
+   "tier": "Tier 1",
+   "q": "What did the LOVIT trial find for intravenous vitamin C in 872 septic adults?",
+   "options": [
+    "Mortality cut from 40 % to 8 %",
+    "No difference in anything",
+    "Faster recovery with no harm",
+    "More death or persistent organ dysfunction, 44.5 % against 38.5 %, RR 1.21"
+   ],
+   "a": 3,
+   "why": "The 2,590-patient COVID-19 trials were also stopped for harm and futility; the HAT-protocol trials were null."
+  },
+  {
+   "n": 17,
+   "tier": "Tier 2",
+   "q": "What happened when smokers took 1 g of vitamin C a day for eight weeks after a single 2 g dose had improved their artery dilation?",
+   "options": [
+    "Plasma stayed at 92 µmol/L and dilation was back to 3.9 %, no sustained effect",
+    "Dilation kept improving month by month",
+    "Plasma fell below baseline",
+    "Dilation improved only in non-smokers"
+   ],
+   "a": 0,
+   "why": "Acute doses and infusions dilate sick arteries for a couple of hours; the chronic-only pooled effect is SMD 0.25 with a lower bound of 0.02."
+  },
+  {
+   "n": 18,
+   "tier": "Tier 2",
+   "q": "What does vitamin C do to blood pressure?",
+   "options": [
+    "A 15 mmHg fall that persists for years",
+    "About 4/1.5 mmHg lower in eight-week trials at 500 mg, more in hypertensives, and nothing over five years",
+    "Nothing at any dose or duration",
+    "A rise in hypertensives"
+   ],
+   "a": 1,
+   "why": "The only five-year trial found identical rises on 500 and 50 mg a day, and no trial links the short-term fall to events."
+  },
+  {
+   "n": 19,
+   "tier": "Tier 2",
+   "q": "What blunted the HDL rise from simvastatin plus niacin in the HATS trial?",
+   "options": [
+    "Vitamin C alone at 500 mg",
+    "Vitamin E alone",
+    "A cocktail of vitamins E and C with β-carotene and selenium, so vitamin C cannot be singled out",
+    "The niacin itself"
+   ],
+   "a": 2,
+   "why": "Lipid effects of vitamin C are inconsistent: LDL −7.9 mg/dL in hypercholesterolaemic patients against an overall null in the larger synthesis."
+  },
+  {
+   "n": 20,
+   "tier": "Tier 2",
+   "q": "Why does the 20 % lower mortality per 20 µmol/L of plasma vitamin C not argue for a pill?",
+   "options": [
+    "Because it was measured only in smokers",
+    "Because it reversed in women",
+    "Because the pill raised mortality in the same cohort",
+    "It is strongest in blood and weakest as intake, null in Mendelian randomisation, and read by its own authors as a fruit-and-vegetable marker"
+   ],
+   "a": 3,
+   "why": "Being the kind of person with high plasma ascorbate is not the same as swallowing ascorbate; the pill has never reproduced the gradient."
+  },
+  {
+   "n": 21,
+   "tier": "Tier 2",
+   "q": "Who gained measurable performance from 1 g of vitamin C a day for 30 days?",
+   "options": [
+    "Men selected for the lowest plasma ascorbate, who gained 5.4 mL/kg/min of VO2max and 18.7 Nm of torque",
+    "Replete athletes",
+    "Everyone in the trial",
+    "Nobody"
+   ],
+   "a": 0,
+   "why": "This is repletion: low status, not high dose, is what the pill moves, and a 2026 n-of-1 series found no true responder structure."
+  },
+  {
+   "n": 22,
+   "tier": "Tier 2",
+   "q": "What is the one outcome-level cost shown for 1 g of vitamin C with vitamin E during resistance training?",
+   "options": [
+    "Halved strength gains in young men",
+    "Lean-mass gain of 1.4 % against 3.9 % in 60- to 81-year-old men, with identical strength gains",
+    "Loss of muscle mass",
+    "No cost of any kind"
+   ],
+   "a": 1,
+   "why": "Marker blunting of PGC-1α, COX4 and SOD is real for the combination; Ristow's insulin-sensitivity result was not reproduced at 12 weeks."
+  },
+  {
+   "n": 23,
+   "tier": "Tier 2",
+   "q": "How strong is the human evidence that vitamin C alone blunts training adaptation?",
+   "options": [
+    "Overwhelming: dozens of trials",
+    "Settled by the rat studies",
+    "Thin in both directions: five supplemented men behind the founding paper, a null trial at 1 g, a 1.3 ± 1.3 % effect and no trial at 200 mg",
+    "Settled by Cochrane"
+   ],
+   "a": 2,
+   "why": "Rats synthesise their own ascorbate and showed no blunting at 50 times the human dose; the textbook mechanism is chemically contested."
+  },
+  {
+   "n": 24,
+   "tier": "Tier 2",
+   "q": "What happened to the ultramarathon cortisol-attenuation finding in the largest, carbohydrate-fed, double-blind trial at the same 1,500 mg dose?",
+   "options": [
+    "It doubled in size",
+    "It appeared only at 500 mg",
+    "It was confirmed in every outcome",
+    "It did not replicate: no effect on cortisol, cytokines, immune cells or oxidative markers"
+   ],
+   "a": 3,
+   "why": "The attenuation sits in three small South African studies; a 48 % smaller FEV1 fall in exercise-induced bronchoconstriction comes from 40 people."
+  },
+  {
+   "n": 25,
+   "tier": "Tier 2",
+   "q": "What share of US adults is biochemically deficient in vitamin C, and how has it changed?",
+   "options": [
+    "About 7 %, unchanged between 2003 and 2018",
+    "About 30 % and rising",
+    "Under 1 %",
+    "About 50 %"
+   ],
+   "a": 0,
+   "why": "A quarter of low-income British men were deficient; inpatients run 28 %; produce three or more times a day kept Glasgow adults above the line."
+  },
+  {
+   "n": 26,
+   "tier": "Tier 2",
+   "q": "How much vitamin C do smokers and people over about 100 kg need to reach the same plasma level as others?",
+   "options": [
+    "The same 90 mg",
+    "Roughly double: about 165 mg a day for smokers and 155 for the heavy, against 110 for everyone else",
+    "About 1,000 mg",
+    "Half as much, because they absorb more"
+   ],
+   "a": 1,
+   "why": "Radiotracer turnover shows smokers need at least 140 mg against about 100; their plasma runs a third lower at population level."
+  },
+  {
+   "n": 27,
+   "tier": "Tier 2",
+   "q": "What range does the expert requirement debate span, and why?",
+   "options": [
+    "500 to 2,000 mg a day",
+    "10 to 40 mg a day",
+    "75 to 200 mg a day, from leukocyte saturation, a 50 µmol/L mass balance and the plasma curve, all on the same data",
+    "2 to 8 g a day"
+   ],
+   "a": 2,
+   "why": "Every camp's number is reachable from food; no camp argues for more than 200 mg on pharmacokinetic grounds."
+  },
+  {
+   "n": 28,
+   "tier": "Tier 2",
+   "q": "Which plasma bands define vitamin C status, and what is the valid test?",
+   "options": [
+    "Deficient below 100 µmol/L; a urine dipstick",
+    "Deficient below 50 µmol/L; a saliva test",
+    "There are no agreed bands",
+    "Deficient below 11.4 µmol/L, marginal at or below 23, adequate at or above 50, saturating above 65; fasting plasma in a promptly stabilised EDTA tube"
+   ],
+   "a": 3,
+   "why": "Plasma tracked intake with less variability than cells; urine and saliva were useless; unstabilised samples under-read."
+  },
+  {
+   "n": 29,
+   "tier": "Tier 2",
+   "q": "What is the honest summary of Ester-C and liposomal vitamin C?",
+   "options": [
+    "Ester-C matches plain ascorbate in plasma and is gentler on the stomach; liposomal forms raise a single dose's exposure and nobody has measured whether the extra is kept",
+    "Both double tissue stores",
+    "Both are absorbed worse than plain ascorbic acid",
+    "Both have been shown to prevent colds"
+   ],
+   "a": 0,
+   "why": "The leukocyte claims come from manufacturer-run single-dose studies; the independent 250 mg comparison found no difference."
+  },
+  {
+   "n": 30,
+   "tier": "Tier 2",
+   "q": "How much vitamin C in a meal maximises non-haem iron absorption, and does the effect hold across a whole diet?",
+   "options": [
+    "At least 1,000 mg; the effect is large everywhere",
+    "About 50 mg per meal; across a whole diet the effect is small, and adding it to iron tablets adds nothing",
+    "None; vitamin C blocks iron",
+    "About 500 mg; it doubles iron stores"
+   ],
+   "a": 1,
+   "why": "Food ascorbate equals crystals for iron; diagnosed iron overload is a precautionary reason to avoid supplements."
+  },
+  {
+   "n": 31,
+   "tier": "Tier 2",
+   "q": "What is the state of the evidence for intravenous vitamin C in cancer?",
+   "options": [
+    "Proven to double survival in every cancer",
+    "Disproven entirely",
+    "A reproducible millimolar peroxide mechanism, zero single-agent responses in phase I, and one open-label 34-patient randomised trial awaiting replication",
+    "Approved as standard first-line therapy"
+   ],
+   "a": 2,
+   "why": "Four systematic reviews split on tone and agree there is no high-quality evidence of benefit; practitioners treat about 11,000 patients a year."
+  },
+  {
+   "n": 32,
+   "tier": "Tier 2",
+   "q": "What does it take for vitamin C to cause oxalate nephropathy?",
+   "options": [
+    "Any dose above 100 mg",
+    "Only doses above 10 g a day",
+    "It has never happened",
+    "Usually two of three: intravenous grams, kidneys that cannot clear oxalate, or a gut that over-absorbs it"
+   ],
+   "a": 3,
+   "why": "Oral cases carry the second factor, at doses as low as 680 mg with chronic diarrhoea or 4 g on dialysis."
+  },
+  {
+   "n": 33,
+   "tier": "Tier 3",
+   "q": "What does 500 mg of vitamin C a day do to serum urate?",
+   "options": [
+    "Lowers it about 0.35 mg/dL in healthy people and trivially in gout, where allopurinol lowered it eight times as much",
+    "Raises it",
+    "Lowers it as much as allopurinol",
+    "Nothing at all"
+   ],
+   "a": 0,
+   "why": "The gout-prevention association (RR 0.55 at 1,500 mg) is observational and untested in a trial."
+  },
+  {
+   "n": 34,
+   "tier": "Tier 3",
+   "q": "How certain is the glucose benefit of vitamin C in type 2 diabetes?",
+   "options": [
+    "Settled: it lowers HbA1c 2 %",
+    "Small short trials show glucose and blood-pressure signals at 1,000 mg; the HbA1c estimate is graded very low certainty, and non-diabetics show nothing",
+    "Settled: it has no effect",
+    "Settled: it raises glucose"
+   ],
+   "a": 1,
+   "why": "One cohort of diabetic women showed higher cardiovascular mortality with supplemental vitamin C, so the question is open in both directions."
+  },
+  {
+   "n": 35,
+   "tier": "Tier 3",
+   "q": "What is the evidence that vitamin C prevents pneumonia?",
+   "options": [
+    "A dozen large modern trials",
+    "The LOVIT trial",
+    "Three small trials with 37 events in 1940s to 1970s recruits and schoolboys, rated too weak for general use; the one good treatment trial used 200 mg in depleted elderly inpatients",
+    "The Toronto trial"
+   ],
+   "a": 2,
+   "why": "The treatment result is repletion in sick, depleted people, not a megadose effect."
+  },
+  {
+   "n": 36,
+   "tier": "Tier 3",
+   "q": "What is the 6 to 8 g dose-response hypothesis for colds based on?",
+   "options": [
+    "A 2020 Cochrane review",
+    "The NIH saturation studies",
+    "A trial in 10,000 soldiers",
+    "Two 1970s trials whose own authors concluded the opposite, with no modern blinded test and two supporting meta-analyses retracted"
+   ],
+   "a": 3,
+   "why": "Karlowski attributed the effect to a broken blind; the Toronto authors found no dose-response and put the optimum below 250 mg."
+  },
+  {
+   "n": 37,
+   "tier": "Tier 3",
+   "q": "Why can the ASAP, WAVE and HATS trials not tell you what vitamin C does?",
+   "options": [
+    "They combined it with vitamin E and other antioxidants, so no effect can be attributed to vitamin C alone",
+    "They used too little vitamin C to matter",
+    "They were all in children",
+    "They never measured vitamin C"
+   ],
+   "a": 0,
+   "why": "HOPE and HOPE-TOO, often cited as vitamin C trials, contained no vitamin C at all."
+  },
+  {
+   "n": 38,
+   "tier": "Tier 3",
+   "q": "What did the human iron-plus-vitamin C study show about pro-oxidant DNA damage?",
+   "options": [
+    "Permanent doubling of DNA damage",
+    "A transient, baseline-dependent rise in some oxidised bases at six weeks that normalised by twelve",
+    "No measurement was possible",
+    "A fall in all oxidised bases at every dose"
+   ],
+   "a": 1,
+   "why": "Lipid peroxidation did not change at any oral dose in women held at steady state; no clinical harm has been tied to pro-oxidant chemistry."
+  },
+  {
+   "n": 39,
+   "tier": "Tier 4",
+   "q": "What is the evidence for 'rebound scurvy' after stopping high-dose vitamin C?",
+   "options": [
+    "Hundreds of hospital cases",
+    "A Cochrane review",
+    "Two subjects whose urinary ascorbate dipped below baseline for 10 to 12 days, in a hypotheses journal; no clinical case",
+    "A randomised withdrawal trial"
+   ],
+   "a": 2,
+   "why": "The B12-destruction claim was an assay artefact refuted in 1976 and the warfarin interaction is one 1971 case against a 1975 negative study."
+  },
+  {
+   "n": 40,
+   "tier": "Tier 4",
+   "q": "Does vitamin C prevent cataract, macular degeneration or dementia?",
+   "options": [
+    "Yes, all three",
+    "Yes for cataract only",
+    "Yes for dementia only",
+    "No: cataract HR 1.02, AMD RR 0.96 with high certainty, vitamin C alone null for Alzheimer's, and 25 % more cataract surgery in Swedish women on about a gram"
+   ],
+   "a": 3,
+   "why": "The AREDS benefit is for established macular degeneration with zinc added, not prevention."
+  },
+  {
+   "n": 41,
+   "tier": "Tier 4",
+   "q": "What does the eightfold collagen rise with vitamin C come from?",
+   "options": [
+    "Cultured fibroblasts that started with no ascorbate at all; no oral trial links extra vitamin C to skin or collagen outcomes in replete adults",
+    "A trial in 500 adults taking 1 g a day",
+    "A wound-healing trial of vitamin C alone",
+    "Topical trials in smokers"
+   ],
+   "a": 0,
+   "why": "The hydroxylase cofactor role saturates at tissue concentrations that food reaches."
+  },
+  {
+   "n": 42,
+   "tier": "Tier 4",
+   "q": "What is the 2,000 mg upper level based on, and what does it miss?",
+   "options": [
+    "Kidney-stone data from 2016",
+    "Osmotic diarrhoea, set in 2000 and defended by the supplement trade association; it predates the men's stone cohorts, whose signal sits below it",
+    "The LOVIT trial",
+    "Leukocyte saturation"
+   ],
+   "a": 1,
+   "why": "The NIH group set its own safe line below 1,000 mg on oxalate and urate excretion."
+  },
+  {
+   "n": 43,
+   "tier": "Practical",
+   "q": "For a non-smoking adult who eats produce several times a day, what does a vitamin C pill add?",
+   "options": [
+    "A doubling of tissue stores",
+    "Protection from colds",
+    "About 10 µmol/L of plasma and a few hours of higher urinary output",
+    "A lower stone risk"
+   ],
+   "a": 2,
+   "why": "Two gold kiwifruit, or a red pepper with an orange, reach the 200 mg first dose beyond the curve; boiling vegetables costs 20 to 60 %."
+  },
+  {
+   "n": 44,
+   "tier": "Practical",
+   "q": "When does the 'get it from food' rule bend, and to what dose?",
+   "options": [
+    "For everyone in winter, at 1,000 mg",
+    "Never",
+    "For athletes, at 3 g a day",
+    "For status, not dose: smokers, people over about 100 kg, low-produce eaters and anyone below 50 µmol/L are repletion cases at 100 to 200 mg; any pill belongs at 200 to 400 mg"
+   ],
+   "a": 3,
+   "why": "The one defensible pill use case is a short 0.5 to 1 g course around an ultramarathon or ski camp; not with vitamin E at 1 g during training."
+  },
+  {
+   "n": 45,
+   "tier": "Practical",
+   "q": "Who should never take gram doses of vitamin C?",
+   "options": [
+    "Anyone with a prior calcium-oxalate stone, kidney disease or dialysis, malabsorption, chronic diarrhoea, G6PD deficiency (for infusions), iron overload, or on chemotherapy without the oncologist's agreement",
+    "Only children",
+    "Only people on warfarin",
+    "Nobody; it is water-soluble"
+   ],
+   "a": 0,
+   "why": "To know rather than guess, a fasting plasma ascorbate in a promptly stabilised EDTA tube at or above 50 µmol/L is adequate and above 65 saturating."
+  }
+ ]
+}

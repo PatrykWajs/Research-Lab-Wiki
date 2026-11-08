@@ -160,6 +160,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](electrolytes.md)
 
+-   :material-pill:{ .lg .middle } __Vitamin C: What It Actually Does vs What People Think__
+
+    ---
+
+    A 200 mg nutrient sold as a gram-dose medicine. Plasma saturates at food doses (68 µmol/L on 200 mg, 85 on 2,500); daily vitamin C does not prevent colds and shortens them about 8 %; 500 mg a day for eight to nine years in 22,812 people changed no cardiovascular, cancer or mortality outcome; men taking a gram a day have 40 to 90 % more kidney stones; intravenous vitamin C harmed septic and COVID-19 patients. **329 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](vitamin-c.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

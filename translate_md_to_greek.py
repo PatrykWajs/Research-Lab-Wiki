@@ -23,6 +23,7 @@ PAGES = {
     # 2026-10-18: new Ginger page + index card only (everything else already translated).
     # 2026-10-25: Olive Oil page is translated by build/build_el_elaiolado.py; PAGES = index card only.
     # 2026-11-01: Electrolytes page is translated by build/build_el_ilektrolytes.py; PAGES = index card only.
+    # 2026-11-08: Vitamin C page is translated by build/build_el_vitamini_c.py; PAGES = index card only.
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -43,6 +44,7 @@ PAGES = {
         "](ginger.md)":               "](tzinzer-ginger.md)",
         "](olive-oil-oleocanthal.md)": "](elaiolado-kai-elaiokanthali.md)",
         "](electrolytes.md)":         "](ilektrolytes-kai-proini-enydatosi.md)",
+        "](vitamin-c.md)":            "](vitamini-c.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -229,7 +231,44 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "carbendazim", "difenoconazole", "metabisulfite", "alloxan", "streptozotocin", "fructose", "geraniol",
     "Chen", "Ebrahimzadeh", "Jalali", "Maharlouei", "May", "Mazidi", "Mohammad", "Morvaridzadeh",
     "Musazadeh", "October", "Rjabi", "Schumacher", "Zhu", "Zick", "Zhou", "Lage",
-    "Abuznait", "Agrawal", "Beauchamp", "Hernáez", "Kaddoumi", "Katsa", "Valls", "Folin", "Folin-Ciocalteu", "EUROLIVE", "CORDIOPREV", "PREDIMED", "PREDIMED-Plus", "PREDIMED-Navarra", "PREDIMED-Barcelona", "PREDIMED-Reus", "OLIVAUS", "VOHF", "SOLOS", "VOLOS", "APRIL", "MICOIL", "MIND", "MedLey", "OmniHeart", "DIVAS", "Lyon", "Moli-sani", "Three-City", "EPIC-Spain", "SUN", "Koroneiki", "Hojiblanca", "Patrimonio Comunal Olivarero", "Cobram Estate", "Cobram", "Oleolive", "Monell", "Wageningen", "Chalkidiki", "Picual", "Arbequina", "Kalamon", "EVOO", "EVOOs", "VOO", "IOC", "NCBI", "NEJM", "BMJ", "hTRPA1", "TRPV1", "LRP1", "P-glycoprotein", "NLRP3", "eNOS", "NOS2", "NOX2", "NOx", "mPGES-1", "MIP-1α", "MAPK", "ADAMTS-5", "MMP-13", "GM-CSF", "CYP2A6", "oxLDL", "apoA1", "apoB-48", "hsCRP", "IL-10", "RHI", "EndoPAT", "VLDL", "qNMR", "UHPLC", "LC-MS", "FT-NIR", "MOSH", "MOAH", "PAH", "3-MCPD", "TBARS", "GPx1", "ADP", "TRAP", "CDR-SOB", "MCI", "TgSwDI", "TgCRND8", "hTau", "3xTg", "Glu298Asp", "K18", "Tris", "EGCG", "GIP", "DPP-4", "VTE", "NNT"
+    "Abuznait", "Agrawal", "Beauchamp", "Hernáez", "Kaddoumi", "Katsa", "Valls", "Folin", "Folin-Ciocalteu", "EUROLIVE", "CORDIOPREV", "PREDIMED", "PREDIMED-Plus", "PREDIMED-Navarra", "PREDIMED-Barcelona", "PREDIMED-Reus", "OLIVAUS", "VOHF", "SOLOS", "VOLOS", "APRIL", "MICOIL", "MIND", "MedLey", "OmniHeart", "DIVAS", "Lyon", "Moli-sani", "Three-City", "EPIC-Spain", "SUN", "Koroneiki", "Hojiblanca", "Patrimonio Comunal Olivarero", "Cobram Estate", "Cobram", "Oleolive", "Monell", "Wageningen", "Chalkidiki", "Picual", "Arbequina", "Kalamon", "EVOO", "EVOOs", "VOO", "IOC", "NCBI", "NEJM", "BMJ", "hTRPA1", "TRPV1", "LRP1", "P-glycoprotein", "NLRP3", "eNOS", "NOS2", "NOX2", "NOx", "mPGES-1", "MIP-1α", "MAPK", "ADAMTS-5", "MMP-13", "GM-CSF", "CYP2A6", "oxLDL", "apoA1", "apoB-48", "hsCRP", "IL-10", "RHI", "EndoPAT", "VLDL", "qNMR", "UHPLC", "LC-MS", "FT-NIR", "MOSH", "MOAH", "PAH", "3-MCPD", "TBARS", "GPx1", "ADP", "TRAP", "CDR-SOB", "MCI", "TgSwDI", "TgCRND8", "hTau", "3xTg", "Glu298Asp", "K18", "Tris", "EGCG", "GIP", "DPP-4", "VTE", "NNT",
+    # vitamin C page (2026-11-08): trial names, author surnames, institutions, funders, transporters, acronyms (all >=3 chars; no English function words)
+    "Pauling", "Padayatty", "Karlowski", "Anderson", "Chalmers", "Dykes", "Meier", "Ristow", "Paulsen", "Bjørnsen",
+    "Bjornsen", "Morrison", "Yfanti", "Gomez-Cabrera", "Roberts", "Braakhuis", "Khassaf", "Margaritelis", "LOVIT", "LOVIT-COVID",
+    "CITRIS-ALI", "VITAMINS", "ACTS", "ORANGES", "ATESS", "REMAP-CAP", "HAT", "PHS", "PHS II", "WACS",
+    "HPS", "HOPE", "HOPE-TOO", "SU.VI.MAX", "ASAP", "WAVE", "HATS", "Ferraro", "Taylor", "Curhan",
+    "Massey", "Traxer", "Baxmann", "Urivetzky", "Wandzilak", "Robitaille", "Knight", "Cameron", "Creagan", "Moertel",
+    "Yun", "Bodeker", "Furqan", "Marik", "Fowler", "Lamontagne", "Carr", "Vissers", "Lykkesfeldt", "Frei",
+    "Blanchard", "Graumlich", "Kallner", "Schleicher", "Wrieden", "Juraschek", "Stamp", "Rautiainen", "Christen", "Travica",
+    "Zandi", "Suh", "Ashor", "Mason", "Aune", "Jayedi", "Knekt", "Loria", "Enstrom", "Kobylecki",
+    "Sesso", "Gaziano", "Hercberg", "Salonen", "Waters", "Heitzer", "Taddei", "Hornig", "Raitakari", "Duffy",
+    "Nightingale", "Vinson", "Nelson", "Johnston", "Mitmesser", "Dickerson", "Gruenwald", "Calder", "Viscovich", "Hallberg",
+    "Murad", "Pullar", "Nishida", "Hagel", "Golder", "Rowe", "McCall", "Nursal", "Peters", "Nieman",
+    "Thompson", "Bryer", "Connolly", "Kaminski", "Ranchordas", "Clifford", "Merry", "Cobley", "Petersen", "Veskoukis",
+    "Higashida", "Wadley", "Strobel", "Theodorou", "Fischer", "Cumming", "Stunes", "Dutra", "Paschalis", "Nastos",
+    "Tsukaguchi", "Sotiriou", "Corpe", "Vera", "Rumsey", "Harrison", "Oreopoulos", "Jacob", "Omaye", "Brubacher",
+    "Monsen", "Michels", "Moyad", "Gopi", "Purpura", "Yung", "Bhagavan", "Nielsen", "Stephenson", "Hoffer",
+    "Monti", "Welsh", "Polireddy", "Schoenfeld", "Nauman", "Fritz", "Jacobs", "van Gorkom", "Gorkom", "Yeom",
+    "Vollbracht", "Zabet", "Hwang", "Iglesias", "Moskowitz", "Fujii", "Deng", "Lawton", "Cossey", "Rathi",
+    "Sunkara", "Fijen", "McHugh", "Buehner", "Juneja", "Jaffe", "Newmark", "Rosenthal", "Feetam", "Heaney",
+    "Podmore", "Poulsen", "Rehman", "Tsao", "Schrauzer", "Hunt", "Gerster", "McLaran", "Nienhuis", "Hathcock",
+    "Pitt", "Costrini", "Constantini", "Sasazuki", "Audera", "Douglas", "Abioye", "Majidi", "Rawat", "Olczak-Pruc",
+    "Van Straten", "Straten", "Braun", "Kantor", "Bozonet", "Herbert", "Comrades", "Toronto", "Mayo", "Otago",
+    "Deakin", "Newcastle", "Zespri", "Bayer", "Haleon", "dsm-firmenich", "Bountiful", "NBTY", "Roche", "Hoffmann-La Roche",
+    "Pascorbin", "Pascoe", "Ester-C", "SVCT1", "SVCT2", "GLUT1", "GLUT2", "GLUT3", "GLUT8", "PGC-1α",
+    "PGC-1β", "COX4", "SOD1", "SOD2", "TFAM", "HSP70", "HSP27", "Wingate", "RECIST", "SOFA",
+    "mSOFA", "ARDS", "G6PD", "RAAS", "KRAS", "BRAF", "GAPDH", "MONICA", "DGE", "NNR",
+    "AUA", "CDC", "USDA", "BH4", "L-NMMA", "JNK", "ERK", "ERK1/2", "p38", "NRF-1",
+    "NRF-2", "Tiselius", "PNAS", "JAMA", "Vale of Leven", "Glasgow", "Minnesota", "Arizona", "Iowa", "Kansas",
+    "Tehran", "Copenhagen", "Valencia", "Liverpool", "Kuopio", "Scranton", "Cape Town", "Christchurch", "Helsinki", "Oregon",
+    "Zurich", "Maastricht", "Ottawa", "Hopkins", "Harvard", "Cleveland", "Gatorade", "Isagenix", "SARS-CoV-2", "ME/CFS",
+    "Roux-en-Y", "Lp(A-I)", "HDL2", "HDL2-C", "HDL-C", "LDL-C", "apoE", "PFS", "ORR", "NSCLC",
+    "GBM", "Apc", "Kras", "Slc23a1", "Slc23a2", "K3-EDTA", "EDTA", "URTI", "ARI", "DXA",
+    "MRI", "MVC", "FSR", "HAD", "GSSG", "TGSH", "CuZnSOD", "TOHP", "Fenton", "Nurses' Health Study",
+    "Physicians' Health Study", "Health Professionals Follow-up Study", "Women's Antioxidant Cardiovascular Study", "Heart Protection Study", "Cache County", "Linus Pauling Institute", "Institute of Medicine", "Council for Responsible Nutrition", "Lotte and John Hecht Memorial Foundation", "McGuff",
+    "Alveda Pharma", "Galera", "Increnovo", "LipoVantage", "Curesupport", "ADSO", "Empirical Labs", "Nutritional Biomimetics", "Analyze & Realize", "Sunstar",
+    "Synlogic", "Oxidien", "Novome", "BioBridge", "Chinook", "Redoxon", "One A Day", "Nature's Bounty", "Centrum", "Centrum Silver",
+    "SunGold", "FoodData Central", "Kawasaki"
 ]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token
