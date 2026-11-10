@@ -34,11 +34,13 @@ QUIZ = re.compile(r'<div class="rlw-quiz".*?</div>\s*$', re.S | re.M)
 #  1. an English article or demonstrative that starts a sentence, a heading, a list item or the text after a bold
 #     label ("**Label.** The ..."), followed by any word;
 #  2. an English article ANYWHERE directly followed by a Greek word ("Η The μεγαλύτερη", "δοκιμής The ευνοούν").
-# Widened twice on 2026-11-10: the first form alone missed 14 live hits, and form 2 found 45 more mid-sentence.
+#  3. an English article before a number or an acronym ("The 2026 GRADE", "The EUROLIVE"), 21 hits found later.
+# Widened three times on 2026-11-10: the first form alone missed 14 live hits, form 2 found 45 more mid-sentence.
 LATIN_START = re.compile(
     r"(?:(?:^|[.;!?·:]\*{0,2}\s+|^\s*(?:[-*]|#+|\d+\.|\?{3}\s+\w+|!{3}\s+\w+)\s+|\|\s*|\*\*\s*|\"\s*)"
     r"(The|These|This|Those|An)\s+[A-Za-zΑ-Ωα-ωάέήίόύώ])"
     r"|(?<![A-Za-z])(The|These|This|Those|An|the)\s+(?=[Α-Ωα-ωάέήίόύώΆΈΉΊΌΎΏ])"
+    r"|(?<![A-Za-z])(The|These|This|Those|An)\s+(?=\d|[A-Z]{2,})"
 )
 
 
@@ -117,7 +119,7 @@ def check_pair(slug, el_name):
     hits = []
     for i, line in enumerate(prose_lines(el), 1):
         for m in LATIN_START.finditer(line):
-            hits.append(f"L{i}:{m.group(1) or m.group(2)}")
+            hits.append(f"L{i}:{m.group(1) or m.group(2) or m.group(3)}")
     if hits:
         fails.append(("latin", f"{len(hits)} English sentence starts, first: {hits[:6]}"))
 
