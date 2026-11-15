@@ -24,6 +24,7 @@ PAGES = {
     # 2026-10-25: Olive Oil page is translated by build/build_el_elaiolado.py; PAGES = index card only.
     # 2026-11-01: Electrolytes page is translated by build/build_el_ilektrolytes.py; PAGES = index card only.
     # 2026-11-08: Vitamin C page is translated by build/build_el_vitamini_c.py; PAGES = index card only.
+    # 2026-11-15: Cold Exposure page is translated by build/build_el_ekthesi_sto_kryo.py; PAGES = index card only.
     "index.md":     ("el/index.md", {
         "](bpa-thermal-receipts.md)": "](bpa-thermikes-apodeixeis.md)",
         "](collagen.md)":             "](kollagono.md)",
@@ -45,6 +46,7 @@ PAGES = {
         "](olive-oil-oleocanthal.md)": "](elaiolado-kai-elaiokanthali.md)",
         "](electrolytes.md)":         "](ilektrolytes-kai-proini-enydatosi.md)",
         "](vitamin-c.md)":            "](vitamini-c.md)",
+        "](cold-exposure.md)":        "](ekthesi-sto-kryo.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }
@@ -144,7 +146,7 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Gandia","Yadrick","Eby","Hemilä","Hemila","Nault","Lazzerini","Dhingra","Lassi","Meydani","Wilkinson","Velthuis",
     "Carlucci","Netter","Leake","Schisterman","Wong","Kılıç","Kilic","Wilborn","Brilla","Conte","Yee","Dréno","Dreno",
     "Heckmann","Mozaffar","Swardfager","Karashima","Person","Brewer","Camarata","Nations","Hedera","Jafek","Alexander",
-    "Chandra","Fosmire","Leitzmann","Duncan","Jayawardena","Hunter","Davis","King","Brown","Singh",
+    "Chandra","Fosmire","Leitzmann","Duncan","Jayawardena","Hunter","Davis","King","Singh",
     # vitamin-K2 project — acronyms/terms/trials/brands (>=3 char, keep Latin; K1/K2/K3 NOT added — 2-char, and gpt-4o keeps them)
     "MGP","dp-ucMGP","ucMGP","ucOC","cOC","PIVKA-II","PIVKA","VKOR","VKORC1","UBIAD1","GGCX","Gla","VKA","VKAs",
     "MK-4","MK-7","MK-8","MK-9","MK-13","INR","DOAC","DOACs","AVADEC","ECKO","Trevasc-HDK","iPACK-HD","K4Kidneys",
@@ -268,7 +270,9 @@ PROTECT_WORDS = ["Research Lab Wiki","GlyNAC","UC-II","Pro-Hyp","Hyp-Gly","GLP-1
     "Physicians' Health Study", "Health Professionals Follow-up Study", "Women's Antioxidant Cardiovascular Study", "Heart Protection Study", "Cache County", "Linus Pauling Institute", "Institute of Medicine", "Council for Responsible Nutrition", "Lotte and John Hecht Memorial Foundation", "McGuff",
     "Alveda Pharma", "Galera", "Increnovo", "LipoVantage", "Curesupport", "ADSO", "Empirical Labs", "Nutritional Biomimetics", "Analyze & Realize", "Sunstar",
     "Synlogic", "Oxidien", "Novome", "BioBridge", "Chinook", "Redoxon", "One A Day", "Nature's Bounty", "Centrum", "Centrum Silver",
-    "SunGold", "FoodData Central", "Kawasaki"
+    "SunGold", "FoodData Central", "Kawasaki",
+    # --- cold exposure (project 22, 2026-11-15): authors, programmes, trials, funders, acronyms; all >=3 chars, ast-asserted.
+    "1-RM","ACSM","ACTH","AMI","ASDAS","ASDAS-CRP","Achmea","Air Liquide","BARCIST","BASDAI","BASFI","BAT","BHD","BJSM","BVBA","Becher","CAD","CAPES","CHF","CIT","CK-MB","CMJ","COLD-CE","CPVT","CSA","CWE","CWI","CWT","DAS28","Dugué","ECG","ESR","ESSA","Embark Biotech","Espeland","Esperland","FAPESP","FDG","FDG-PET","FOXO1","HARS","HDRS-17","HIIT","ICEMAN","IL-1","IL-17","IL-17A","IL-18","IL-8","INSEP","INSERM","IRR","Inuteq","Janský","KIHD","Krioplanet","LOVE","LPS","LQT1","LQTS","Leppäluoto","MPE","MVIC","NCT04516018","NEFA","NFCI","NRS","NTR5183","NYHA","Novo Nordisk","OUTSIDE","PBC","PDK4","PEACE","PEACE and LOVE","PEDro","PMC","Piñero","Pound","ProCcare","QTc","QUT","REE","RICE","RNLI","SUCRA","SWEDEHEART","Søberg","Teległów","Tipton","UKRI","UMC","USA","WBC","Wim Hof","Wim Hof Method","Šrámek","Mirkin","IL-1ra","Pax7",
 ]
 _WORD_ALT = '|'.join(re.escape(w) for w in sorted(PROTECT_WORDS, key=len, reverse=True))
 # one left-to-right pass: footnote ref | md link | code span | emoji | entity | acronym | digit-token

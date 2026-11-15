@@ -1,0 +1,589 @@
+{
+ "questions": [
+  {
+   "n": 1,
+   "tier": "Tier 1",
+   "q": "In one study, how many of 24 healthy men showed brown-fat activity after 2 hours at 16 °C?",
+   "options": [
+    "23 of 24, and none at 22 °C",
+    "2 of 24",
+    "12 of 24",
+    "None, because adults carry no functional brown fat"
+   ],
+   "a": 0,
+   "why": "Biopsies confirm UCP1-positive brown fat in adults, and detection falls with age, BMI and summer."
+  },
+  {
+   "n": 2,
+   "tier": "Tier 1",
+   "q": "Why does a rise in plasma dopamine not show a rise in brain dopamine?",
+   "options": [
+    "Plasma dopamine and brain dopamine are the same pool",
+    "The blood-brain barrier blocks and degrades circulating monoamines, and the gut makes close to half of body dopamine",
+    "All blood dopamine comes from the brain",
+    "The brain releases its dopamine into the blood within minutes"
+   ],
+   "a": 1,
+   "why": "That is why Parkinson's disease is treated with L-dopa rather than dopamine, and no human brain-dopamine study of cold water was found."
+  },
+  {
+   "n": 3,
+   "tier": "Tier 1",
+   "q": "How does cold water change plasma noradrenaline?",
+   "options": [
+    "It rises about 10 % and stays high for a day",
+    "It rises 50-fold, far beyond anything exercise does",
+    "It rises 2- to 6-fold and returns to baseline about 30 minutes after rewarming",
+    "It does not change"
+   ],
+   "a": 2,
+   "why": "The rise sits inside the 1.5- to more than 20-fold range that exercise produces."
+  },
+  {
+   "n": 4,
+   "tier": "Tier 1",
+   "q": "What is the main acute danger of cold-water immersion?",
+   "options": [
+    "Hypothermia within the first two minutes",
+    "Frostbite of the toes",
+    "A sudden fall in blood sugar",
+    "Cold shock in the first minutes: gasping, hyperventilation and a fast heart rate"
+   ],
+   "a": 3,
+   "why": "At 10 °C the first 30 s gave about 47 breaths/min, 68 L/min and 128 beats/min, while lean swimmers lost only 1.57 °C/h of core temperature at 16 °C."
+  },
+  {
+   "n": 5,
+   "tier": "Tier 1",
+   "q": "About how many short immersions habituate the cold-shock response?",
+   "options": [
+    "About four",
+    "About forty",
+    "One",
+    "It never habituates"
+   ],
+   "a": 0,
+   "why": "Heart rate fell by a pooled 14 beats/min and ventilation by 21.3 L/min, but anxiety can reverse it and most of the tachycardia remains."
+  },
+  {
+   "n": 6,
+   "tier": "Tier 1",
+   "q": "What did breath-holding in 5 to 10 °C water do to the heart in healthy subjects?",
+   "options": [
+    "It caused no change in heart rhythm",
+    "It produced ectopic arrhythmias in 29 of 36 submersions, mostly just after the breath-hold ended",
+    "It caused arrhythmias only in people with known heart disease",
+    "It gave a slower, more stable rhythm that protects the heart"
+   ],
+   "a": 1,
+   "why": "The proposed mechanism is an autonomic conflict between cold shock and the diving response."
+  },
+  {
+   "n": 7,
+   "tier": "Tier 1",
+   "q": "What happened to surgical patients held at 34.7 °C instead of 36.6 °C?",
+   "options": [
+    "No difference in wound infections",
+    "Fewer wound infections in the cooler group",
+    "19 % against 6 % wound infections, and 2.6 more days in hospital",
+    "Half the hospital stay of the warmer group"
+   ],
+   "a": 2,
+   "why": "Hours of lowered core temperature impair infection defence; a plunge followed by rewarming is a different exposure."
+  },
+  {
+   "n": 8,
+   "tier": "Tier 2",
+   "q": "Against passive rest, what does cold water immersion after a hard session do to muscle soreness?",
+   "options": [
+    "It removes soreness completely in high-quality trials",
+    "It increases soreness",
+    "It has no effect on soreness at any time point",
+    "It lowers soreness (SMD −0.55 at 24 h, −0.93 at 72 h), but the evidence is low quality"
+   ],
+   "a": 3,
+   "why": "The Cochrane review pooled 17 small trials with 366 participants, and strength recovery did not change significantly."
+  },
+  {
+   "n": 9,
+   "tier": "Tier 2",
+   "q": "What does cold water immersion straight after resistance training do to strength gains?",
+   "options": [
+    "It reduces them by a small pooled effect (ES −0.23)",
+    "It doubles them",
+    "It increases them by a large effect",
+    "No trial has measured it"
+   ],
+   "a": 0,
+   "why": "Whole-body immersion alone was not significant (ES −0.08), and an umbrella review rated certainty low to very low."
+  },
+  {
+   "n": 10,
+   "tier": "Tier 2",
+   "q": "A leg cooled in 8 °C water for 20 minutes after lifting made how much myofibrillar protein over two weeks?",
+   "options": [
+    "About 11 % more per day",
+    "About 11 % less per day than the leg at 30 °C",
+    "The same amount as the warm leg",
+    "Three times as much"
+   ],
+   "a": 1,
+   "why": "Synthesis was 1.48 against 1.67 %/day, and muscle blood volume was lower right after immersion."
+  },
+  {
+   "n": 11,
+   "tier": "Tier 2",
+   "q": "What does cold water immersion after endurance or interval training do to aerobic adaptation?",
+   "options": [
+    "It doubles VO2max gains",
+    "It halves VO2max gains",
+    "It neither clearly harms nor clearly improves it",
+    "It blocks all mitochondrial adaptation"
+   ],
+   "a": 2,
+   "why": "The pooled effect for maximal aerobic power was SMD −0.07, with a confidence interval spanning both directions."
+  },
+  {
+   "n": 12,
+   "tier": "Tier 2",
+   "q": "How much heat did directly measured brown fat make during mild cold in people with the largest depots?",
+   "options": [
+    "About 500 kcal a day",
+    "About 2,000 kcal per session",
+    "About half of all cold-induced heat",
+    "About 6.3 kcal a day, about 1 % of the extra heat the body makes"
+   ],
+   "a": 3,
+   "why": "Deep muscles are a major contributor to cold-induced heat, and muscle glucose uptake far exceeded brown-fat uptake."
+  },
+  {
+   "n": 13,
+   "tier": "Tier 2",
+   "q": "What does cold acclimation change?",
+   "options": [
+    "Where heat comes from: shivering falls while total heat production stays the same",
+    "Total heat production, which doubles",
+    "Nothing at all, including shivering",
+    "Shivering, which rises 36 %"
+   ],
+   "a": 0,
+   "why": "Shivering fell 21 to 36 % after 7 days to 4 weeks with no net change in whole-body thermogenesis."
+  },
+  {
+   "n": 14,
+   "tier": "Tier 2",
+   "q": "What happened to food intake at the next meal after cold-water immersion?",
+   "options": [
+    "People ate about 230 kcal less",
+    "People ate about 230 to 270 kcal more, more than the session burned",
+    "Intake did not change",
+    "People ate about 2,000 kcal more"
+   ],
+   "a": 1,
+   "why": "In 11 men, intake after cycling in 20 °C water was 44 % above that after neutral water."
+  },
+  {
+   "n": 15,
+   "tier": "Tier 2",
+   "q": "In the large trial of 30 to 90 seconds of cold at the end of a hot shower, what changed?",
+   "options": [
+    "Illness days halved while absence did not change",
+    "Both absence and illness days rose",
+    "Self-reported sickness absence fell 29 %, but illness days did not change significantly",
+    "Laboratory-confirmed infections fell 29 %"
+   ],
+   "a": 2,
+   "why": "The 3,018-adult trial was unblinded, with self-reported outcomes and unverified compliance."
+  },
+  {
+   "n": 16,
+   "tier": "Tier 2",
+   "q": "In the endotoxin trial, what changed the inflammatory response?",
+   "options": [
+    "Cold training alone",
+    "Neither cold nor breathing",
+    "Only the untrained control condition",
+    "The breathing technique, with cold plus breathing giving the largest effect"
+   ],
+   "a": 3,
+   "why": "Cold alone did not change the response (P = .77), the breathing did (P = .002), and the combination raised IL-10 44 % and lowered TNF-α 32 %."
+  },
+  {
+   "n": 17,
+   "tier": "Tier 2",
+   "q": "What does a cold-water plunge do to inflammatory markers?",
+   "options": [
+    "It raises them for at least an hour",
+    "It lowers them immediately and they stay low",
+    "It leaves them unchanged",
+    "It raises them only after a week"
+   ],
+   "a": 0,
+   "why": "Pooled SMD was 1.03 immediately and 1.26 at one hour, and 10 minutes at 10 °C did not lower muscle inflammation compared with light cycling."
+  },
+  {
+   "n": 18,
+   "tier": "Tier 2",
+   "q": "What does a cold stimulus do to flow across coronary stenoses above 50 %?",
+   "options": [
+    "It raises flow by 65 %",
+    "It cuts flow by 39 %",
+    "It leaves flow unchanged",
+    "It doubles flow"
+   ],
+   "a": 1,
+   "why": "The same test raised flow 65 % in normal arteries, and 22 °C water raised ventricular ectopy about fivefold in heart failure."
+  },
+  {
+   "n": 19,
+   "tier": "Tier 2",
+   "q": "How is outdoor temperature associated with heart-attack risk?",
+   "options": [
+    "About a 20 % rise in risk per 1 °C fall",
+    "Lower risk in colder weather",
+    "About a 2.0 % rise in risk per 1 °C fall over the next 28 days",
+    "No association"
+   ],
+   "a": 2,
+   "why": "The rise concentrates in older and already-ill people, and it is weather evidence, not a test of plunging."
+  },
+  {
+   "n": 20,
+   "tier": "Tier 2",
+   "q": "What does hyperventilation before a cold breath-hold do?",
+   "options": [
+    "It shortens breath-hold time and makes it safer",
+    "It prevents blackout",
+    "It has no effect on breath-hold time",
+    "It more than doubles breath-hold time and is the documented route to silent blackout"
+   ],
+   "a": 3,
+   "why": "In 58 underwater blackout cases after hyperventilation, 23 people died."
+  },
+  {
+   "n": 21,
+   "tier": "Tier 2",
+   "q": "Where does cold water clearly help exercise performance?",
+   "options": [
+    "Pre-cooling before exercise in the heat (g = +0.53)",
+    "Before a sprint in cold weather",
+    "Before a strength test in a cool room",
+    "Ice slurry, which gave the largest effect"
+   ],
+   "a": 0,
+   "why": "Ice slurry showed no clear effect, and 15 minutes of cold water between two hot bouts prevented a 4.1 % fall in cycling work."
+  },
+  {
+   "n": 22,
+   "tier": "Tier 2",
+   "q": "How much do ten minutes at 10 °C cool the quadriceps?",
+   "options": [
+    "The same amount at every depth",
+    "6.40 °C at 1 cm but only 1.61 °C at 3 cm",
+    "More at 3 cm than at 1 cm",
+    "Not at all at 1 cm"
+   ],
+   "a": 1,
+   "why": "Body fat percentage predicted cooling, and women cooled at about half the rate of men until fatness was matched."
+  },
+  {
+   "n": 23,
+   "tier": "Tier 2",
+   "q": "Which cooled deep leg muscle more: 10 minutes in 8 °C water or 2 minutes of −110 °C air?",
+   "options": [
+    "The air, because it is colder",
+    "Both cooled the muscle by exactly the same amount",
+    "The water, 2.9 °C against 1.3 °C",
+    "Neither cooled the muscle"
+   ],
+   "a": 2,
+   "why": "Air conducts heat poorly, so a colder chamber cools the skin more but not the deeper tissue."
+  },
+  {
+   "n": 24,
+   "tier": "Tier 3",
+   "q": "What does the pooled evidence say about cold exposure and mood?",
+   "options": [
+    "It proves cold cures depression",
+    "It proves cold worsens mood",
+    "Every randomised trial found a large mood benefit",
+    "It leans favourable but does not establish a benefit"
+   ],
+   "a": 3,
+   "why": "In 84 women, cold showers plus Wim Hof breathing and warm showers plus slow breathing both cut depressive symptoms 24 %."
+  },
+  {
+   "n": 25,
+   "tier": "Tier 3",
+   "q": "Where do the swimmers' mood and menopause benefits come from?",
+   "options": [
+    "Self-selected surveys with no comparison group",
+    "Large placebo-controlled randomised trials",
+    "Hormone measurements in clinics",
+    "Brain-imaging studies"
+   ],
+   "a": 0,
+   "why": "63.3 % of perimenopausal women swam to relieve the very symptoms they then rated."
+  },
+  {
+   "n": 26,
+   "tier": "Tier 3",
+   "q": "How did 34.7 °C water presented as a recovery treatment compare with 10.3 °C immersion?",
+   "options": [
+    "It was much less effective",
+    "It was as effective",
+    "It caused injury",
+    "It was never tested"
+   ],
+   "a": 1,
+   "why": "Part of the felt recovery from an ice bath is expectation."
+  },
+  {
+   "n": 27,
+   "tier": "Tier 3",
+   "q": "Where did the +43 % insulin sensitivity result come from?",
+   "options": [
+    "Thousands of healthy adults followed for a year",
+    "Brown fat alone in lean athletes",
+    "8 people with type 2 diabetes, through muscle, and it disappeared when shivering was prevented",
+    "A single 3-minute plunge"
+   ],
+   "a": 2,
+   "why": "Sixteen daily 10-minute plunges at 14 °C temporarily decreased insulin sensitivity."
+  },
+  {
+   "n": 28,
+   "tier": "Tier 3",
+   "q": "What does whole-body cryotherapy do in rheumatic disease?",
+   "options": [
+    "It lowers CRP to normal with no change in pain",
+    "It worsens both pain and CRP",
+    "It cures rheumatoid arthritis",
+    "It improves pain without a consistent fall in CRP"
+   ],
+   "a": 3,
+   "why": "In RA, −130 °C cut pain by 1.31 NRS points versus control, and in ankylosing spondylitis CRP did not change."
+  },
+  {
+   "n": 29,
+   "tier": "Tier 3",
+   "q": "What followed brief foot chilling in the cold trial?",
+   "options": [
+    "More self-reported colds, 13 of 90 against 5 of 90, without virological testing",
+    "Fewer colds after chilling",
+    "Laboratory-confirmed flu in half the chilled group",
+    "No colds in either group"
+   ],
+   "a": 0,
+   "why": "The result rests on 8 extra colds, and cell studies show that cooler airways weaken antiviral defences."
+  },
+  {
+   "n": 30,
+   "tier": "Tier 3",
+   "q": "What is the optimal temperature and duration for recovery immersion?",
+   "options": [
+    "Exactly 11 °C for 11 minutes",
+    "None exists; the meta-analyses disagree on whether colder or shorter is better",
+    "0 °C for 30 minutes",
+    "15 °C for 2 minutes, proven best"
+   ],
+   "a": 1,
+   "why": "Recovery trials span about 5 to 15 °C for 2.5 to 15 minutes, and certainty is low to very low."
+  },
+  {
+   "n": 31,
+   "tier": "Tier 3",
+   "q": "What evidence supports ice for an acute soft-tissue injury?",
+   "options": [
+    "Strong evidence that ice speeds healing",
+    "Strong human evidence that ice harms healing",
+    "22 RCTs with a mean PEDro score of 3.4 out of 10, and no human trial shows that ice speeds or harms healing",
+    "No trial has ever studied it"
+   ],
+   "a": 2,
+   "why": "The guideline favours supervised exercise, and PEACE and LOVE is an editorial, not a study."
+  },
+  {
+   "n": 32,
+   "tier": "Tier 4",
+   "q": "What is the +250 % dopamine figure?",
+   "options": [
+    "A brain scan showing hours of raised dopamine",
+    "A large trial of daily cold showers",
+    "A mood study of winter swimmers",
+    "One plasma measurement during 1 hour at 14 °C that the same laboratory did not reproduce"
+   ],
+   "a": 3,
+   "why": "There was no brain measure, no mood outcome and no statement that levels stayed high for hours."
+  },
+  {
+   "n": 33,
+   "tier": "Tier 4",
+   "q": "What did three 4-week blocks of post-exercise immersion do to rugby players' fat mass?",
+   "options": [
+    "Nothing; fat mass did not change",
+    "Fat mass fell 10 %",
+    "Fat mass rose",
+    "Fat mass halved while lean mass doubled"
+   ],
+   "a": 0,
+   "why": "No study has shown weight loss from cold-induced brown-fat activation."
+  },
+  {
+   "n": 34,
+   "tier": "Tier 4",
+   "q": "Where does the 11 minutes a week figure come from?",
+   "options": [
+    "A randomised dose-finding trial",
+    "The self-reported mean weekly time of 7 or 8 Danish winter swimmers in a cross-sectional study",
+    "A public-health guideline",
+    "The dose that maximised fat loss in 1,000 adults"
+   ],
+   "a": 1,
+   "why": "The swimmers also took 57 minutes of sauna, and the study tested no dose."
+  },
+  {
+   "n": 35,
+   "tier": "Tier 4",
+   "q": "Why does the claim that cold boosts the immune system fail?",
+   "options": [
+    "Laboratory-confirmed infections fell by half",
+    "White cell counts doubled for weeks",
+    "No study found measured laboratory-confirmed infections, and pooled immune markers showed no effect",
+    "Pooled immune markers showed a large boost"
+   ],
+   "a": 2,
+   "why": "Pooled markers gave SMD −0.16 immediately and −0.18 at one hour, from about 159 people."
+  },
+  {
+   "n": 36,
+   "tier": "Tier 4",
+   "q": "What did the Cochrane review find for whole-body cryotherapy?",
+   "options": [
+    "40 high-quality trials favouring chambers",
+    "That chambers cool muscle more than water",
+    "That chambers won every head-to-head trial",
+    "4 RCTs in 64 people with very low quality evidence"
+   ],
+   "a": 3,
+   "why": "A 13-RCT meta-analysis found cold water better for 24-hour soreness, and after a marathon chamber cold harmed muscle function compared with water."
+  },
+  {
+   "n": 37,
+   "tier": "Tier 4",
+   "q": "What is wrong with the claim that contrast therapy flushes lactic acid?",
+   "options": [
+    "Lactate does not cause next-day soreness, and contrast clears it only slightly faster",
+    "Contrast removes all lactate instantly",
+    "Lactate is the main cause of next-day soreness",
+    "Contrast therapy raises lactate"
+   ],
+   "a": 0,
+   "why": "Downhill running caused soreness without a lactate rise, and active recovery near the lactate threshold clears lactate fastest."
+  },
+  {
+   "n": 38,
+   "tier": "Tier 4",
+   "q": "What did two hours at 10 °C do to testosterone in 20 men?",
+   "options": [
+    "It doubled testosterone",
+    "Nothing; testosterone and LH were unchanged",
+    "It raised serum testosterone 21 %",
+    "It raised testosterone permanently"
+   ],
+   "a": 1,
+   "why": "Cold water after squats left testosterone 10.4 % below baseline at 60 minutes, and the one rise was salivary, not seen in serum in another trial."
+  },
+  {
+   "n": 39,
+   "tier": "Tier 4",
+   "q": "What is the Finnish HR 0.37 for sudden cardiac death?",
+   "options": [
+    "A winter-swimming outcome trial",
+    "A Wim Hof breathing result",
+    "A sauna result with no cold-water exposure",
+    "A cold-shower cohort result"
+   ],
+   "a": 2,
+   "why": "No outcome study supports a heart benefit, and 15 days of daily Wim Hof Method changed no cardiovascular measure."
+  },
+  {
+   "n": 40,
+   "tier": "Practical",
+   "q": "What happens to measured cognition in cold of 10 °C or less?",
+   "options": [
+    "It rises about 14 %",
+    "It does not change",
+    "It falls only for the first 10 seconds",
+    "It falls about 14 % and can stay impaired 60 minutes after rewarming"
+   ],
+   "a": 3,
+   "why": "Schedule skilled work before, not straight after, a long or very cold exposure."
+  },
+  {
+   "n": 41,
+   "tier": "Practical",
+   "q": "If muscle growth is your goal, how should you time cold exposure?",
+   "options": [
+    "Keep it away from the minutes after lifting; a 4 to 6 hour gap is untested",
+    "Plunge immediately after every session",
+    "Wait 4 to 6 hours, a proven fix",
+    "Timing makes no difference"
+   ],
+   "a": 0,
+   "why": "Every training trial applied cold within minutes, and muscle perfusion stayed lower for 180 minutes after immersion."
+  },
+  {
+   "n": 42,
+   "tier": "Practical",
+   "q": "About how many extra kcal does a 3-minute plunge plausibly burn?",
+   "options": [
+    "About 500 kcal",
+    "About 10 to 15 kcal",
+    "About 1,000 kcal",
+    "About 250 kcal, the same as the extra food eaten after"
+   ],
+   "a": 1,
+   "why": "That is less than the 230 to 270 kcal extra that people ate at the next meal after immersion."
+  },
+  {
+   "n": 43,
+   "tier": "Practical",
+   "q": "In the shower trial, how did 30 seconds of cold compare with 90 seconds for sick-leave days?",
+   "options": [
+    "Only 90 seconds worked",
+    "Only 60 seconds worked",
+    "30 seconds performed as well as 90 seconds",
+    "Neither worked, but 10 minutes did"
+   ],
+   "a": 2,
+   "why": "The arms did not differ (P = 0.992), and a 15 °C shower does not cool the body the way immersion does."
+  },
+  {
+   "n": 44,
+   "tier": "Practical",
+   "q": "Does the time of day matter for cold-induced thermogenesis?",
+   "options": [
+    "Yes: morning cold doubled it",
+    "Yes: evening cold abolished it",
+    "Yes: only fasted cold produced any",
+    "No: it was 16.8 % at 08:00 and 15.7 % at 18:00"
+   ],
+   "a": 3,
+   "why": "The crossover found no difference (P = 0.72), and evening post-exercise immersion left whole-night sleep unchanged."
+  },
+  {
+   "n": 45,
+   "tier": "Practical",
+   "q": "Why do people with cold urticaria need a medical assessment before regular plunging?",
+   "options": [
+    "37 % of test-positive patients had anaphylaxis, most often from full immersion",
+    "Cold urticaria only affects the hands",
+    "The only risk is mild itching",
+    "Cold water cures cold urticaria"
+   ],
+   "a": 0,
+   "why": "People with coronary disease, heart failure, a channelopathy or unexplained fainting also need an assessment first."
+  }
+ ]
+}

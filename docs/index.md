@@ -168,6 +168,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](vitamin-c.md)
 
+-   :material-snowflake:{ .lg .middle } __Deliberate Cold Exposure & Ice Baths: What It Actually Does vs What People Think__
+
+    ---
+
+    A short, strong stress response with modest, mostly subjective benefits and a real risk in the first minutes. The "+250 % dopamine" is plasma dopamine after an hour at 14 °C; ice baths ease soreness a little and, straight after lifting, blunt muscle growth; brown fat burns about 6 kcal a day while people eat 230 to 270 kcal more afterwards; "11 minutes a week" is a descriptive mean, not a dose. **274 cited sources**, all PMIDs verified.
+
+    [:octicons-arrow-right-24: Read the research](cold-exposure.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

@@ -26,7 +26,7 @@ BARE_YEAR = re.compile(rf"(?<![\wͰ-Ͽ]){ARTS}\s+\**((?:19|20)\d\d)\**\s+(?![\-�
 LATIN = re.compile(r"(?<![\w/.\-@#])[a-z]{4,}(?:-[a-z]{3,})*(?![\w/.\-@])")
 STRIP = re.compile(r"\$[^$]*\$|`[^`]*`|\]\([^)]*\)|https?://\S+|<[^>]+>|\"[A-Za-z_]+\":|^\s*(?:!!!|\?\?\?\+?)\s+[a-z]+|\bin (?:vivo|vitro|situ)\b|\bet al\b|&[a-z]+;")
 # False friends: Greek words a machine translation picked for an English research term (2026-11-10 reviews).
-FALSE_FRIENDS = {"πισίν": "pool (pooled analysis) -> συγκεντρωτική ανάλυση", "οθόνη": "screen (research) -> διαλογή",
+FALSE_FRIENDS = {"αυτόνομη σύγκρουση": "autonomic conflict -> αυτονομική σύγκρουση (cold exposure 2026-11-15)", "υπόθεμα": "hypothesis paper -> υπόθεση (υπόθεμα = suppository; 2026-11-15)", "Άμετρα μέτρα": "direct measures -> άμεσες μετρήσεις (2026-11-15)", "πισίν": "pool (pooled analysis) -> συγκεντρωτική ανάλυση", "οθόνη": "screen (research) -> διαλογή",
                  "μονόγραμμα": "monograph -> μονογραφία", "διαρθρικ": "transrectal -> διορθικό", "με πλύση": "wash-in -> φάση εισαγωγής",
                  "ανταπτογόν": "adaptogen -> προσαρμογόνο", "γλυκανισμέν": "sweetened -> γλυκασμένη"}
 # Possessives that belong to a proper name and stay (trial and study names, statistics), checked 2026-11-10.
