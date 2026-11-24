@@ -47,6 +47,7 @@ PAGES = {
         "](electrolytes.md)":         "](ilektrolytes-kai-proini-enydatosi.md)",
         "](vitamin-c.md)":            "](vitamini-c.md)",
         "](cold-exposure.md)":        "](ekthesi-sto-kryo.md)",
+        "](electric-vs-manual-toothbrush.md)": "](ilektriki-enanti-cheirokinitis-odontovourtsas.md)",
         "](methodology.md)":          "](methodologia.md)",
     }),
 }

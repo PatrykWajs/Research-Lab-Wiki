@@ -176,6 +176,14 @@ Self-directed, fully-cited investigations — each one traced to peer-reviewed s
 
     [:octicons-arrow-right-24: Read the research](cold-exposure.md)
 
+-   :material-tooth-outline:{ .lg .middle } __Electric vs Manual Toothbrushes: What the Evidence Shows__
+
+    ---
+
+    Powered brushes improve average plaque and gingivitis control. This review separates those benefits from cavity prevention, tooth-retention associations, safety, apps, and uncertain results in children, older adults, disability, and braces. **29 sources, 40 findings**, with a replayable quiz.
+
+    [:octicons-arrow-right-24: Read the research](electric-vs-manual-toothbrush.md)
+
 -   :material-scale-balance:{ .lg .middle } __Methodology__
 
     ---

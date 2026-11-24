@@ -34,6 +34,14 @@ NAME_POSS = {"Men's", "Women's", "Physicians'", "Cohen's"}
 UNITS = {"mmol", "nmol", "pmol", "kcal", "days", "week", "weeks"}  # units and the like that stay Latin
 
 
+def false_friends(text, english=None):
+    """A physical display is correctly οθόνη; study screening is not (2026-11-24)."""
+    hits = [k for k in FALSE_FRIENDS if k in text]
+    if english and re.search(r"\bdisplay\b", english, re.I):
+        hits = [k for k in hits if k != "οθόνη"]
+    return hits
+
+
 def candidates():
     out = []
     for slug, el_name in sorted(P.page_map().items()):
@@ -54,7 +62,7 @@ def candidates():
                 kinds["possessive"] = poss
             if BARE_YEAR.search(text):
                 kinds["bare_year"] = [m.group(0) for m in BARE_YEAR.finditer(text)]
-            ff = [k for k in FALSE_FRIENDS if k in text]
+            ff = false_friends(text, en[i - 1] if aligned else None)
             if ff:
                 kinds["false_friend"] = ff
             lat = [w for w in LATIN.findall(text) if w not in UNITS]
